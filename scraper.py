@@ -19,42 +19,44 @@ BLACKLIST_WORDS = [
     "moda", "sfilata", "collezione"
 ]
 
-# KEYWORD NDRANGHETA SPECIFICHE (non generiche "mafia")
+# KEYWORD NDRANGHETA SPECIFICHE
 KEYWORDS_NDRANGHETA_SPECIFIC = [
     "ndrangheta", "ndranghet", "'ndrangheta", "'ndrine", "ndrina",
     "cosca calabra", "boss calabra", "mafia calabra",
     "piromalli", "molè", "nirta", "pesce", "vottari", "cordì",
     "mantella", "bonavota", "grande aracri", "città di 'ndrangheta",
     "locri", "siderno", "rosarno", "san luca", "platì", "africo",
-    "aspromonte", "locride", "crotonese", "reggino"
+    "aspromonte", "locride", "crotonese", "reggino",
+    "bellocco", "pesce", "piromalli", "molè", "nirta"
 ]
 
-# KEYWORD CALABRIA (solo se combinate con contesto criminale)
+# KEYWORD CALABRIA
 KEYWORDS_CALABRIA = [
     "calabria", "reggio calabria", "cosenza", "catanzaro",
-    "vibo valentia", "crotone", "lametino"
+    "vibo valentia", "crotone", "lametino", "lametzia"
 ]
 
-# KEYWORD CRIMINALI (da combinare con Calabria per 'Ndrangheta)
+# KEYWORD CRIMINALI
 KEYWORDS_CRIME = [
     "arresto", "arresti", "ordinanza", "custodia cautelare", "fermo",
     "scarcerazione", "scarcerato", "fine pena", "domiciliari",
     "cocaina", "hashish", "droga", "narcotraffico", "spaccio",
     "omicidio", "agguato", "spari", "killer", "attentato", "gambizzato",
-    "auto in fiamme", "incendio doloso", "auto bruciata",
+    "auto in fiamme", "incendio doloso", "auto bruciata", "incendio",
     "sequestro", "blitz", "operazione", "maxi-operazione", "retata",
     "carabinieri", "guardia di finanza", "dda", "ros", "scop",
     "procura", "antimafia", "ergastolo", "condanna",
     "riciclaggio", "usura", "estorsione", "pizzo",
     "traffico internazionale", "clan", "famiglia criminale",
-    "latitante", "mafia", "cosa nostra", "camorra", "sacra corona unita"
+    "latitante", "mafia", "cosa nostra", "camorra", "sacra corona unita",
+    "boss", "cosca"
 ]
 
 # KEYWORD ALTA PRIORITÀ
 KEYWORDS_HIGH_PRIORITY = [
     "scarcerato", "fine pena", "boss fuori", "libertà",
     "omicidio", "agguato", "spari", "killer", "attentato",
-    "auto in fiamme", "gambizzato",
+    "auto in fiamme", "gambizzato", "incendio",
     "maxi-sequestro", "tonnellate", "maxi-operazione", "blitz",
     "ergastolo"
 ]
@@ -80,7 +82,7 @@ def is_blacklisted(text):
     return False
 
 def is_ndrangheta_specific(text):
-    """Notizia SPECIFICA di 'Ndrangheta (non mafia generica)"""
+    """Notizia SPECIFICA di 'Ndrangheta"""
     text_lower = text.lower()
     # Deve contenere almeno una keyword specifica 'ndrangheta
     has_ndrangheta = any(k in text_lower for k in KEYWORDS_NDRANGHETA_SPECIFIC)
@@ -91,10 +93,14 @@ def is_ndrangheta_specific(text):
     has_crime = any(k in text_lower for k in KEYWORDS_CRIME)
     if has_calabria and has_crime:
         return True
+    # OPPURE: Solo contesto criminale forte (boss, cosca, clan + crime)
+    has_boss = any(k in text_lower for k in ["boss", "cosca", "clan", "latitante"])
+    if has_boss and has_crime:
+        return True
     return False
 
 def is_crime_italy(text):
-    """Notizia di criminalità italiana (camorra, cosa nostra, ecc.)"""
+    """Notizia di criminalità italiana"""
     text_lower = text.lower()
     crime_keywords = ["mafia", "cosa nostra", "camorra", "sacra corona",
                       "arresto", "arresti", "omicidio", "agguato",
@@ -104,7 +110,7 @@ def is_crime_italy(text):
     return any(k in text_lower for k in crime_keywords)
 
 def is_news_italy_relevant(text):
-    """Notizia italiana rilevante (politica, cronaca importante)"""
+    """Notizia italiana rilevante"""
     text_lower = text.lower()
     italy_keywords = ["meloni", "governo", "parlamento", "legge",
                       "roma", "italia", "presidente", "ministro",
@@ -174,7 +180,7 @@ def clean_title(title):
 
 def scrape_generic_html(url, source_name, article_selector="article"):
     try:
-        print("Scraping " + source_name + "...")
+        print("Scraping " + source_name + " da " + url)
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=15) as response:
@@ -263,13 +269,30 @@ def scrape_rss(feed_url, source_name):
 
 def fetch_all_news():
     all_news = []
+    
+    # Fonti SPECIALIZZATE antimafia
     all_news.extend(scrape_generic_html("https://www.antimafiaduemila.com", "antimafiaduemila.com"))
+    
+    # Fonti LOCALI calabresi (homepage + sezioni cronaca)
     all_news.extend(scrape_generic_html("https://www.lacnews24.it", "lacnews24.it"))
+    all_news.extend(scrape_generic_html("https://www.lacnews24.it/cronaca/", "lacnews24.it-cronaca"))
     all_news.extend(scrape_generic_html("https://www.strettoweb.com", "strettoweb.com"))
+    all_news.extend(scrape_generic_html("https://www.strettoweb.com/news/cronaca/", "strettoweb.com-cronaca"))
     all_news.extend(scrape_generic_html("https://www.quotidianodelsud.it", "quotidianodelsud.it"))
+    all_news.extend(scrape_generic_html("https://www.corrieredellacalabria.it", "corrieredellacalabria.it"))
+    all_news.extend(scrape_generic_html("https://www.lametino.it", "lametino.it"))
+    all_news.extend(scrape_generic_html("https://www.lametino.it/cronaca/", "lametino.it-cronaca"))
+    all_news.extend(scrape_generic_html("https://www.zoom24.it", "zoom24.it"))
+    all_news.extend(scrape_generic_html("https://www.retenews24.it", "retenews24.it"))
+    
+    # Fonti NAZIONALI (RSS)
     all_news.extend(scrape_rss("https://www.ilfattoquotidiano.it/feed/", "ilfattoquotidiano.it"))
     all_news.extend(scrape_rss("https://www.ilsole24ore.com/rss/italia.xml", "ilsole24ore.com"))
+    all_news.extend(scrape_rss("https://www.ilsole24ore.com/rss/cronache.xml", "ilsole24ore.com-cronache"))
+    
+    # Fonti INTERNAZIONALI
     all_news.extend(scrape_rss("http://feeds.bbci.co.uk/news/world/rss.xml", "bbc.com"))
+    
     return all_news
 
 def classify_news(item):
@@ -280,29 +303,29 @@ def classify_news(item):
     if is_blacklisted(full_text):
         return None, [], 0
     
-    # 1. NDRANGHETA (priorità massima, controllo più stringente)
+    # 1. NDRANGHETA (priorità massima)
     if is_ndrangheta_specific(full_text):
         priority = calculate_priority(full_text)
         categories = categorize_news(full_text, "ndrangheta")
         return "ndrangheta", categories, priority
     
-    # 2. CRIMINALITÀ ITALIANA (camorra, cosa nostra, ecc.)
+    # 2. CRIMINALITÀ ITALIANA
     if is_crime_italy(full_text):
         priority = calculate_priority(full_text)
         categories = ["crime_italy"]
         return "crime_italy", categories, priority
     
-    # 3. MONDO (notizie internazionali rilevanti)
+    # 3. MONDO
     if is_news_world_relevant(full_text):
         categories = categorize_news(full_text, "mondo")
         return "mondo", categories, 0
     
-    # 4. ITALIA (notizie italiane rilevanti)
+    # 4. ITALIA
     if is_news_italy_relevant(full_text):
         categories = categorize_news(full_text, "italia")
         return "italia", categories, 0
     
-    # Non classificata - scartare
+    # Non classificata
     return None, [], 0
 
 def process_news(raw_news):
@@ -310,7 +333,6 @@ def process_news(raw_news):
     seen_titles = set()
     
     for item in raw_news:
-        # Evita duplicati (stesso titolo)
         title_key = item["title"][:50].lower()
         if title_key in seen_titles:
             continue
