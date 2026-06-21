@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#1a1a1a">
+    <title>Calabria Crime News</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="style.css">
+    <link rel="apple-touch-icon" href="icon-192.png">
+</head>
+<body>
+    <!-- Header -->
+    <header class="app-header">
+        <h1>🔍 Calabria Crime News</h1>
+        <button id="btn-refresh" class="btn-icon">🔄</button>
+    </header>
+
+    <!-- Main Content -->
+    <main class="app-content">
+        <!-- Sezione Home -->
+        <section id="home" class="tab-content active">
+            <div class="section-title">🚨 Breaking News</div>
+            <div id="breaking-news" class="news-list">
+                <!-- Le notizie verranno caricate qui -->
+                <div class="news-card">
+                    <div class="news-title">Caricamento notizie in corso...</div>
+                    <div class="news-summary">Le notizie appariranno qui non appena il sistema sarà collegato.</div>
+                </div>
+            </div>
+
+            <div class="section-title">📰 Top News Italia & Mondo</div>
+            <div id="top-news" class="news-list">
+                <div class="news-card">
+                    <div class="news-title">Caricamento notizie in corso...</div>
+                    <div class="news-summary">Le notizie appariranno qui non appena il sistema sarà collegato.</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sezione Ndrangheta -->
+        <section id="ndrangheta" class="tab-content">
+            <div class="section-title">🔍 Focus 'Ndrangheta & Criminalità</div>
+            
+            <!-- Filtri -->
+            <div class="filter-chips">
+                <button class="chip active" data-filter="all">Tutte</button>
+                <button class="chip" data-filter="arresti">Arresti</button>
+                <button class="chip" data-filter="scarcerazioni">Scarcerazioni</button>
+                <button class="chip" data-filter="droga">Droga</button>
+                <button class="chip" data-filter="sangue">Sangue</button>
+            </div>
+
+            <div id="ndrangheta-news" class="news-list">
+                <div class="news-card">
+                    <div class="news-title">Caricamento notizie in corso...</div>
+                    <div class="news-summary">Le notizie sulla 'ndrangheta appariranno qui.</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sezione Italia & Mondo -->
+        <section id="mondo" class="tab-content">
+            <div class="section-title">🌍 Italia & Mondo</div>
+            <div id="mondo-news" class="news-list">
+                <div class="news-card">
+                    <div class="news-title">Caricamento notizie in corso...</div>
+                    <div class="news-summary">Le notizie dall'Italia e dal mondo appariranno qui.</div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sezione Impostazioni -->
+        <section id="settings" class="tab-content">
+            <div class="section-title">⚙️ Impostazioni</div>
+            
+            <div class="settings-group">
+                <div class="setting-item">
+                    <span>Notifiche Push</span>
+                    <label class="switch">
+                        <input type="checkbox" id="toggle-notifications" checked>
+                        <span class="slider"></span>
+                    </label>
+                </div>
+                
+                <div class="setting-item">
+                    <span>Notifiche "Calde" (Maxi-operazioni)</span>
+                    <label class="switch">
+                        <input type="checkbox" id="toggle-hot-news" checked>
+                        <span class="slider"></span>
+                    </label>
+                </div>
+            </div>
+
+            <div class="settings-info">
+                <p>📱 Per installare l'app:</p>
+                <ol>
+                    <li>Apri il menu di Chrome (⋮)</li>
+                    <li>Seleziona "Aggiungi alla schermata Home"</li>
+                    <li>L'app apparirà con la sua icona</li>
+                </ol>
+            </div>
+        </section>
+    </main>
+
+    <!-- Bottom Navigation -->
+    <nav class="bottom-nav">
+        <button class="nav-btn active" data-tab="home">
+            <span class="nav-icon">🏠</span>
+            <span class="nav-label">Home</span>
+        </button>
+        <button class="nav-btn" data-tab="ndrangheta">
+            <span class="nav-icon">🔍</span>
+            <span class="nav-label">Ndrangheta</span>
+        </button>
+        <button class="nav-btn" data-tab="mondo">
+            <span class="nav-icon">🌍</span>
+            <span class="nav-label">Mondo</span>
+        </button>
+        <button class="nav-btn" data-tab="settings">
+            <span class="nav-icon">⚙️</span>
+            <span class="nav-label">Impostazioni</span>
+        </button>
+    </nav>
+
+    <script src="app.js"></script>
+</body>
+</html>
