@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-21T11:05:42.885439",
-  "total_news": 50,
+  "last_update": "2026-06-21T11:20:01.582084",
+  "total_news": 62,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -38,6 +38,19 @@
       "priority": 10,
       "categories": [
         "arresti",
+        "sangue"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ripreso da un drone della Regione mentre appicca il rogo: denunciato per incendio boschivo doloso nel Cosentino – VIDEO02:08",
+      "summary": "02:08",
+      "link": "https://www.corrieredellacalabria.it/2026/06/17/ripreso-da-un-drone-della-regione-mentre-appicca-il-rogo-denunciato-per-incendio-boschivo-doloso-nel-cosentino-video/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 10,
+      "categories": [
         "sangue"
       ],
       "is_high_priority": false
@@ -109,19 +122,6 @@
       "is_high_priority": false
     },
     {
-      "title": "La calabrese Teresa Maradei all’assemblea Confcommercio a Roma: «Mi ha colpito il richiamo al “sense of Italy”»",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/economia-e-lavoro/la-calabrese-teresa-maradei-allassemblea-confcommercio-a-roma-mi-ha-colpito-il-richiamo-al-sense-of-italy-nt6k9pcg",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "La Sila incanta anche in Europa: una tv tedesca gira un documentariotra lupi e cicognenere",
       "summary": "La troupe del network SWR, accolta a Lorica dal direttore del Parco Nazionale silano Ilario Treccosti, ha girato anche nella Riserva del Vergari, dove vivono due coppie del rarissimo uccello. Le immagini saranno trasmesse anche in Francia",
       "link": "https://www.lacnews24.it/ambiente/la-sila-incanta-anche-in-europa-una-tv-tedesca-gira-un-documentario-tra-lupi-e-cicogne-nere-s4s1ve3s",
@@ -135,7 +135,7 @@
       "is_high_priority": false
     },
     {
-      "title": "Strage di Amendolara, un’inchiesta sul caporalato in Basilicata può aprirenuovi scenarisul movente del massacro",
+      "title": "Strage di Amendolara, un’inchiesta sul caporalato in Basilicata può aprire nuovi scenari sul movente del massacro",
       "summary": "Nelle denunce confluite nel fascicolo aperto a Castrovillari compaiono la stessa azienda agricola, presunti caporali e persone legate ai due pachistani arrestati per il delitto. L’indagine aperta a Matera nel 2025 potrebbe chiarire il contesto del rogo costato la vita a quattro lavoratori migranti",
       "link": "https://www.lacnews24.it/cronaca/strage-di-amendolara-uninchiesta-sul-caporalato-in-basilicata-puo-aprire-nuovi-scenari-sul-movente-del-massacro-gzoccryz",
       "published": "",
@@ -144,6 +144,19 @@
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il villaggio Sayonara di Nicotera Marina set del nuovo fotoromanzo di Antonio Zequila: «Calabria bellissima»",
+      "summary": "VIDEO | Il popolare attore è il primo di una serie di personaggi del mondo dello spettacolo, del cinema e della televisione che nel corso dell’estate 2026 popoleranno la struttura turistica guidata dal nuovo direttore Roberto Leone",
+      "link": "https://www.lacnews24.it/costume-e-societa/il-villaggio-sayonara-di-nicotera-marina-set-del-nuovo-fotoromanzo-di-antonio-zequila-calabria-bellissima-ggbohtyi",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -253,20 +266,7 @@
       "is_high_priority": false
     },
     {
-      "title": "L'ora in Italia:",
-      "summary": "L'ora in Italia:",
-      "link": "https://time.is/Italy",
-      "published": "",
-      "source": "quotidianodelsud.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "il 50esimo anniversario del terremoto in friuliMeloni a sorpresa al raduno degli alpiniVisita lampo della premier, che ha ricevuto il saluto della folla",
+      "title": "il 50esimo anniversario del terremoto in friuliMeloni a sorpresa al raduno degli alpiniVisita lampo della premier: «Avevo bisogno di un po’ di sano orgoglio nazionale»",
       "summary": "il 50esimo anniversario del terremoto in friuli",
       "link": "https://www.corrieredellacalabria.it/2026/06/21/meloni-a-sorpresa-al-raduno-degli-alpini/",
       "published": "",
@@ -314,6 +314,124 @@
       "priority": 0,
       "categories": [
         "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Nel borsello una calibro 38 pronta a sparare, arrestato dai carabinieri nel Catanzarese – VIDEO00:53",
+      "summary": "00:53",
+      "link": "https://www.corrieredellacalabria.it/2026/06/17/nel-borsello-una-calibro-38-pronta-a-sparare-arrestato-dai-carabinieri-nel-catanzarese-video/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Controlli dei carabinieri: denunce, arresti e sanzioni nel Crotoneseterritorio al setaccio",
+      "summary": "territorio al setaccio",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/controlli-dei-carabinieri-denunce-arresti-e-sanzioni-nel-crotonese/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La polizia effettua raffica di controlli a Crotone e Cirò Marinasicurezza e legalità",
+      "summary": "sicurezza e legalità",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/la-polizia-effettua-raffica-di-controlli-a-crotone-e-ciro-marina/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Ingiustificato arricchimento”: il Comune di Crosia condannato al pagamento di oltre 1 milionela decisione",
+      "summary": "la decisione",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/ingiustificato-arricchimento-il-comune-di-crosia-condannato-al-pagamento-di-oltre-1-milione/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Incendi nella proprietà di Doris Lo Moro, la solidarietà della Cgilla vicinanza",
+      "summary": "la vicinanza",
+      "link": "https://www.corrieredellacalabria.it/2026/06/20/incendi-nella-proprieta-di-doris-lo-moro-la-solidarieta-della-cgil/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Meloni a sorpresa al raduno degli alpini“Visita lampo della premier: «Avevo bisogno di un po’ di sano orgoglio nazionale»21 Giugno, 12:26",
+      "summary": "“Visita lampo della premier: «Avevo bisogno di un po’ di sano orgoglio nazionale»",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/meloni-a-sorpresa-al-raduno-degli-alpini/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La sanità dipende sempre più dal reddito e dal territorio: crescono le disparità nell’accesso a cure e prevenzione“Il nuovo report di Medici del Mondo fotografa un Ssn sempre più segnato da sottofinanziamento, carenza di personale, aumento della spesa privata21 Giugno, 12:17",
+      "summary": "“Il nuovo report di Medici del Mondo fotografa un Ssn sempre più segnato da sottofinanziamento, carenza di personale, aumento della spesa privata",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/la-sanita-dipende-sempre-piu-dal-reddito-e-dal-territorio-crescono-le-disparita-nellaccesso-a-cure-e-prevenzione/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Albania, palazzo del governo accerchiato dopo 3 settimane di proteste: non solo il resort di Kushner, vogliono le dimissioni di Edi Rama",
+      "summary": "Non si tratta più solo delle proteste contro un resort di lusso, la cementificazione di un&#8217;area protetta o la svendita delle eccellenze albanesi ai miliardari esteri. Le manifestazioni di piazza nel Paese dell&#8217;aquila bicefala che hanno ormai superato le tre settimane assumono ogni giorno",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/proteste-albania-rama-dimissioni-notizie/8425216/",
+      "published": "Sun, 21 Jun 2026 11:07:02 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Scontro con Trump, Meloni va a sorpresa al raduno degli alpini. E Salvini si smarca: “Chiudere le incomprensioni e lavorare con gli Usa”",
+      "summary": "Da una parte Giorgia Meloni che per due volte ha ribattutto agli attacchi di Donald Trump, dall&#8217;altra il suo vicepremier Matteo Salvini che cerca di smarcarsi. Per la presidente del Consiglio, volata a sorpresa a Gemona del Friuli al raduno degli alpini per il 50esimo anniversario del terremot",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/meloni-trump-raduno-alpini-gemona-notizie/8425237/",
+      "published": "Sun, 21 Jun 2026 09:59:07 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader",
+        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -388,19 +506,6 @@
       "summary": "“Quando si è in missione le giornate sono intensissime: si operano dai cinquanta ai sessanta bambini per missione, sei-otto bambini al giorno, iniziando alle otto di mattina e finendo alle otto di sera”. Alice Vailati, quarantenne, è diventata infermiera quasi per caso. Mentre faceva volontariato in",
       "link": "https://www.ilfattoquotidiano.it/2026/06/21/cardiopatie-congenite-bambini-africa-cuori-ribelli-notizie/8424800/",
       "published": "Sun, 21 Jun 2026 07:07:32 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Microplastiche sul Monte Bianco e nei laghi alpini a oltre 2mila metri di quota: “Trasporto atmosferico e attività ricreative sul posto”",
-      "summary": "In alta quota, dove non possono crescere alberi, i terreni e i ghiacciai superstiti, così come le acque, sono contaminate dalle microplastiche. Minuscole particelle di dimensioni comprese tra 1 micron e i 5 millimetri di diametro “che possono essere prodotte o dall&#8217;alterazione di oggetti in pl",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/microplastiche-monte-bianco-laghi-alpini-notizie/8424251/",
-      "published": "Sun, 21 Jun 2026 07:07:08 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -648,6 +753,59 @@
       "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
       "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 20 Jun 2026 10:19:34 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+      "summary": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
+      "link": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 01:29:32 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Will Putin change tactics after Ukrainian drone attacks?",
+      "summary": "Steve Rosenberg explains what Russia's next steps may be after frequent Ukrainian drone attacks.",
+      "link": "https://www.bbc.com/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 10:52:38 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader",
+        "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Moment Trump signs US-Iran agreement at Palace of Versailles",
+      "summary": "The 14-point Memorandum of Understanding was signed at a post-G7 dinner in France.",
+      "link": "https://www.bbc.com/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 01:59:38 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
+      "summary": "The Russian frigate fired warning shots near a British retired couple on a yacht in the English Channel.",
+      "link": "https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 16 Jun 2026 22:01:34 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
