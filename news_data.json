@@ -1,5 +1,527 @@
 {
-  "last_update": "2026-06-21T09:28:40.691148",
-  "total_news": 0,
-  "news": []
+  "last_update": "2026-06-21T09:31:29.396721",
+  "total_news": 40,
+  "news": [
+    {
+      "title": "Pista mafia turca per omicidio a Livorno, sparita la convivente del morto12 06 26 - 13:13",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/pista-mafia-turca-per-omicidio-a-livorno-sparita-la-convivente-del-morto",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 20,
+      "categories": [
+        "sangue"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": true
+    },
+    {
+      "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”17 06 26 - 18:26",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-sicilia/ergastolo-confermato-in-appello-per-antonino-marano-il-killer-delle-carceri",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 10,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Perquisizione all'ex primario vicino a Messina Denaro, sequestrata una pistola20 06 26 - 18:02",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/perquisizione-allex-primario-vicino-a-messina-denaro-sequestrata-una-pistola",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Lo scudo parlamentare si allarga: inutilizzabili le chat anche contro chi dialoga con i politici19 06 26 - 12:54",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/cronache-italia/lo-scudo-parlamentare-si-allarga-inutilizzabili-le-chat-anche-contro-chi-dialoga-con-i-politici",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Napoli: preso latitante alla festa di battesimo del figlio dell'amico19 06 26 - 11:47",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-campania/napoli-preso-latitante-alla-festa-di-battesimo-del-figlio-dellamico",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Armi nucleari ad Aviano, il gip rinvia la decisione17 06 26 - 18:43",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/giustizia-in-italia/armi-nucleari-ad-aviano-il-gip-rinvia-la-decisione",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Traffico di materiale inerte, cinque misure cautelari nel reggino17 06 26 - 16:25",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-calabria/traffico-di-materiale-inerte-cinque-misure-cautelari-nel-reggino",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Inefficaci le misure previste dal ministro Piantedosi contro la recrudescenza mafiosa16 06 26 - 19:36",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-sicilia/inefficaci-le-misure-previste-dal-ministro-piantedosi-contro-la-recrudescenza-mafiosa",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Cocaina dal Sud America all'Italia, otto arresti: smantellata rete con base tra Roma e il litorale laziale16 06 26 - 19:27",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/cocaina-dal-sud-america-allitalia-otto-arresti-smantellata-rete-con-base-tra-roma-e-il-litorale-laziale",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "arresti",
+        "droga"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Mafia: M5S, indebolita protezione familiari Masciari, interrogazione a Piantedosi16 06 26 - 19:18",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/mafia-m5s-indebolita-protezione-familiari-masciari-interrogazione-a-piantedosi",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Csm approva il bavaglio per i pm: obbligo di rettifica per le procure11 06 26 - 15:31",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/cronache-italia/csm-approva-il-bavaglio-per-i-pm-obbligo-di-rettifica-per-le-procure",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Tango: ''Polemiche su indagini stragi'93? Ad archiviare è stata una magistrato''10 06 26 - 17:41",
+      "summary": "",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/giustizia-in-italia/tango-polemiche-su-indagini-stragi93-ad-archiviare-e-stata-una-magistrato",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Morto un motociclista sull'A26, ferita una giovane",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/morto-un-motociclista-sulla26-ferita-una-giovane_388ff97a-4be7-44b5-901c-3f826c8eda56.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "In E-R bollino rosso per l'emergenza caldo anche per domani e martedì",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/in-e-r-bollino-rosso-per-lemergenza-caldo-anche-per-domani-e-martedi_8f3fb4fc-6351-4a12-8495-00433cac570c.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Assalto al Postamat a Barletta, ladri in fuga a mani vuote",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/assalto-al-postamat-a-barletta-ladri-in-fuga-a-mani-vuote_2f4d359e-0ffd-4578-8b32-7ef215cece0c.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Terza giornata Raduno Alpini Triveneto con premier Meloni",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/terza-giornata-raduno-alpini-triveneto-con-premier-meloni_86e519f6-b39c-4c7f-bdf2-044bd77e2af5.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Tenta di strangolare due bambini a Brescia, disposta custodia in carcere",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/tenta-di-strangolare-due-bambini-a-brescia-disposta-custodia-in-carcere_ed203439-4d15-4250-b27d-d26c85e3aced.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Tre 17enni morti in auto precipitata in un canale nel milanese",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/tre-17enni-morti-in-auto-precipitata-in-un-canale-nel-milanese_443f48c9-c7d9-4fdb-96f7-09d3973aa13b.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Incidente in A26 tra auto e moto, chiuso per ora il tratto con 7 km di coda",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/incidente-in-a26-tra-auto-e-moto-chiuso-per-ora-il-tratto-con_9ff828e5-a8b7-4958-adf0-6912a06284ee.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Crosetto 'rapporto con Usa saldissimo, non ho capito atteggiamento Trump'",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/crosetto-rapporto-con-usa-saldissimo-non-ho-capito-atteggiamento-trump_f0ec3ca5-c3c3-43bb-a5a6-26c945560e21.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Mete preferite, consigli e tendenze: lo speciale estate 2026",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/speciali/editoriali/2026/06/05/mete-preferite-e-consigli-lo-speciale-estate-2026_085ff1fd-d046-4884-b021-597ba6d242ad.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Maturità 2026, la guida completa all'Esame",
+      "summary": "",
+      "link": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/06/03/maturita-2026-dalle-sole-4-materie-allo-stop-alla-scena-muta_a1322c07-b4c0-439a-8ba2-0514a6fddfc0.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Scoperto l'interruttore del sistema nervoso che spegne il prurito",
+      "summary": "",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/06/01/scoperto-linterruttore-del-sistema-nervoso-che-spegne-il-prurito_11939c56-3938-40c2-95ac-d9e53493ea2e.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "La scuola in ospedale del Bambino Gesù compie 50 anni",
+      "summary": "",
+      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/06/04/la-scuola-in-ospedale-del-bambino-gesu-compie-50-anni_e63af236-5265-471b-a191-abad0f7475a7.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Talassoterapia, il mare detox regala benessere",
+      "summary": "",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/05/30/talassoterapia-il-mare-detox-regala-benessere-_02ba54ce-4d31-4a65-a66d-cf06e0aec2c6.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "La storia di Lydia Toraldo Serra, prima sindaca di Tropea",
+      "summary": "",
+      "link": "https://www.ansa.it/donne/notizie/2026/03/11/quando-le-donne-entrarono-in-politica-la-storia-di-lydia-toraldo-serra-prima-sindaca_f40cc268-1c4d-4fb1-ac1f-4897b2777708.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "E' morto Alex Zanardi, omaggio all'eroe che sorpassò paura e pietà",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/sport/2026/05/02/-e-morto-alex-zanardi_f85d5509-b780-4dba-bfbb-844af779616b.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Netta vittoria del No, bloccata la riforma della giustizia",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/03/23/referendum-netta-vittoria-del-no-bloccata-la-riforma-della-giustizia_bf120edc-fbc0-4d82-88a6-581ab82f4317.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Roma Pride, contestato Adinolfi presente con una bandiera di Israele",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/roma-pride-contestato-adinolfi-presente-con-una-bandiera-di-israele_625057f1-a659-47fe-a434-524ff75cffbb.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Roma Pride, al corteo anche l'associazione Lgbtqia+ ebraica Keshet",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/roma-pride-al-corteo-anche-lassociazione-lgbtqia-ebraica-keshet_6ddaec34-a3b9-4e73-b9cb-897e07fdc93d.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Roma Pride, decine di migliaia di partecipanti alla marcia Lgbtqia+",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/roma-pride-decine-di-migliaia-di-partecipanti-alla-marcia-lgbtqia_2a264c20-280d-4401-9dd1-a112f4533ac6.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Narcotraffico, inseguito gommone con 300 chili di cocaina a Cecina",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/narcotraffico-inseguito-gommone-con-300-chili-di-cocaina-a-cecina_917537bf-e991-46e8-9d23-075096182e69.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "droga"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Rientrati a Roma i primi turisti scampati all'Incendio nel resort della Repubblica Dominicana",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/rientrati-a-roma-i-primi-turisti-scampati-allincendio-nel-resort-della-repubblica_8560a735-f8cf-4895-9a2c-6ffaf255dccd.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "sangue"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "\"Fare scena\", a Villa Badoer omaggio al maestro Paolino Libralato",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/fare-scena-a-villa-badoer-omaggio-al-maestro-paolino-libralato_3ebd66e6-eeda-4771-9fd9-eb390d529b88.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Scontro suv-scooter in Versilia, muore 17enne: in fuga gli occupanti dell'auto",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/scontro-suv-scooter-in-versilia-muore-17enne-in-fuga-gli-occupanti-dellauto_280813b1-cb2a-4949-a93c-988c85fef5c7.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Controlli della polizia a Catania, 23 cavalli sequestrati e 7 denunce",
+      "summary": "",
+      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/controlli-della-polizia-a-catania-23-cavalli-sequestrati-e-7-denunce_383e3eb6-5201-40a3-ab3e-ed06bd215d4d.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "A Fiumicino apre la Spiaggia inclusiva, più strutture per persone con disabilità e non",
+      "summary": "",
+      "link": "https://www.ansa.it/lazio/notizie/focus-fiumicino/2026/06/18/a-fiumicino-apre-la-spiaggia-inclusiva-piu-strutture-per-persone-con-disabilita_3f83c872-53fb-49ec-a261-c32caec7bd68.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Fiumicino, 'significativi risultati nella lotta all'evasione fiscale'",
+      "summary": "",
+      "link": "https://www.ansa.it/lazio/notizie/focus-fiumicino/2026/06/11/fiumicino-significativi-risultati-nella-lotta-allevasione-fiscale_9b5764cc-735d-4b4f-acdb-9263fb77e3b5.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Fiumicino, ecco le scadenze Tari per l'anno 2026",
+      "summary": "",
+      "link": "https://www.ansa.it/lazio/notizie/focus-fiumicino/2026/06/04/fiumicino-ecco-le-scadenze-tari-per-lanno-2026_ff39842c-ece5-407c-8f4c-b6208409a1d6.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Inclusione e sport, contro la povertà educativa in mare con Alessandra Sensini",
+      "summary": "",
+      "link": "https://www.ansa.it/ansacom/notizie/ansa2030/ferrero/2026/06/17/inclusione-e-sport-contro-la-poverta-educativa-in-mare-con-alessandra-sensini_c09d457e-2983-43d0-b48b-41b4e0839d30.html",
+      "published": "",
+      "source": "ansa.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    }
+  ]
 }
