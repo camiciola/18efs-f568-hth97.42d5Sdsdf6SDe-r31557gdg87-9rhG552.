@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-21T11:29:05.672214",
-  "total_news": 62,
+  "last_update": "2026-06-21T16:18:14.477669",
+  "total_news": 71,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -29,16 +29,15 @@
       "is_high_priority": true
     },
     {
-      "title": "Il Centro Calabrese di Solidarietà Ets celebra 40 anni di impegno",
-      "summary": "UltimeIl Centro Calabrese di Solidarietà Ets celebra 40 anni di impegnoMeloni a sorpresa al raduno degli alpiniLa sanità dipende sempre più dal reddito e dal territorio: crescono le disparità nell’accesso a cure e prevenzioneControlli dei carabinieri: denunce, arresti e sanzioni nel Crotonese«L’Auto...",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/il-centro-calabrese-di-solidarieta-ets-celebra-40-anni-di-impegno/",
+      "title": "il casoMadre e figlia trovate morte nella stessa casaIndagini in corso a Torino. L’ipotesi privilegiata è omicidio-suicidio",
+      "summary": "il caso",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/madre-e-figlia-trovate-morte-nella-stessa-casa/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
+      "section": "crime_italy",
       "priority": 10,
       "categories": [
-        "arresti",
-        "sangue"
+        "crime_italy"
       ],
       "is_high_priority": false
     },
@@ -52,6 +51,19 @@
       "priority": 10,
       "categories": [
         "sangue"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Madre e figlia trovate morte nella stessa casa“Indagini in corso a Torino. L’ipotesi privilegiata è omicidio-suicidio21 Giugno, 15:26",
+      "summary": "“Indagini in corso a Torino. L’ipotesi privilegiata è omicidio-suicidio",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/madre-e-figlia-trovate-morte-nella-stessa-casa/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "crime_italy",
+      "priority": 10,
+      "categories": [
+        "crime_italy"
       ],
       "is_high_priority": false
     },
@@ -122,6 +134,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Maturità, dopo gli scritti è il momento della prova orale per 527mila studenti: tutte le novità di quest’anno",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lacnews24.it/attualita/maturita-dopo-gli-scritti-e-il-momento-della-prova-orale-per-527mila-studenti-tutte-le-novita-di-questanno-x1qgrcfr",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "La Sila incanta anche in Europa: una tv tedesca gira un documentariotra lupi e cicognenere",
       "summary": "La troupe del network SWR, accolta a Lorica dal direttore del Parco Nazionale silano Ilario Treccosti, ha girato anche nella Riserva del Vergari, dove vivono due coppie del rarissimo uccello. Le immagini saranno trasmesse anche in Francia",
       "link": "https://www.lacnews24.it/ambiente/la-sila-incanta-anche-in-europa-una-tv-tedesca-gira-un-documentario-tra-lupi-e-cicogne-nere-s4s1ve3s",
@@ -135,9 +160,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Strage di Amendolara, un’inchiesta sul caporalato in Basilicata può aprire nuovi scenari sul movente del massacro",
-      "summary": "Nelle denunce confluite nel fascicolo aperto a Castrovillari compaiono la stessa azienda agricola, presunti caporali e persone legate ai due pachistani arrestati per il delitto. L’indagine aperta a Matera nel 2025 potrebbe chiarire il contesto del rogo costato la vita a quattro lavoratori migranti",
-      "link": "https://www.lacnews24.it/cronaca/strage-di-amendolara-uninchiesta-sul-caporalato-in-basilicata-puo-aprire-nuovi-scenari-sul-movente-del-massacro-gzoccryz",
+      "title": "Notizie in evidenza",
+      "summary": "La riforma voluta dal ministro dell'Istruzione Valditara modifica soprattutto la parte del colloquio: dalla cancellazione dello “spunto” a sorpresa alle nuove regole per i punti. I consigli di Skuola.net",
+      "link": "https://www.lacnews24.it/attualita/maturita-dopo-gli-scritti-e-il-momento-della-prova-orale-per-527mila-studenti-tutte-le-novita-di-questanno-x1qgrcfr",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Dilettanti, la neopromossa Deliese anima il mercato: nel mirino due nomi importanti come Paulino e Isma Goncalves",
+      "summary": "Vincenzo Primerano",
+      "link": "https://www.lacnews24.it/sport/dilettanti-la-neopromossa-deliese-anima-il-mercato-nel-mirino-due-nomi-importanti-come-paulino-e-isma-goncalves-unv1snl0",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
@@ -148,15 +186,132 @@
       "is_high_priority": false
     },
     {
-      "title": "Il villaggio Sayonara di Nicotera Marina set del nuovo fotoromanzo di Antonio Zequila: «Calabria bellissima»",
-      "summary": "VIDEO | Il popolare attore è il primo di una serie di personaggi del mondo dello spettacolo, del cinema e della televisione che nel corso dell’estate 2026 popoleranno la struttura turistica guidata dal nuovo direttore Roberto Leone",
-      "link": "https://www.lacnews24.it/costume-e-societa/il-villaggio-sayonara-di-nicotera-marina-set-del-nuovo-fotoromanzo-di-antonio-zequila-calabria-bellissima-ggbohtyi",
+      "title": "Calabria meta di matrimoni: dalla Danimarca al borgo di Badolato per promettersi amore eterno",
+      "summary": "Rossella Galati",
+      "link": "https://www.lacnews24.it/cultura/dalla-danimarca-al-borgo-di-badolato-per-promettersi-amore-eterno-ei8s80fd",
       "published": "",
       "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, l’Associazione Studentesca MUSA celebra Antoni Gaudí nel centenario della sua scomparsa",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-lassociazione-studentesca-musa-celebra-antoni-gaudi-nel-centenario-della-sua-scomparsa/2103910/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Messina: moto precipita in un burrone dopo l'attacco di due cani: in ospedale il presidente di Confindustria Agrigento",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/messina-moto-precipita-in-un-burrone-dopo-lattacco-di-due-cani-in-ospedale-il-presidente-di-confindustria-agrigento/2103900/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Trump e il problema dei selfie: Meloni? No, l'Iran: l'indiscrezione sulla foto desiderata e negata fra le parti",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/trump-e-il-problema-dei-selfie-meloni-no-liran-lindiscrezione-sulla-foto-desiderata-e-negata-fra-le-parti/2103898/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Donald Trump: “Keir Starmer ha fallito, si dimetterà da primo ministro del Regno Unito”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/donald-trump-keir-starmer-ha-fallito-si-dimettera-da-primo-ministro-del-regno-unito/2103896/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il premier che non si piega alla Casa Bianca: così MSN incorona la leadership globale di Giorgia Meloni nello scontro con Trump",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/il-premier-che-non-si-piega-alla-casa-bianca-cosi-msn-incorona-la-leadership-globale-di-giorgia-meloni-nello-scontro-con-trump/2103888/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Basile: “Messina palcoscenico dei grandi artisti, i grandi eventi generano economia\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/basile-messina-palcoscenico-dei-grandi-artisti-i-grandi-eventi-generano-economia/2103881/",
+      "published": "",
+      "source": "strettoweb.com",
       "section": "italia",
       "priority": 0,
       "categories": [
-        "italia"
+        "economia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Miss Italia Calabria 2026, si parte da Mirto Crosia: eletta la miss Apica Village | NOME e FOTO",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/miss-italia-calabria-2026-si-parte-da-mirto-crosia-eletta-la-miss-apica-village-nome-e-foto/2103842/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "SLA: Buonvicino (Cosenza) accende di verde il Monumento ai Caduti per la Giornata Mondiale",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/sla-buonvicino-cosenza-accende-di-verde-il-monumento-ai-caduti-per-la-giornata-mondiale/2103847/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "UNARMA Catanzaro, parte il monitoraggio nei presidi dei Carabinieri: visite nei reparti per verificare le condizioni di lavoro",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/unarma-catanzaro-parte-il-monitoraggio-nei-presidi-dei-carabinieri-visite-nei-reparti-per-verificare-le-condizioni-di-lavoro/2103833/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -200,72 +355,6 @@
       "is_high_priority": false
     },
     {
-      "title": "La Calabria ha la più grande crescita del Pil tra le Regioni d'Italia, Tilde Minasi: \"merito del lavoro di Governo e Regione, fiera e orgogliosa\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/la-calabria-ha-la-piu-grande-crescita-del-pil-tra-le-regioni-ditalia-tilde-minasi-merito-del-lavoro-di-governo-e-regione-fiera-e-orgogliosa/2103780/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "politica",
-        "economia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Cosenza, il club allo scoperto dopo le parole di Rota: \"disposti a cedere, ma non accettiamo condizionamenti\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/cosenza-il-club-allo-scoperto-dopo-le-parole-di-rota-disposti-a-cedere-ma-non-accettiamo-condizionamenti/2103772/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Reggio Calabria, fugge all’alt mentre usa il cellulare: inseguito e fermato un motociclista",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-fugge-allalt-mentre-usa-il-cellulare-inseguito-e-fermato-un-motociclista/2103744/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Cateno De Luca chiude a Siracusa il tour nelle province siciliane: \"il nostro progetto continua a crescere\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/cateno-de-luca-chiude-a-siracusa-il-tour-nelle-province-siciliane-il-nostro-progetto-continua-a-crescere/2103690/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Calabria, Iiriti: \"secondo Bankitalia, siamo regione che cresce di più con stabilità e visione\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/calabria-iiriti-secondo-bankitalia-siamo-regione-che-cresce-di-piu-con-stabilita-e-visione/2103644/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L'ora in Italia:",
       "summary": "L'ora in Italia:",
       "link": "https://time.is/Italy",
@@ -279,28 +368,15 @@
       "is_high_priority": false
     },
     {
-      "title": "il 50esimo anniversario del terremoto in friuliMeloni a sorpresa al raduno degli alpiniVisita lampo della premier: «Avevo bisogno di un po’ di sano orgoglio nazionale»",
-      "summary": "il 50esimo anniversario del terremoto in friuli",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/meloni-a-sorpresa-al-raduno-degli-alpini/",
+      "title": "Faragalli, Catanzaro e De LucaMontalto Uffugo, la carica dei quarantenni: se il polo emergente dell’area urbana cosentina sforna la nuova classe dirigenteAlla ribalta il sindaco e presidente della Provincia, il presidente dell’Ordine degli ingegneri e il segretario in pectore del Pd (under 30)",
+      "summary": "Faragalli, Catanzaro e De Luca",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/montalto-uffugo-la-carica-dei-quarantenni-se-il-polo-emergente-dellarea-urbana-cosentina-sforna-la-nuova-classe-dirigente/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "ALTA TENSIONE IN MEDIO ORIENTE«Lo Stretto di Hormuz chiuso fino a nuovo ordine»Teheran aveva disposto la chiusura dopo gli attacchi di Israele sul Libano",
-      "summary": "ALTA TENSIONE IN MEDIO ORIENTE",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/lo-stretto-di-hormuz-chiuso-fino-a-nuovo-ordine/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "medio-oriente"
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -396,11 +472,37 @@
       "is_high_priority": false
     },
     {
-      "title": "Meloni a sorpresa al raduno degli alpini“Visita lampo della premier: «Avevo bisogno di un po’ di sano orgoglio nazionale»21 Giugno, 12:26",
-      "summary": "“Visita lampo della premier: «Avevo bisogno di un po’ di sano orgoglio nazionale»",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/meloni-a-sorpresa-al-raduno-degli-alpini/",
+      "title": "Montalto Uffugo, la carica dei quarantenni: se il polo emergente dell’area urbana cosentina sforna la nuova classe dirigente“Alla ribalta il sindaco e presidente della Provincia, il presidente dell’Ordine degli ingegneri e il segretario in pectore del Pd (under 30)21 Giugno, 16:30",
+      "summary": "“Alla ribalta il sindaco e presidente della Provincia, il presidente dell’Ordine degli ingegneri e il segretario in pectore del Pd (under 30)",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/montalto-uffugo-la-carica-dei-quarantenni-se-il-polo-emergente-dellarea-urbana-cosentina-sforna-la-nuova-classe-dirigente/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "«Il Pnrr sta sostenendo la crescita, ora servono investimenti e transizione energetica»“Scalese (Cgil Area Vasta) commenta il report Bankitalia21 Giugno, 14:37",
+      "summary": "“Scalese (Cgil Area Vasta) commenta il report Bankitalia",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/il-pnrr-sta-sostenendo-la-crescita-ora-servono-investimenti-e-transizione-energetica/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Paper Fest, Gomez presenta Tutte le guerre del mondo con l’autrice Sofia Cecinini: “La prima vittima dei conflitti è la verità”",
+      "summary": "&#8220;Oggi Meloni farà campagna elettorale dicendo, dopo essere stata scaricata: &#8216;Io sono l’unica che ha detto no a Trump’”. Così dal palco di Paper Fest, a Carrara, Peter Gomez parte dall’attualità per introdurre “Tutte le guerre del mondo”, il libro di Sofia Cecinini per Paper First. Nella ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/paper-fest-tutte-le-guerre-del-mondo-gomez-cecinini-video/8425404/",
+      "published": "Sun, 21 Jun 2026 15:06:36 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -409,15 +511,107 @@
       "is_high_priority": false
     },
     {
-      "title": "La sanità dipende sempre più dal reddito e dal territorio: crescono le disparità nell’accesso a cure e prevenzione“Il nuovo report di Medici del Mondo fotografa un Ssn sempre più segnato da sottofinanziamento, carenza di personale, aumento della spesa privata21 Giugno, 12:17",
-      "summary": "“Il nuovo report di Medici del Mondo fotografa un Ssn sempre più segnato da sottofinanziamento, carenza di personale, aumento della spesa privata",
-      "link": "https://www.corrieredellacalabria.it/2026/06/21/la-sanita-dipende-sempre-piu-dal-reddito-e-dal-territorio-crescono-le-disparita-nellaccesso-a-cure-e-prevenzione/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
+      "title": "L’ad del Fatto Monteverdi: “Le persone si fidano, sanno che la nostra informazione non è veicolata. La sfida è crescere nel digitale”",
+      "summary": "&#8220;Le persone si fidano del Fatto. Possono anche avere pensieri diversi, ma sanno che la nostra non è un’informazione veicolata da poteri o partiti&#8221;. Dal palco di Paper Fest, a Carrara, Cinzia Monteverdi, presidente e amministratrice delegata di Seif, commenta i dati sulla diffusione dei q",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/paper-fest-monteverdi-fatto-quotidiano-persone-si-fidano-informazione-non-veicolata-digitale/8425377/",
+      "published": "Sun, 21 Jun 2026 14:20:41 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Nella famiglia reale l’educazione si impartisce con lo scalpello. Ho fatto la pazzia di andare a vivere con un amico in Russia, papà non mi ha parlato per un anno e mezzo”: così Aimone di Savoia-Aosta",
+      "summary": "“Com’è stato crescere in una famiglia reale? Complicato. C’era l’idea che l’educazione si impartisce con lo scalpello, come si scolpisce un blocco di marmo, che così rimane tutta la vita”. Non usa perifrasi Aimone di Savoia-Aosta per descrivere la sua infanzia e, in particolare, il rapporto compless",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/nella-famiglia-reale-leducazione-si-impartisce-con-lo-scalpello-ho-fatto-la-pazzia-di-andare-a-vivere-con-un-amico-in-russia-papa-non-mi-ha-parlato-per-un-anno-e-mezzo-cosi-aimone-di-s/8425373/",
+      "published": "Sun, 21 Jun 2026 13:53:39 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "ucraina-russia",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Ha avuto un infarto miocardico acuto”: come sta Gago dopo lo spavento in conferenza stampa",
+      "summary": "&#8220;La Clinica Alemana informa che il paziente Fernando Rubén Gago è stato ricoverato nelle prime ore di giovedì 19 giugno a causa di un infarto acuto del miocardio&#8220;. Si apre così la nota dell&#8217;ospedale dove è stato operato Fernando Gago, allenatore argentino dell&#8217;Universidad de ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/infarto-gago-conferenza-stampa-angioplastica-come-sta-oggi-condizioni/8425353/",
+      "published": "Sun, 21 Jun 2026 13:39:52 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Lega, Fedriga sta con Salvini: “Cabina di regia? Ma quale sommossa o partito spaccato, è una scelta corretta del segretario per ascoltare i territori e far arrivare la loro voce al governo”",
+      "summary": "&#8220;Cabina di regia? È una scelta giusta del segretario per ascoltare i territori e far arrivare le loro istanze nella cabina di governo&#8221;. In una Lega in piena crisi, il governatore del Friuli Venezia Giulia, Massimiliano Fedriga, difende il leader Salvini e la scelta di convocare per doman",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/crisi-lega-fedriga-salvini-notizie/8425322/",
+      "published": "Sun, 21 Jun 2026 12:55:14 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ciclista morta a Palermo: auto supera in un tratto con linea continua e travolge il gruppo",
+      "summary": "Un’auto ha invaso la carreggiata opposta superando tre veicoli nonostante la linea continua e ha investito un gruppo di ciclisti. Una delle persone in sella è deceduta e altre due sono rimaste leggermente ferite. È accaduto vicino Pioppo, alle porte di Palermo. Due superstiti hanno raccontato la din",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/ciclista-investita-palermo-pioppo-notizie/8425334/",
+      "published": "Sun, 21 Jun 2026 12:54:52 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Addio trucco pesante, il make-up per il matrimonio ora è naturale come quello di Dua Lipa: i prodotti furbi e i consigli per spose, damigelle e invitate",
+      "summary": "Il 2026 verrà ricordato come l’anno dei matrimoni da star: Zendaya e Tom Holland (in gran segreto) Charles Leclerc e Alexandra Saint Mleux, e ora Dua Lipa e Callum Turner &#8211; prima con una cerimonia intima a Londra, poi con una grande festa a Palermo. Nello stesso weekend, tra l’altro, è stato c",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/addio-trucco-pesante-il-make-up-per-il-matrimonio-ora-e-naturale-come-quello-di-dua-lipa-i-prodotti-furbi-e-i-consigli-per-spose-damigelle-e-invitate/8421078/",
+      "published": "Sun, 21 Jun 2026 12:42:20 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Forza Italia? Macchè: Forza Germania! In un libro il tifo/amore clandestino di Giuseppe Culicchia per Rummenigge&Co fin dai tempi di Italia Germania 4 a3 (e dei Mondiali di Spagna)",
+      "summary": "Immaginate un italiano al quale si chiede la formazione dei Mondiali 82 e che invece di risponderti Zoff, Gentile, Cabrini, ecc… ti rispondesse: Schumacher, Kaltz, Briegel, Dremmler, ecc… Un marziano a Roma, pardon a Torino (sponda granata). Controcorrente Giuseppe Culicchia ci è sempre andato e anc",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/forza-italia-macche-forza-germania-in-un-libro-il-tifo-amore-clandestino-di-giuseppe-culicchia-per-rummeniggeco-fin-dai-tempi-di-italia-germania-4-a3-e-dei-mondiali-di-spagna/8425291/",
+      "published": "Sun, 21 Jun 2026 11:46:34 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Abbiamo visto l’aereo virare bruscamente e precipitare”: è morto a 69 anni Claude Guillemot, il co-fondatore di Ubisoft",
+      "summary": "Claude Guillemot, 69 anni, co-fondatore del colosso transalpino Ubisoft e presidente della Guillemot Corporation, ha perso la vita venerdì 19 giugno in un incidente aereo avvenuto nel nord-ovest della Francia. Insieme alla sua famiglia aveva trasformato un&#8217;intuizione commerciale nata nella pro",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/abbiamo-visto-laereo-virare-bruscamente-e-precipitare-e-morto-claude-guillemot-il-co-fondatore-di-ubisoft/8425252/",
+      "published": "Sun, 21 Jun 2026 11:36:53 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -435,11 +629,24 @@
       "is_high_priority": false
     },
     {
-      "title": "Scontro con Trump, Meloni a sorpresa al raduno degli alpini. Salvini si smarca: “Chiudere in fretta le incomprensioni”",
-      "summary": "Da una parte Giorgia Meloni che per due volte ha ribattutto agli attacchi di Donald Trump, dall&#8217;altra il suo vicepremier Matteo Salvini che cerca di smarcarsi. Per la presidente del Consiglio, volata a sorpresa a Gemona del Friuli al raduno degli alpini per il 50esimo anniversario del terremot",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/meloni-trump-raduno-alpini-gemona-notizie/8425237/",
-      "published": "Sun, 21 Jun 2026 09:59:07 +0000",
-      "source": "ilfattoquotidiano.it",
+      "title": "Cdm, in arrivo un decreto Infrastrutture su opere compensative per la Tav",
+      "summary": "Un Consiglio dei ministri destinato ad avere tra i punti all’ordine del giorno un decreto Infrastrutture. Nella riunione che - a quanto si apprende - è in programma per lunedì...",
+      "link": "https://www.ilsole24ore.com/art/cdm-arrivo-decreto-infrastrutture-opere-compensative-la-tav-AIB5EtnD",
+      "published": "Sun, 21 Jun 2026 16:14:32 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La GdF compie 252 anni. Mattarella: «Tutela onesti e garanzia di legalità»",
+      "summary": "Da Meloni a Giorgetti, dagli altri componenti del Governo ai Presidenti di Senato e Camera gli auguri per l’anniversario e il riconoscimento del ruolo svolto quotidianamente dalle donne e dagli uomini del Corpo",
+      "link": "https://www.ilsole24ore.com/art/la-gdf-compie-252-anni-mattarella-tutela-onesti-e-garanzia-legalita-AI9t6nnD",
+      "published": "Sun, 21 Jun 2026 14:29:12 GMT",
+      "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -448,81 +655,15 @@
       "is_high_priority": false
     },
     {
-      "title": "“Risultato di anni di allenamento”. Influencer Safa Brian sfreccia a oltre 80 km/h in bici sul Passo Sella, scoppia la polemica: “Non è un’impresa sportiva, solo una cosa pericolosissima”",
-      "summary": "Il profilo aguzzo delle Dolomiti sullo sfondo e una striscia d&#8217;asfalto che si snoda tra i tornanti del Passo Sella, aperta al normale traffico automobilistico. All&#8217;improvviso, un ciclista si lancia in picchiata a tutta velocità, ripreso dall&#8217;occhio millimetrico di un drone: taglia ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/risultato-di-anni-di-allenamento-influencer-safa-brian-sfreccia-a-oltre-80-km-h-in-bici-sul-passo-sella-scoppia-la-polemica-non-e-unimpresa-sportiva-solo-una-cosa-pericolosissima/8425191/",
-      "published": "Sun, 21 Jun 2026 09:15:09 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
+      "title": "Sicurezza stradale, Salvini convoca vertice dopo gli ultimi incidenti: «Troppe giovani vittime»",
+      "summary": "Un vertice sulla sicurezza stradale dopo gli incidenti ripetutisi nel fine settimana e che hanno coinvolto giovani e giovanissimi vittime di incidenti. Ad annunciarlo è il vicepremier e ministro delle...",
+      "link": "https://www.ilsole24ore.com/art/sicurezza-stradale-salvini-convoca-vertice-gli-ultimi-incidenti-troppe-giovani-vittime-AI4b2knD",
+      "published": "Sun, 21 Jun 2026 12:31:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Le faglie di Sant’Andrea e San Giacinto ai massimi degli ultimi 1.000 anni. C’è un accumulo di tensione senza precedenti, si rischia un terremoto devastante”: l’allarme nel nuovo studio",
-      "summary": "Le tensioni accumulate lungo i sistemi di faglie di Sant&#8217;Andrea e San Giacinto, nella California meridionale, hanno raggiunto e in alcuni settori superato i livelli più alti mai registrati negli ultimi mille anni. Il dato, che alza l&#8217;allerta sul rischio di un terremoto devastante in uno ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/le-faglie-di-santandrea-e-san-giacinto-ai-massimi-degli-ultimi-1-000-anni-ce-un-accumulo-di-tensione-senza-precedenti-si-rischia-un-terremoto-devastante-lallarme-nel-nuovo-studio/8425170/",
-      "published": "Sun, 21 Jun 2026 08:09:20 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Giorgia dei due mondi: l’imbattibile amica di Donald, ora sua nemica per la pelle",
-      "summary": "La zuffa tra Trump e Meloni con espressioni che in genere si usano al bar, vivono di ciò che sta accadendo nel mondo Maga cui il presidente americano tiene più di ogni altra cosa. L&#8217;America first, il timbro dell&#8217;atto di nascita di questo secondo mandato truumpiano, oggi deve gestire gli ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/giorgia-dei-due-mondi-limbattibile-amica-di-donald-ora-sua-nemica-per-la-pelle/8425029/",
-      "published": "Sun, 21 Jun 2026 07:42:25 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Non ti sei mai sentito così alto”: Stanley Tucci a sorpresa ad Ascot con re Carlo e Camilla, il giro in carrozza e il look che non passa inosservato",
-      "summary": "La terza giornata del Royal Ascot si chiama Ladies’ Day ed è tanto colorata e suggestiva come tutte le altre, ma quest’anno, ha consegnato al pubblico una sorpresa inaspettata. Stanley Tucci e signora hanno sfilato nel Royal Ring su una della quattro carrozze che hanno accompagnato il re e Camilla a",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/non-ti-sei-mai-sentito-cosi-alto-stanley-tucci-a-sorpresa-ad-ascot-con-re-carlo-e-camilla-il-giro-in-carrozza-e-il-look-che-non-passa-inosservato/8425143/",
-      "published": "Sun, 21 Jun 2026 07:40:10 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Usa-Iran, al via i colloqui in Svizzera. Teheran: “Nessun accordo possibile senza la pace in Libano “. Hormuz resta chiuso",
-      "summary": "L'articolo Usa-Iran, al via i colloqui in Svizzera. Teheran: &#8220;Nessun accordo possibile senza la pace in Libano &#8220;. Hormuz resta chiuso proviene da Il Fatto Quotidiano.\n",
-      "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/21/notizie-mondo-internazionale-aggiornamenti-oggi/8425144/",
-      "published": "Sun, 21 Jun 2026 07:24:41 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Così aiutiamo i bambini con cardiopatie congenite in Africa”: la sfida del progetto Cuori ribelli",
-      "summary": "“Quando si è in missione le giornate sono intensissime: si operano dai cinquanta ai sessanta bambini per missione, sei-otto bambini al giorno, iniziando alle otto di mattina e finendo alle otto di sera”. Alice Vailati, quarantenne, è diventata infermiera quasi per caso. Mentre faceva volontariato in",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/cardiopatie-congenite-bambini-africa-cuori-ribelli-notizie/8424800/",
-      "published": "Sun, 21 Jun 2026 07:07:32 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -579,10 +720,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Trasporto aereo, indennizzi fermi al 2005. Ecco cosa cambia con le nuove regole Ue",
+      "title": "Trasporto aereo Ue, indennizzi fermi al 2005. Ecco cosa cambia con le nuove regole",
       "summary": "Le indicazioni di RimborsoAlVolo. Previsti 250 euro per i voli entro i 1.500 km, 400 euro per tratte tra 1.500 e 3.500 km e 600 euro per tutte le tratte più lunghe",
       "link": "https://www.ilsole24ore.com/art/trasporto-aereo-indennizzi-fermi-2005-ecco-cosa-cambia-le-nuove-regole-ue-AIG8NumD",
-      "published": "Sun, 21 Jun 2026 09:30:19 GMT",
+      "published": "Sun, 21 Jun 2026 09:30:00 GMT",
       "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
@@ -605,28 +746,41 @@
       "is_high_priority": false
     },
     {
-      "title": "L’estate pazza dei prezzi: ad agosto fino a 300mila euro per una settimana a Firenze e 238mila euro per una tenda in Salento",
-      "summary": "L’indagine del Codacons per scovare da nord a sud Italia i prezzi “pazzi” dell’estate 2026",
-      "link": "https://www.ilsole24ore.com/art/l-estate-pazza-prezzi-ad-agosto-fino-300mila-euro-una-settimana-firenze-e-238mila-euro-una-tenda-salento-AIwDPtmD",
-      "published": "Sun, 21 Jun 2026 06:38:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-      "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
-      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 15:31:12 GMT",
+      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+      "link": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 10:55:05 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader"
+        "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Low-key funeral held for giant of the art world David Hockney",
+      "summary": "The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend. ",
+      "link": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 13:08:49 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
+      "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 02:33:30 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -648,19 +802,6 @@
       "summary": "More than eight million South Africans are living with HIV – the highest number of any country in the world.",
       "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 19 Jun 2026 23:35:07 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
-      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
-      "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 20 Jun 2026 02:33:30 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -705,32 +846,6 @@
       "priority": 0,
       "categories": [
         "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "In Trump's shadow, Vance becomes face of Iran deal",
-      "summary": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
-      "link": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 19 Jun 2026 04:12:07 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-      "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones were launched towards an area to the south-east of the Russian capital.",
-      "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 18 Jun 2026 15:46:36 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "ucraina-russia"
       ],
       "is_high_priority": false
     },
