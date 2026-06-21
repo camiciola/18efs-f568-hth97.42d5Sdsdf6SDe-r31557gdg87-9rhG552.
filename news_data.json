@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-21T11:20:01.582084",
+  "last_update": "2026-06-21T11:29:05.672214",
   "total_news": 62,
   "news": [
     {
@@ -266,6 +266,19 @@
       "is_high_priority": false
     },
     {
+      "title": "L'ora in Italia:",
+      "summary": "L'ora in Italia:",
+      "link": "https://time.is/Italy",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "il 50esimo anniversario del terremoto in friuliMeloni a sorpresa al raduno degli alpiniVisita lampo della premier: «Avevo bisogno di un po’ di sano orgoglio nazionale»",
       "summary": "il 50esimo anniversario del terremoto in friuli",
       "link": "https://www.corrieredellacalabria.it/2026/06/21/meloni-a-sorpresa-al-raduno-degli-alpini/",
@@ -422,7 +435,7 @@
       "is_high_priority": false
     },
     {
-      "title": "Scontro con Trump, Meloni va a sorpresa al raduno degli alpini. E Salvini si smarca: “Chiudere le incomprensioni e lavorare con gli Usa”",
+      "title": "Scontro con Trump, Meloni a sorpresa al raduno degli alpini. Salvini si smarca: “Chiudere in fretta le incomprensioni”",
       "summary": "Da una parte Giorgia Meloni che per due volte ha ribattutto agli attacchi di Donald Trump, dall&#8217;altra il suo vicepremier Matteo Salvini che cerca di smarcarsi. Per la presidente del Consiglio, volata a sorpresa a Gemona del Friuli al raduno degli alpini per il 50esimo anniversario del terremot",
       "link": "https://www.ilfattoquotidiano.it/2026/06/21/meloni-trump-raduno-alpini-gemona-notizie/8425237/",
       "published": "Sun, 21 Jun 2026 09:59:07 +0000",
@@ -430,8 +443,7 @@
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader",
-        "superpotenze"
+        "leader"
       ],
       "is_high_priority": false
     },
@@ -597,19 +609,6 @@
       "summary": "L’indagine del Codacons per scovare da nord a sud Italia i prezzi “pazzi” dell’estate 2026",
       "link": "https://www.ilsole24ore.com/art/l-estate-pazza-prezzi-ad-agosto-fino-300mila-euro-una-settimana-firenze-e-238mila-euro-una-tenda-salento-AIwDPtmD",
       "published": "Sun, 21 Jun 2026 06:38:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Nuova ondata di calore in Europa: oggi il picco",
-      "summary": "L’estate è iniziata in modo estremo per decine di milioni di europei con una nuova ondata di calore legata ai cambiamenti climatici che ha colpito il Vecchio continente e che...",
-      "link": "https://www.ilsole24ore.com/art/nuova-ondata-calore-europa-picco-sara-domenica-AITUc7mD",
-      "published": "Sat, 20 Jun 2026 12:52:00 GMT",
       "source": "ilsole24ore.com",
       "section": "italia",
       "priority": 0,
