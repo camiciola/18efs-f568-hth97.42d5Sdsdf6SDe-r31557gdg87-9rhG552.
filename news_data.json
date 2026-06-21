@@ -1,10 +1,23 @@
 {
-  "last_update": "2026-06-21T09:32:00.733513",
-  "total_news": 40,
+  "last_update": "2026-06-21T09:42:20.916746",
+  "total_news": 137,
   "news": [
     {
-      "title": "Pista mafia turca per omicidio a Livorno, sparita la convivente del morto12 06 26 - 13:13",
-      "summary": "",
+      "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
+      "summary": "17 06 26 - 18:26",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-sicilia/ergastolo-confermato-in-appello-per-antonino-marano-il-killer-delle-carceri",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "priority": 20,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": true
+    },
+    {
+      "title": "Pista mafia turca per omicidio a Livorno, sparita la convivente del morto",
+      "summary": "12 06 26 - 13:13",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/pista-mafia-turca-per-omicidio-a-livorno-sparita-la-convivente-del-morto",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -16,21 +29,21 @@
       "is_high_priority": true
     },
     {
-      "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”17 06 26 - 18:26",
-      "summary": "",
-      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-sicilia/ergastolo-confermato-in-appello-per-antonino-marano-il-killer-delle-carceri",
-      "published": "",
-      "source": "antimafiaduemila.com",
+      "title": "Senago, auto con 9 ragazzi finisce nel canale: muoiono tre 17enni. Conducente positivo all’alcol test",
+      "summary": "Tre ragazzi di 17 anni, due giovani e una ragazza, hanno perso la vita all’alba di oggi dopo che l’auto su cui viaggiavano con altre sei persone, è precipitata nel canale Villoresi a Senago, nel Milanese. Il conducente della vettura, un 19enne, è indagato per omicidio stradale aggravato. A quanto em",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/incidente-senago-canale-villoresi-17enni-oggi/8425171/",
+      "published": "Sun, 21 Jun 2026 08:22:08 +0000",
+      "source": "ilfattoquotidiano.it",
       "priority": 10,
       "categories": [
-        "generico"
+        "sangue"
       ],
       "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
-      "title": "Perquisizione all'ex primario vicino a Messina Denaro, sequestrata una pistola20 06 26 - 18:02",
-      "summary": "",
+      "title": "Perquisizione all'ex primario vicino a Messina Denaro, sequestrata una pistola",
+      "summary": "20 06 26 - 18:02",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/perquisizione-allex-primario-vicino-a-messina-denaro-sequestrata-una-pistola",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -42,8 +55,8 @@
       "is_high_priority": false
     },
     {
-      "title": "Lo scudo parlamentare si allarga: inutilizzabili le chat anche contro chi dialoga con i politici19 06 26 - 12:54",
-      "summary": "",
+      "title": "Lo scudo parlamentare si allarga: inutilizzabili le chat anche contro chi dialoga con i politici",
+      "summary": "19 06 26 - 12:54",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/cronache-italia/lo-scudo-parlamentare-si-allarga-inutilizzabili-le-chat-anche-contro-chi-dialoga-con-i-politici",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -55,21 +68,21 @@
       "is_high_priority": false
     },
     {
-      "title": "Napoli: preso latitante alla festa di battesimo del figlio dell'amico19 06 26 - 11:47",
-      "summary": "",
+      "title": "Napoli: preso latitante alla festa di battesimo del figlio dell'amico",
+      "summary": "19 06 26 - 11:47",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-campania/napoli-preso-latitante-alla-festa-di-battesimo-del-figlio-dellamico",
       "published": "",
       "source": "antimafiaduemila.com",
       "priority": 0,
       "categories": [
-        "generale"
+        "generico"
       ],
-      "is_ndrangheta": false,
+      "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
-      "title": "Armi nucleari ad Aviano, il gip rinvia la decisione17 06 26 - 18:43",
-      "summary": "",
+      "title": "Armi nucleari ad Aviano, il gip rinvia la decisione",
+      "summary": "17 06 26 - 18:43",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/giustizia-in-italia/armi-nucleari-ad-aviano-il-gip-rinvia-la-decisione",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -81,8 +94,8 @@
       "is_high_priority": false
     },
     {
-      "title": "Traffico di materiale inerte, cinque misure cautelari nel reggino17 06 26 - 16:25",
-      "summary": "",
+      "title": "Traffico di materiale inerte, cinque misure cautelari nel reggino",
+      "summary": "17 06 26 - 16:25",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-calabria/traffico-di-materiale-inerte-cinque-misure-cautelari-nel-reggino",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -94,8 +107,8 @@
       "is_high_priority": false
     },
     {
-      "title": "Inefficaci le misure previste dal ministro Piantedosi contro la recrudescenza mafiosa16 06 26 - 19:36",
-      "summary": "",
+      "title": "Inefficaci le misure previste dal ministro Piantedosi contro la recrudescenza mafiosa",
+      "summary": "16 06 26 - 19:36",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-sicilia/inefficaci-le-misure-previste-dal-ministro-piantedosi-contro-la-recrudescenza-mafiosa",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -107,8 +120,8 @@
       "is_high_priority": false
     },
     {
-      "title": "Cocaina dal Sud America all'Italia, otto arresti: smantellata rete con base tra Roma e il litorale laziale16 06 26 - 19:27",
-      "summary": "",
+      "title": "Cocaina dal Sud America all'Italia, otto arresti: smantellata rete con base tra Roma e il litorale laziale",
+      "summary": "16 06 26 - 19:27",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/cocaina-dal-sud-america-allitalia-otto-arresti-smantellata-rete-con-base-tra-roma-e-il-litorale-laziale",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -121,8 +134,8 @@
       "is_high_priority": false
     },
     {
-      "title": "Mafia: M5S, indebolita protezione familiari Masciari, interrogazione a Piantedosi16 06 26 - 19:18",
-      "summary": "",
+      "title": "Mafia: M5S, indebolita protezione familiari Masciari, interrogazione a Piantedosi",
+      "summary": "16 06 26 - 19:18",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/mafia-m5s-indebolita-protezione-familiari-masciari-interrogazione-a-piantedosi",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -134,8 +147,8 @@
       "is_high_priority": false
     },
     {
-      "title": "Csm approva il bavaglio per i pm: obbligo di rettifica per le procure11 06 26 - 15:31",
-      "summary": "",
+      "title": "Csm approva il bavaglio per i pm: obbligo di rettifica per le procure",
+      "summary": "11 06 26 - 15:31",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/cronache-italia/csm-approva-il-bavaglio-per-i-pm-obbligo-di-rettifica-per-le-procure",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -147,8 +160,8 @@
       "is_high_priority": false
     },
     {
-      "title": "Tango: ''Polemiche su indagini stragi'93? Ad archiviare è stata una magistrato''10 06 26 - 17:41",
-      "summary": "",
+      "title": "Tango: ''Polemiche su indagini stragi'93? Ad archiviare è stata una magistrato''",
+      "summary": "10 06 26 - 17:41",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/giustizia-in-italia/tango-polemiche-su-indagini-stragi93-ad-archiviare-e-stata-una-magistrato",
       "published": "",
       "source": "antimafiaduemila.com",
@@ -160,284 +173,37 @@
       "is_high_priority": false
     },
     {
-      "title": "Morto un motociclista sull'A26, ferita una giovane",
+      "title": "-09:27Il villaggio Sayonara di Nicotera Marina set del nuovo fotoromanzo di Antonio Zequila: «Calabria bellissima»",
       "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/morto-un-motociclista-sulla26-ferita-una-giovane_388ff97a-4be7-44b5-901c-3f826c8eda56.html",
+      "link": "https://www.lacnews24.it/costume-e-societa/il-villaggio-sayonara-di-nicotera-marina-set-del-nuovo-fotoromanzo-di-antonio-zequila-calabria-bellissima-ggbohtyi",
       "published": "",
-      "source": "ansa.it",
+      "source": "lacnews24.it",
       "priority": 0,
       "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "In E-R bollino rosso per l'emergenza caldo anche per domani e martedì",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/in-e-r-bollino-rosso-per-lemergenza-caldo-anche-per-domani-e-martedi_8f3fb4fc-6351-4a12-8495-00433cac570c.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Assalto al Postamat a Barletta, ladri in fuga a mani vuote",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/assalto-al-postamat-a-barletta-ladri-in-fuga-a-mani-vuote_2f4d359e-0ffd-4578-8b32-7ef215cece0c.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Terza giornata Raduno Alpini Triveneto con premier Meloni",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/terza-giornata-raduno-alpini-triveneto-con-premier-meloni_86e519f6-b39c-4c7f-bdf2-044bd77e2af5.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Tenta di strangolare due bambini a Brescia, disposta custodia in carcere",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/tenta-di-strangolare-due-bambini-a-brescia-disposta-custodia-in-carcere_ed203439-4d15-4250-b27d-d26c85e3aced.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Tre 17enni morti in auto precipitata in un canale nel milanese",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/tre-17enni-morti-in-auto-precipitata-in-un-canale-nel-milanese_443f48c9-c7d9-4fdb-96f7-09d3973aa13b.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Incidente in A26 tra auto e moto, chiuso per ora il tratto con 7 km di coda",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/incidente-in-a26-tra-auto-e-moto-chiuso-per-ora-il-tratto-con_9ff828e5-a8b7-4958-adf0-6912a06284ee.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Crosetto 'rapporto con Usa saldissimo, non ho capito atteggiamento Trump'",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/crosetto-rapporto-con-usa-saldissimo-non-ho-capito-atteggiamento-trump_f0ec3ca5-c3c3-43bb-a5a6-26c945560e21.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Mete preferite, consigli e tendenze: lo speciale estate 2026",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/speciali/editoriali/2026/06/05/mete-preferite-e-consigli-lo-speciale-estate-2026_085ff1fd-d046-4884-b021-597ba6d242ad.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Maturità 2026, la guida completa all'Esame",
-      "summary": "",
-      "link": "https://www.ansa.it/canale_legalita_scuola/notizie/2026/06/03/maturita-2026-dalle-sole-4-materie-allo-stop-alla-scena-muta_a1322c07-b4c0-439a-8ba2-0514a6fddfc0.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Scoperto l'interruttore del sistema nervoso che spegne il prurito",
-      "summary": "",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/06/01/scoperto-linterruttore-del-sistema-nervoso-che-spegne-il-prurito_11939c56-3938-40c2-95ac-d9e53493ea2e.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "La scuola in ospedale del Bambino Gesù compie 50 anni",
-      "summary": "",
-      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/salute_bambini/news/2026/06/04/la-scuola-in-ospedale-del-bambino-gesu-compie-50-anni_e63af236-5265-471b-a191-abad0f7475a7.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Talassoterapia, il mare detox regala benessere",
-      "summary": "",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/05/30/talassoterapia-il-mare-detox-regala-benessere-_02ba54ce-4d31-4a65-a66d-cf06e0aec2c6.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "La storia di Lydia Toraldo Serra, prima sindaca di Tropea",
-      "summary": "",
-      "link": "https://www.ansa.it/donne/notizie/2026/03/11/quando-le-donne-entrarono-in-politica-la-storia-di-lydia-toraldo-serra-prima-sindaca_f40cc268-1c4d-4fb1-ac1f-4897b2777708.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "E' morto Alex Zanardi, omaggio all'eroe che sorpassò paura e pietà",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/sport/2026/05/02/-e-morto-alex-zanardi_f85d5509-b780-4dba-bfbb-844af779616b.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Netta vittoria del No, bloccata la riforma della giustizia",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/03/23/referendum-netta-vittoria-del-no-bloccata-la-riforma-della-giustizia_bf120edc-fbc0-4d82-88a6-581ab82f4317.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Roma Pride, contestato Adinolfi presente con una bandiera di Israele",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/roma-pride-contestato-adinolfi-presente-con-una-bandiera-di-israele_625057f1-a659-47fe-a434-524ff75cffbb.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Roma Pride, al corteo anche l'associazione Lgbtqia+ ebraica Keshet",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/roma-pride-al-corteo-anche-lassociazione-lgbtqia-ebraica-keshet_6ddaec34-a3b9-4e73-b9cb-897e07fdc93d.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Roma Pride, decine di migliaia di partecipanti alla marcia Lgbtqia+",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/roma-pride-decine-di-migliaia-di-partecipanti-alla-marcia-lgbtqia_2a264c20-280d-4401-9dd1-a112f4533ac6.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "generale"
-      ],
-      "is_ndrangheta": false,
-      "is_high_priority": false
-    },
-    {
-      "title": "Narcotraffico, inseguito gommone con 300 chili di cocaina a Cecina",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/narcotraffico-inseguito-gommone-con-300-chili-di-cocaina-a-cecina_917537bf-e991-46e8-9d23-075096182e69.html",
-      "published": "",
-      "source": "ansa.it",
-      "priority": 0,
-      "categories": [
-        "droga"
+        "generico"
       ],
       "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
-      "title": "Rientrati a Roma i primi turisti scampati all'Incendio nel resort della Repubblica Dominicana",
+      "title": "-09:27Il villaggio Sayonara di Nicotera Marina set del nuovo fotoromanzo di Antonio Zequila: «Calabria bellissima»",
       "summary": "",
-      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/rientrati-a-roma-i-primi-turisti-scampati-allincendio-nel-resort-della-repubblica_8560a735-f8cf-4895-9a2c-6ffaf255dccd.html",
+      "link": "https://www.lacnews24.it/costume-e-societa/il-villaggio-sayonara-di-nicotera-marina-set-del-nuovo-fotoromanzo-di-antonio-zequila-calabria-bellissima-ggbohtyi",
       "published": "",
-      "source": "ansa.it",
+      "source": "lacnews24.it",
       "priority": 0,
       "categories": [
-        "sangue"
+        "generico"
       ],
       "is_ndrangheta": true,
       "is_high_priority": false
     },
     {
-      "title": "\"Fare scena\", a Villa Badoer omaggio al maestro Paolino Libralato",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/fare-scena-a-villa-badoer-omaggio-al-maestro-paolino-libralato_3ebd66e6-eeda-4771-9fd9-eb390d529b88.html",
+      "title": "Riforma naufragata, i medici di base calabresi: «Stupiti dalle parole di Occhiuto, semprecollaborativi con la Regione»",
+      "summary": "Il segretario nazionale della Fmt punta il dito contro le contraddizioni interne al partito di Forza Italia: «Barelli e Craxi sin da subito contrari, sorprende la sua insistenza»",
+      "link": "https://www.lacnews24.it/sanita/riforma-naufragata-i-medici-di-base-calabresi-stupiti-dalle-parole-di-occhiuto-sempre-collaborativi-con-la-regione-vxjmkikg",
       "published": "",
-      "source": "ansa.it",
+      "source": "lacnews24.it",
       "priority": 0,
       "categories": [
         "generale"
@@ -446,11 +212,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Scontro suv-scooter in Versilia, muore 17enne: in fuga gli occupanti dell'auto",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/scontro-suv-scooter-in-versilia-muore-17enne-in-fuga-gli-occupanti-dellauto_280813b1-cb2a-4949-a93c-988c85fef5c7.html",
+      "title": "La Sila incanta anche in Europa: una tv tedesca gira un documentariotra lupi e cicognenere",
+      "summary": "La troupe del network SWR, accolta a Lorica dal direttore del Parco Nazionale silano Ilario Treccosti, ha girato anche nella Riserva del Vergari, dove vivono due coppie del rarissimo uccello. Le immagini saranno trasmesse anche in Francia",
+      "link": "https://www.lacnews24.it/ambiente/la-sila-incanta-anche-in-europa-una-tv-tedesca-gira-un-documentario-tra-lupi-e-cicogne-nere-s4s1ve3s",
       "published": "",
-      "source": "ansa.it",
+      "source": "lacnews24.it",
       "priority": 0,
       "categories": [
         "generale"
@@ -459,11 +225,24 @@
       "is_high_priority": false
     },
     {
-      "title": "Controlli della polizia a Catania, 23 cavalli sequestrati e 7 denunce",
-      "summary": "",
-      "link": "https://www.ansa.it/sito/videogallery/italia/2026/06/20/controlli-della-polizia-a-catania-23-cavalli-sequestrati-e-7-denunce_383e3eb6-5201-40a3-ab3e-ed06bd215d4d.html",
+      "title": "L’editore di LaC Maduli visita Affavorì, Crocco: «Qui la Calabria mostra il suovolto migliore»",
+      "summary": "Il presidente del gruppo Diemmecom alla Trattoria delle Persone nel centro storico di Cosenza: incontro tra cucina, solidarietà e inclusione",
+      "link": "https://www.lacnews24.it/attualita/maduli-affavori-trattoria-persone-cosenza-q38khamr",
       "published": "",
-      "source": "ansa.it",
+      "source": "lacnews24.it",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Strage di Amendolara, un’inchiesta sul caporalato in Basilicata può aprirenuovi scenarisul movente del massacro",
+      "summary": "Nelle denunce confluite nel fascicolo aperto a Castrovillari compaiono la stessa azienda agricola, presunti caporali e persone legate ai due pachistani arrestati per il delitto. L’indagine aperta a Matera nel 2025 potrebbe chiarire il contesto del rogo costato la vita a quattro lavoratori migranti",
+      "link": "https://www.lacnews24.it/cronaca/strage-di-amendolara-uninchiesta-sul-caporalato-in-basilicata-puo-aprire-nuovi-scenari-sul-movente-del-massacro-gzoccryz",
+      "published": "",
+      "source": "lacnews24.it",
       "priority": 0,
       "categories": [
         "generale"
@@ -472,11 +251,11 @@
       "is_high_priority": false
     },
     {
-      "title": "A Fiumicino apre la Spiaggia inclusiva, più strutture per persone con disabilità e non",
-      "summary": "",
-      "link": "https://www.ansa.it/lazio/notizie/focus-fiumicino/2026/06/18/a-fiumicino-apre-la-spiaggia-inclusiva-piu-strutture-per-persone-con-disabilita_3f83c872-53fb-49ec-a261-c32caec7bd68.html",
+      "title": "Teatro d’aMare festeggia 10 anni: a Tropea compleanno speciale con sette giorni di spettacoli e laboratori",
+      "summary": "Redazione",
+      "link": "https://www.lacnews24.it/lacalabriavisione/eventi/teatro-damare-festeggia-10-anni-a-tropea-compleanno-speciale-con-sette-giorni-di-spettacoli-e-laboratori-opchqigl",
       "published": "",
-      "source": "ansa.it",
+      "source": "lacnews24.it",
       "priority": 0,
       "categories": [
         "generale"
@@ -485,11 +264,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Fiumicino, 'significativi risultati nella lotta all'evasione fiscale'",
+      "title": "Edizione Mattina",
       "summary": "",
-      "link": "https://www.ansa.it/lazio/notizie/focus-fiumicino/2026/06/11/fiumicino-significativi-risultati-nella-lotta-allevasione-fiscale_9b5764cc-735d-4b4f-acdb-9263fb77e3b5.html",
+      "link": "https://www.lacplay.it/video/lac-news24_470/21-06-26-tg-mattina_106868/",
       "published": "",
-      "source": "ansa.it",
+      "source": "lacnews24.it",
       "priority": 0,
       "categories": [
         "generale"
@@ -498,11 +277,50 @@
       "is_high_priority": false
     },
     {
-      "title": "Fiumicino, ecco le scadenze Tari per l'anno 2026",
+      "title": "Reggio Calabria, 40 anni dopo il diploma: una classe del Liceo Classico “T. Campanella” si ritrova tra emozioni e ricordi",
       "summary": "",
-      "link": "https://www.ansa.it/lazio/notizie/focus-fiumicino/2026/06/04/fiumicino-ecco-le-scadenze-tari-per-lanno-2026_ff39842c-ece5-407c-8f4c-b6208409a1d6.html",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-40-anni-dopo-il-diploma-una-classe-del-liceo-classico-t-campanella-si-ritrova-tra-emozioni-e-ricordi/2103809/",
       "published": "",
-      "source": "ansa.it",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, a Trumbacà Bovetto due giorni dedicati a legalità e comunità con Polizia di Stato e Associazione In Cammino",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-a-trumbaca-bovetto-due-giorni-dedicati-a-legalita-e-comunita-con-polizia-di-stato-e-associazione-in-cammino/2103798/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, spiaggia del Parco Lineare Sud nel degrado: la denuncia di una cittadina | VIDEO",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-spiaggia-del-parco-lineare-sud-nel-degrado-la-denuncia-di-una-cittadina-video/2103792/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Polistena, nasce il progetto di Ambulatorio Solidale del Lions Club “Brutium”",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/polistena-nasce-il-progetto-di-ambulatorio-solidale-del-lions-club-brutium/2103793/",
+      "published": "",
+      "source": "strettoweb.com",
       "priority": 0,
       "categories": [
         "generale"
@@ -511,16 +329,1459 @@
       "is_high_priority": false
     },
     {
-      "title": "Inclusione e sport, contro la povertà educativa in mare con Alessandra Sensini",
+      "title": "Reggio Calabria, l’allarme di un cittadino: “ogni notte fuochi d’artificio e batterie, serve un intervento urgente”",
       "summary": "",
-      "link": "https://www.ansa.it/ansacom/notizie/ansa2030/ferrero/2026/06/17/inclusione-e-sport-contro-la-poverta-educativa-in-mare-con-alessandra-sensini_c09d457e-2983-43d0-b48b-41b4e0839d30.html",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-lallarme-di-un-cittadino-ogni-notte-fuochi-dartificio-e-batterie-serve-un-intervento-urgente/2103786/",
       "published": "",
-      "source": "ansa.it",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Maxi operazione della Polizia tra Crotone e Cirò Marina: oltre 550 persone identificate",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/maxi-operazione-della-polizia-tra-crotone-e-ciro-marina-oltre-550-persone-identificate/2103785/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Caso Fondi H2O: l'Arbitro Consob condanna l'intermediario a risarcire l'investitore accogliendo il ricorso di un legale reggino | DETTAGLI",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/caso-fondi-h2o-larbitro-consob-condanna-lintermediario-a-risarcire-linvestitore-accogliendo-il-ricorso-di-un-legale-reggino-dettagli/2103781/",
+      "published": "",
+      "source": "strettoweb.com",
       "priority": 0,
       "categories": [
         "generale"
       ],
       "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "La Calabria ha la più grande crescita del Pil tra le Regioni d'Italia, Tilde Minasi: \"merito del lavoro di Governo e Regione, fiera e orgogliosa\"",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/la-calabria-ha-la-piu-grande-crescita-del-pil-tra-le-regioni-ditalia-tilde-minasi-merito-del-lavoro-di-governo-e-regione-fiera-e-orgogliosa/2103780/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Domotek Volley tra obiettivi, PalaCalafiore sempre pieno e Dazn. Romeo: \"Serie A2 vetrina nazionale per Reggio Calabria\"",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/domotek-volley-tra-obiettivi-palacalafiore-sempre-pieno-e-dazn-romeo-serie-a2-vetrina-nazionale-per-reggio-calabria/2103776/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "FIT-CISL Calabria: \"accolto con favore il Piano Operativo Triennale 2026-2028 per i Porti della Regione\"",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/fit-cisl-calabria-accolto-con-favore-il-piano-operativo-triennale-2026-2028-per-i-porti-della-regione/2103774/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Cosenza, il club allo scoperto dopo le parole di Rota: \"disposti a cedere, ma non accettiamo condizionamenti\"",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/cosenza-il-club-allo-scoperto-dopo-le-parole-di-rota-disposti-a-cedere-ma-non-accettiamo-condizionamenti/2103772/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Viola, il ko con Pizzighettone cambia nulla... o quasi: per la promozione serve battere Siena e con un distacco preciso",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/viola-il-ko-con-pizzighettone-cambia-nulla-o-quasi-per-la-promozione-serve-battere-siena-e-con-un-distacco-preciso/2103733/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Solstizio d’estate 2026: il giorno più lungo dell’anno tra scienza, tradizioni e significati simbolici | IMMAGINI, VIDEO, FRASI",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/solstizio-destate-2026-il-giorno-piu-lungo-dellanno-tra-scienza-tradizioni-e-significati-simbolici-immagini-video-frasi/2103647/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Pauroso incidente stradale a Messina, giovane in ospedale",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/pauroso-incidente-stradale-a-messina-giovane-in-ospedale/2103767/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "L’avv. Domenico Naccari insignito del premio internazionale “Bronzi di Riace” 2026 | FOTO",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/lavv-domenico-naccari-insignito-del-premio-internazionale-bronzi-di-riace-2026-foto/2103759/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Scilla, grande partecipazione al convegno “L’Uomo e l’Umanità” | FOTO",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/scilla-grande-partecipazione-al-convegno-luomo-e-lumanita-foto/2103749/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, fugge all’alt mentre usa il cellulare: inseguito e fermato un motociclista",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-fugge-allalt-mentre-usa-il-cellulare-inseguito-e-fermato-un-motociclista/2103744/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Ritrovato uomo disperso a Catanzaro: recuperato dai Vigili del Fuoco lungo una scarpata",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/ritrovato-uomo-disperso-a-catanzaro-recuperato-dai-vigili-del-fuoco-lungo-una-scarpata/2103740/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Eros Ramazzotti incanta Messina: sold out allo Stadio \"Franco Scoglio\" tra emozioni e grandi successi",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/eros-ramazzotti-incanta-messina-sold-out-allo-stadio-franco-scoglio-tra-emozioni-e-grandi-successi/2103737/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Viola orribile, Pizzighettone vince ma è fuori. Domani la sfida contro Siena: per i neroarancio sarà promozione o lacrime amare",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/triangolare-promozione-pizzighettone-viola-diretta-risultato-cronaca-tabellino/2103584/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, Giancarlo Camolese e Benny Carbone protagonisti al premio “Stefano Viola” | FOTO",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-giancarlo-camolese-e-benny-carbone-protagonisti-al-premio-stefano-viola-foto/2103717/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Cateno De Luca chiude a Siracusa il tour nelle province siciliane: \"il nostro progetto continua a crescere\"",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/cateno-de-luca-chiude-a-siracusa-il-tour-nelle-province-siciliane-il-nostro-progetto-continua-a-crescere/2103690/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Sicilia, presentata la bozza del decreto contro il caro carburante",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/sicilia-presentata-la-bozza-del-decreto-contro-il-caro-carburante/2103683/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "A Reggio Calabria nasce la Next Gen League: il torneo di calcio dedicato agli U21 | INFO",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/a-reggio-calabria-nasce-la-next-gen-league-il-torneo-di-calcio-dedicato-agli-u21-info/2103656/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Calabria, Iiriti: \"secondo Bankitalia, siamo regione che cresce di più con stabilità e visione\"",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/calabria-iiriti-secondo-bankitalia-siamo-regione-che-cresce-di-piu-con-stabilita-e-visione/2103644/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Pride a Palermo, migliaia in corteo per le vie della città",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/pride-a-palermo-migliaia-in-corteo-per-le-vie-della-citta/2103643/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Tropea, al via il viaggio di Terra Madre 2026",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/tropea-al-via-il-viaggio-di-terra-madre-2026/2103641/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Messina, proclamati i 32 consiglieri comunali a Palazzo Zanca: ufficiale la nuova composizione del Consiglio | NOMI e FOTO",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/messina-proclamati-i-32-consiglieri-comunali-a-palazzo-zanca-ufficiale-la-nuova-composizione-del-consiglio-nomi-e-foto/2103635/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Barcellona Pozzo di Gotto, arrestato dopo la denuncia di un deputato: indagini su presunti atti persecutori e offese via social",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/barcellona-pozzo-di-gotto-arrestato-dopo-la-denuncia-di-un-deputato-indagini-su-presunti-atti-persecutori-e-offese-via-social/2103633/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Gambero Rosso incorona Gelato Cesare come eccellenza della gelateria: \"3 Coni\" per il chioschetto reggino",
+      "summary": "",
+      "link": "https://www.strettoweb.com/2026/06/gambero-rosso-incorona-gelato-cesare-come-eccellenza-della-gelateria-3-coni-per-il-chioschetto-reggino/2103625/",
+      "published": "",
+      "source": "strettoweb.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "L'ora in Italia:",
+      "summary": "L'ora in Italia:",
+      "link": "https://time.is/Italy",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – Il sindaco di San Calogero Nicola Brosio presenta la giunta",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/vibo-valentia/politica/locale/2026/06/19/video-il-sindaco-di-san-calogero-nicola-brosio-presenta-la-giunta",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "LIVE – Quo Vadis Urbs – Quale futuro per le città – terza sessione",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/nazionale/il-dibattito-e-le-idee/liniziativa/2026/06/18/live-quo-vadis-urbs-quale-futuro-per-le-citta-terza-sessione",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "LIVE – Quo Vadis Urbs – Quale futuro per le città – seconda sessione",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/nazionale/il-dibattito-e-le-idee/liniziativa/2026/06/17/live-quo-vadis-urbs-quale-futuro-per-le-citta-seconda-sessione",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "LIVE – Quo Vadis Urbs – Quale futuro per le città – prima sessione",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/nazionale/il-dibattito-e-le-idee/liniziativa/2026/06/17/live-quo-vadis-urbs-quale-futuro-per-le-citta-prima-sessione",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – Beppe Smorto e i 4 Gianni che reinventarono il racconto dello sport",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/cosenza/capitale-umano-e-creativita/libri/2026/06/10/video-beppe-smorto-e-i-4-gianni-che-reinventarono-il-racconto-dello-sport",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – Amendolara, il luogo del ritrovamento dei quattro cadaveri carbonizzati",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/cosenza/cronache/nera/2026/06/01/video-amendolara-il-luogo-del-ritrovamento-dei-quattro-cadaveri-carbonizzati",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – I Kyunos, ovvero il Rock targato Cosenza",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/cosenza/spettacoli/musica/2026/05/18/video-i-kyunos-ovvero-il-rock-targato-cosenza",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – Sergio Crocco racconta il parco giochi a Zanzibar dedicato a Mario Gualtieri",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/cosenza/societa-e-cultura/interviste/2026/05/17/video-sergio-crocco-racconta-il-parco-giochi-a-zanzibar-dedicato-a-mario-gualtieri",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – E se facesse un tour? Intervista a Maurizio Merluzzo",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/cosenza/spettacoli/teatro/2026/05/15/video-e-se-facesse-un-tour-intervista-a-maurizio-merluzzo",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – Giò Di Tonno e la magia di Notre Dame de Paris",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/reggio-calabria/spettacoli/interviste/2026/05/09/video-gio-di-tonno-e-la-magia-di-notre-dame-de-paris",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "SHATTY SHOW, puntata 1: Voi siete Shatty?",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/spettacoli/vita-mondana/2026/04/30/shatty-show-puntata-1-voi-siete-shatty",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "https://vs.ansa.it/sito/video_mp4_export/i20260422093339467.mp4",
+      "summary": "",
+      "link": "https://vs.ansa.it/sito/video_mp4_export/i20260422093339467.mp4",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – I segreti del flyby lunare di Artemis 2 svelati da Alfredo Garro",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/nazionale/capitale-umano-e-creativita/scienza/2026/04/17/video-i-segreti-del-flyby-lunare-di-artemis-2-svelati-da-alfredo-garro",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – Dario Brunori ai giovani: “Raccontate la vostra storia”",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/capitale-umano-e-creativita/musica/2026/04/11/video-dario-brunori-ai-giovani-raccontate-la-vostra-storia",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "VIDEO – La Divina Commedia secondo Andrea Ortis",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/calabria/spettacoli/teatro/2026/04/04/video-la-divina-commedia-secondo-andrea-ortis",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "LIVE – Quo Vadis Urbs – Quale futuro per le città – terza sessione",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/nazionale/il-dibattito-e-le-idee/liniziativa/2026/06/18/live-quo-vadis-urbs-quale-futuro-per-le-citta-terza-sessione",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "LIVE – Quo Vadis Urbs – Quale futuro per le città – seconda sessione",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/nazionale/il-dibattito-e-le-idee/liniziativa/2026/06/17/live-quo-vadis-urbs-quale-futuro-per-le-citta-seconda-sessione",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "LIVE – Quo Vadis Urbs – Quale futuro per le città – prima sessione",
+      "summary": "",
+      "link": "https://www.quotidianodelsud.it/video/nazionale/il-dibattito-e-le-idee/liniziativa/2026/06/17/live-quo-vadis-urbs-quale-futuro-per-le-citta-prima-sessione",
+      "published": "",
+      "source": "quotidianodelsud.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Casino non\n                                        aams",
+      "summary": "Migliori casino non aams sicuri e siti scommesse\n                                        2026",
+      "link": "https://casino-non-aams.linuxguide.it/",
+      "published": "",
+      "source": "retenews24.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Seconda ondata di calore in Italia: oggi 8 città con bollino rosso. In Spagna temperature fino a 42°, in Francia vietata la vendita di alcol",
+      "summary": "Bollino rosso in Italia, temperature fino a 42° in Spagna, allarme anche in Francia, dove è stata anche vietata la vendita di alcol. Le alte temperature hanno colpito diversi Paesi europei, con il picco previsto per oggi, domenica 21 giugno. Partendo dall&#8217;Italia, anticiclone africano e caldo i",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/ondata-calore-italia-europa-bollino-rosso-oggi/8425208/",
+      "published": "Sun, 21 Jun 2026 09:27:13 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "“Risultato di anni di allenamento”. Influencer Safa Brian sfreccia a oltre 80 km/h in bici sul Passo Sella, scoppia la polemica: “Non è un’impresa sportiva, solo una cosa pericolosissima”",
+      "summary": "Il profilo aguzzo delle Dolomiti sullo sfondo e una striscia d&#8217;asfalto che si snoda tra i tornanti del Passo Sella, aperta al normale traffico automobilistico. All&#8217;improvviso, un ciclista si lancia in picchiata a tutta velocità, ripreso dall&#8217;occhio millimetrico di un drone: taglia ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/risultato-di-anni-di-allenamento-influencer-safa-brian-sfreccia-a-oltre-80-km-h-in-bici-sul-passo-sella-scoppia-la-polemica-non-e-unimpresa-sportiva-solo-una-cosa-pericolosissima/8425191/",
+      "published": "Sun, 21 Jun 2026 09:15:09 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Perde l’equilibrio mentre solleva la gamba per mettersi lo spray antizanzare e precipita nel vuoto per 30 metri: “La guida ha cercato di trattenerla ed è quasi caduta a sua volta”",
+      "summary": "Un banale gesto di routine trasformatosi in una caduta fatale nel vuoto. Un&#8217;escursionista di 59 anni, Rosemary Suzart Garcia, è morta precipitando per oltre 30 metri da un sentiero scosceso in Brasile, dopo aver perso l&#8217;equilibrio mentre si spruzzava un repellente per insetti. A riportar",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/perde-lequilibrio-mentre-solleva-la-gamba-per-mettersi-lo-spray-antizanzare-e-precipita-nel-vuoto-per-30-metri-la-guida-ha-cercato-di-trattenerla-ed-e-quasi-caduta-a-sua-volta/8425200/",
+      "published": "Sun, 21 Jun 2026 08:53:40 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "“La proposta di matrimonio a Martina Attili era uno scherzo, non le ho chiesto davvero di sposarmi. De Martino? Ho deciso di non sentirlo”: parla Pierdavide Carone",
+      "summary": "&#8220;Era uno scherzo tra amici, non le ho chiesto di sposarmi. Un giorno potrebbe accadere, ma al momento non è una nostra priorità&#8221;. Così Pierdavide Carone, in un&#8217;intervista rilasciata a Fanpage.it, ha smentito il gossip nato da un video circolato di recente sui social, in cui si ingi",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/la-proposta-di-matrimonio-a-martina-attili-era-uno-scherzo-non-le-ho-chiesto-davvero-di-sposarmi-de-martino-ho-deciso-di-non-sentirlo-parla-pierdavide-carone/8425189/",
+      "published": "Sun, 21 Jun 2026 08:45:02 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "‘Life for Gaza’ a Napoli per “non spegnere la luce sulla Palestina”. Mantovani: “Interessi economici dietro Grande Israele”",
+      "summary": "Napoli riaccende i riflettori sulla drammatica situazione in Palestina e in Libano. Nell’ex base militare Nato di Bagnoli centinaia di persone hanno partecipato alla quarta edizione di “Life for Gaza”, una giornata di mobilitazione tra dibattiti, concerti e spettacoli in sostegno delle comunità pale",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/life-for-gaza-a-napoli-dibattiti-e-spettacoli-per-non-spegnere-la-luce-sulla-palestina/8425184/",
+      "published": "Sun, 21 Jun 2026 08:39:24 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Pitti uomo 110, le tendenze per scarpe e accessori per la primavera-estate 2027: dalle sneaker sportive ai classici d’archivio reinventati e i costumi",
+      "summary": "Si sono chiuse da poco le porte di Pitti Uomo, giunto all’edizione numero centodieci: quattro giornate calde &#8211; in tutti i sensi &#8211; dedicate alle collezioni spring-summer 2027. Il menswear mondiale si è riunito a Firenze per presentare le nuove proposte estive, dagli storici brand Made in ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/pitti-uomo-110-le-tendenze-per-scarpe-e-accessori-per-la-primavera-estate-2027-dalle-sneaker-sportive-ai-classici-darchivio-reinventati-e-i-costumi/8424220/",
+      "published": "Sun, 21 Jun 2026 08:36:53 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "“Victoria Cabello ha fatto uno dei panini più orrendi che abbia mai mangiato, una roba schifosa. Sono stato per due giorni in mezzo all’oceano su una scialuppa, sono arrivati anche i pirati”: così Alessandro Borghese",
+      "summary": "Celebrity chef torna su Sky – mercoledì 24 giugno alle 21.15 &#8211; e Alessandro Borghese ne racconta alcuni retroscena. In una breve intervista rilasciata a 7, il settimanale del Corriere, lo chef e conduttore tv romano ha ricordato che tra i fornelli le celebrità sono davvero imprevedibili. La pe",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/victoria-cabello-ha-fatto-uno-dei-panini-piu-orrendi-che-abbia-mai-mangiato-una-roba-schifosa-sono-stato-per-due-giorni-in-mezzo-alloceano-su-una-scialuppa-sono-arrivati-anche-i-pirati-cosi/8425183/",
+      "published": "Sun, 21 Jun 2026 08:26:24 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "“Lo abbiamo raccolto, ci siamo guardati e ci siamo detti: ‘Cosa ne facciamo?'”: ritrova nel water l’anello di fidanzamento perso 10 anni prima, l’incredibile scoperta degli idraulici",
+      "summary": "Un gioiello rimasto intrappolato per dieci anni nelle tubature di scarico. Un anello di fidanzamento donato nel 1965, dato ormai per perso per sempre, riemerso per puro caso durante un intervento di riparazione d&#8217;emergenza. È quanto accaduto a Howell, in Michigan, dove gli operai della ditta T",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/lo-abbiamo-raccolto-ci-siamo-guardati-e-ci-siamo-detti-cosa-ne-facciamo-ritrova-nel-water-lanello-di-fidanzamento-perso-10-anni-prima-lincredibile-scoperta-degli-idraulici/8425177/",
+      "published": "Sun, 21 Jun 2026 08:19:13 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "“Le faglie di Sant’Andrea e San Giacinto ai massimi degli ultimi 1.000 anni. C’è un accumulo di tensione senza precedenti, si rischia un terremoto devastante”: l’allarme nel nuovo studio",
+      "summary": "Le tensioni accumulate lungo i sistemi di faglie di Sant&#8217;Andrea e San Giacinto, nella California meridionale, hanno raggiunto e in alcuni settori superato i livelli più alti mai registrati negli ultimi mille anni. Il dato, che alza l&#8217;allerta sul rischio di un terremoto devastante in uno ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/le-faglie-di-santandrea-e-san-giacinto-ai-massimi-degli-ultimi-1-000-anni-ce-un-accumulo-di-tensione-senza-precedenti-si-rischia-un-terremoto-devastante-lallarme-nel-nuovo-studio/8425170/",
+      "published": "Sun, 21 Jun 2026 08:09:20 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Oroscopo della settimana: “Leone, c’è un cambiamento positivo all’orizzonte. Relazioni favorite per Ariete e Capricorno”",
+      "summary": "Il Sole ha inaugurato la stagione del Cancro, portando l’attenzione su affetti, emozioni e bisogni più autentici. Dopo settimane frenetiche, il cielo invita a rallentare e a dare maggiore spazio a ciò che fa sentire davvero al sicuro. La Luna si muove dalla Bilancia al Sagittario, accompagnando un p",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/oroscopo-della-settimana-leone-ce-un-cambiamento-positivo-allorizzonte-relazioni-favorite-per-ariete-e-capricorno/8425162/",
+      "published": "Sun, 21 Jun 2026 07:59:44 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "“Gli opininisti sono il cancro della tv. Simona Ventura? Vederla in quelle baracconate mi intristisce. Teo Teocoli dice che sono inaffidabile, mi fa sorridere”: Gene Gnocchi senza filtri",
+      "summary": "“L’opinionismo? È una malattia della tv”. È un Gene Gnocchi senza filtri quello intervistato da FanPage, dove confessa la sua idiosincrasia per la tv di oggi, tutta reality e opinionismo spinto. Lui che il piccolo schermo lo frequenta dagli anni ’80 e dunque ne conosce bene pregi, tic e potenzialità",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/gli-opininisti-sono-il-cancro-della-tv-simona-ventura-vederla-in-quelle-baracconate-mi-intristisce-teo-teocoli-dice-che-sono-inaffidabile-mi-fa-sorridere-gene-gnocchi-senza-filtri/8425159/",
+      "published": "Sun, 21 Jun 2026 07:47:30 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Giorgia dei due mondi: l’imbattibile amica di Donald, ora sua nemica per la pelle",
+      "summary": "La zuffa tra Trump e Meloni con espressioni che in genere si usano al bar, vivono di ciò che sta accadendo nel mondo Maga cui il presidente americano tiene più di ogni altra cosa. L&#8217;America first, il timbro dell&#8217;atto di nascita di questo secondo mandato truumpiano, oggi deve gestire gli ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/giorgia-dei-due-mondi-limbattibile-amica-di-donald-ora-sua-nemica-per-la-pelle/8425029/",
+      "published": "Sun, 21 Jun 2026 07:42:25 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "“Non ti sei mai sentito così alto”: Stanley Tucci a sorpresa ad Ascot con re Carlo e Camilla, il giro in carrozza e il look che non passa inosservato",
+      "summary": "La terza giornata del Royal Ascot si chiama Ladies’ Day ed è tanto colorata e suggestiva come tutte le altre, ma quest’anno, ha consegnato al pubblico una sorpresa inaspettata. Stanley Tucci e signora hanno sfilato nel Royal Ring su una della quattro carrozze che hanno accompagnato il re e Camilla a",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/non-ti-sei-mai-sentito-cosi-alto-stanley-tucci-a-sorpresa-ad-ascot-con-re-carlo-e-camilla-il-giro-in-carrozza-e-il-look-che-non-passa-inosservato/8425143/",
+      "published": "Sun, 21 Jun 2026 07:40:10 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Usa-Iran, Vance atterrato in Svizzera per i colloqui. Media: “Il tema centrale sarà il Libano”. Hormuz resta chiuso",
+      "summary": "L'articolo Usa-Iran, Vance atterrato in Svizzera per i colloqui. Media: &#8220;Il tema centrale sarà il Libano&#8221;. Hormuz resta chiuso proviene da Il Fatto Quotidiano.\n",
+      "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/21/notizie-mondo-internazionale-aggiornamenti-oggi/8425144/",
+      "published": "Sun, 21 Jun 2026 07:24:41 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "“Così aiutiamo i bambini con cardiopatie congenite in Africa”: la sfida del progetto Cuori ribelli",
+      "summary": "“Quando si è in missione le giornate sono intensissime: si operano dai cinquanta ai sessanta bambini per missione, sei-otto bambini al giorno, iniziando alle otto di mattina e finendo alle otto di sera”. Alice Vailati, quarantenne, è diventata infermiera quasi per caso. Mentre faceva volontariato in",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/cardiopatie-congenite-bambini-africa-cuori-ribelli-notizie/8424800/",
+      "published": "Sun, 21 Jun 2026 07:07:32 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Prima terapia genica iniettata nel cervello contro una rara forma di epilessia: il paziente è un bimbo di 8 mesi",
+      "summary": "Un neonato di soli otto mesi è diventato il primo essere umano al mondo a ricevere una terapia genica sperimentale iniettata direttamente nel cervello. L’intervento senza precedenti, eseguito allo Schneider Children’s Medical Center in Israele, è servito a correggere una rarissima e devastante forma",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/terapia-genica-cervello-neonato-notizie/8418453/",
+      "published": "Sun, 21 Jun 2026 07:07:21 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Microplastiche sul Monte Bianco e nei laghi alpini a oltre 2mila metri di quota: “Trasporto atmosferico e attività ricreative sul posto”",
+      "summary": "In alta quota, dove non possono crescere alberi, i terreni e i ghiacciai superstiti, così come le acque, sono contaminate dalle microplastiche. Minuscole particelle di dimensioni comprese tra 1 micron e i 5 millimetri di diametro “che possono essere prodotte o dall&#8217;alterazione di oggetti in pl",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/microplastiche-monte-bianco-laghi-alpini-notizie/8424251/",
+      "published": "Sun, 21 Jun 2026 07:07:08 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Lo scrittore Malaguti: “Fascismo? Retorica che permea le famiglie, anche moderate. Ora le ‘idee da bar’ diventano programma di partito”",
+      "summary": "La definisce &#8220;teoria del caffè corretto grappa&#8220;. Vale a dire quando, nei momenti conviviali, al bar, alla fine di una cena o di un matrimonio, l&#8217;italiano &#8220;si lascia andare&#8221;. E allora via con la litania del &#8220;Mussolini ha fatto anche cose buone&#8221; o &#8220;se so",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/retorica-fascista-malaguti-idee-bar-politica-notizie/8424081/",
+      "published": "Sun, 21 Jun 2026 07:06:46 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "In Veneto tutti sul carro di Vannacci, gli iscritti di FnV superano quelli della Lega: “Qui la gente non ne può più”. Il videoreportage tra “camerati”, Mussolini e bandiere russe",
+      "summary": "&#8220;Qui la gente si è rotta i coglioni, non ce la fa più&#8221;. Corrisponde alla realtà l&#8217;idea secondo cui il Veneto è la regione, in Italia, con le più profonde contraddizioni. È sufficiente percorrerlo, come abbiamo fatto, da ovest a est: dall&#8217;infinita sequenza senz&#8217;ordine di",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/vannacci-veneto-futuro-nazionale-lega-notizie/8421200/",
+      "published": "Sun, 21 Jun 2026 07:06:27 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Elezioni Colombia, Paese blindato per il ballottaggio tra Cepeda e De La Espriella: tra attentati, restrizioni e attacchi ai media",
+      "summary": "Ore tese a Bogotà. Minacce e violenza hanno scandito la vigilia del voto. È il giorno del ballottaggio tra il progressista Iván Cepeda (Pacto Histórico) e l&#8217;ultraconservatore Abelardo De La Espriella (Defensores de la Patria), detto El Tigre, in vantaggio di almeno quattro punti secondo i sond",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/ballottaggio-colombia-cepeda-de-la-espriella-notizie/8424790/",
+      "published": "Sun, 21 Jun 2026 07:06:21 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Mondiali 2026, la classifica marcatori in diretta: super sub Undav, raggiunge David e Messi in testa",
+      "summary": "Tutti a caccia del nuovo record. I Mondiali 2026, la prima edizione a 48 squadre, offrono agli attaccanti la grande occasione per segnare più gol. C&#8217;è un match in più, i sedicesimi di finale. Ci sono soprattutto molte più squadre materasso nei gironi. Chissà se qualcuno riuscirà a superare Jus",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/mondiali-2026-classifica-marcatori-diretta/8416941/",
+      "published": "Sun, 21 Jun 2026 06:28:05 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Adeffo bafta!",
+      "summary": "Adeffo bafta &#8211; la mia vignetta per Il Fatto Quotidiano oggi in edicola! #meloni #trump #satira #vignetta #natangelo\nL'articolo Adeffo bafta! proviene da Il Fatto Quotidiano.\n",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/adeffo-bafta-vignetta-natangelo-21-giugno/8425120/",
+      "published": "Sun, 21 Jun 2026 06:19:29 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Riccardo viveva per strada a 25 anni: la sua storia di rinascita grazie a una comunità attiva",
+      "summary": "Riccardo è un ragazzo di 25 anni, quasi 26, abbandonato dalla sua famiglia. Ha un passato di tossicodipendenza e vive per strada. Si è presentato casualmente alla mia porta. L’ho osservato: è poco più grande di mia figlia maggiore, ma di poco. L’ho visto distratto, perso, con la testa tra le nuvole.",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/riccardo-senzatetto-rinascita-comunita-attiva/8423595/",
+      "published": "Sun, 21 Jun 2026 05:47:47 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Mondiali, i risultati della notte: la Germania ribalta la Costa d’Avorio, è ai sedicesimi. Primo storico punto per Curacao – La nuova classifica dei gironi",
+      "summary": "I risultati del 21-22 giugno Ecuador-Curacao 0-0 Tunisia-Giappone 0-4 Germania-Costa d&#8217;Avorio 2-1 Olanda-Svezia 5-1 Mondiali, la nuova classifica aggiornata oggi Mondiali 2026, la classifica marcatori in diretta Mondiali 2026, i gironi e il nuovo regolamento Calendario Mondiali: date e orari, ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/21/mondiali-2026-risultati-oggi-nuova-classifica-gironi/8416831/",
+      "published": "Sun, 21 Jun 2026 05:16:37 +0000",
+      "source": "ilfattoquotidiano.it",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Trasporto aereo, indennizzi fermi al 2005. Ecco cosa cambia con le nuove regole Ue",
+      "summary": "Le indicazioni di RimborsoAlVolo. Previsti 250 euro per i voli entro i 1.500 km, 400 euro per tratte tra 1.500 e 3.500 km e 600 euro per tutte le tratte più lunghe",
+      "link": "https://www.ilsole24ore.com/art/trasporto-aereo-indennizzi-fermi-2005-ecco-cosa-cambia-le-nuove-regole-ue-AIG8NumD",
+      "published": "Sun, 21 Jun 2026 09:30:19 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Industria difesa, in Italia l’offerta di lavoro è aumentata del 12% in sei anni",
+      "summary": "A delineare questo scenario è Indeed, una piattaforma globale di recruiting sulla base della sua esperienza",
+      "link": "https://www.ilsole24ore.com/art/industria-difesa-italia-l-offerta-lavoro-e-aumentata-12percento-sei-anni-AIwxpzmD",
+      "published": "Sun, 21 Jun 2026 08:29:23 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Crosetto: rapporto con Usa saldissimo, non ho capito atteggiamento di Trump",
+      "summary": "Il ministro della Difesa assicura: «I rapporti che ho con gli Stati Uniti, anche in queste ore, sono sempre assolutamente normali e non sono cambiati, non sono mutati, compreso quelli con l’ambasciatore americano in Italia con cui i rapporti sono ottimi e penso sia anche lui in grande difficoltà in ",
+      "link": "https://www.ilsole24ore.com/art/crosetto-rapporto-usa-saldissimo-non-ho-capito-atteggiamento-trump-AI1MtbnD",
+      "published": "Sun, 21 Jun 2026 07:58:53 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "L’estate pazza dei prezzi: ad agosto fino a 300mila euro per una settimana a Firenze e 238mila euro per una tenda in Salento",
+      "summary": "L’indagine del Codacons per scovare da nord a sud Italia i prezzi “pazzi” dell’estate 2026",
+      "link": "https://www.ilsole24ore.com/art/l-estate-pazza-prezzi-ad-agosto-fino-300mila-euro-una-settimana-firenze-e-238mila-euro-una-tenda-salento-AIwDPtmD",
+      "published": "Sun, 21 Jun 2026 06:38:00 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Venezia studia il ticket di accesso a 50 euro ma la proposta del sindaco divide",
+      "summary": "Il sindaco Venturini al lavoro su un incremento del contributo, esentando - oltre ai residenti e ai lavoratori - anche i turisti che scelgono di pernottare nella laguna. No delle opposizioni. Favorevoli gli albergatori",
+      "link": "https://www.ilsole24ore.com/art/venezia-studia-ticket-accesso-50-euro-ma-proposta-sindaco-divide-AIMdSFnD",
+      "published": "Sat, 20 Jun 2026 16:41:00 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "FdI contro Pellegrini (M5S): pubblica selfie falso Meloni-Trump, magistratura agisca",
+      "summary": "Il capogruppo di Fratelli d’Italia alla Camera Galeazzo Bignami chiede le dimissioni del deputato pentastellato dal Copasir. Malan: disinformazione su una controversia internazionale che sta indebolendo l’Occidente a vantaggio di competitor come Russia e Cina",
+      "link": "https://www.ilsole24ore.com/art/fdi-contro-pellegrini-m5s-pubblica-selfie-falso-meloni-trump-magistratura-agisca-AIHRgAnD",
+      "published": "Sat, 20 Jun 2026 15:41:00 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Caldo, dal bollino verde al rosso in 27 città",
+      "summary": "Per comunicare i possibili effetti sulla salute delle ondate di calore il ministero della Salute elabora dei bollettini giornalieri per 27 città, con previsioni fino a 48 ore. Guarda il...",
+      "link": "https://www.ilsole24ore.com/art/bollettino-ondate-calore-AISANRID",
+      "published": "Sat, 20 Jun 2026 13:08:00 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Nuova ondata di calore in Europa: oggi il picco",
+      "summary": "L’estate è iniziata in modo estremo per decine di milioni di europei con una nuova ondata di calore legata ai cambiamenti climatici che ha colpito il Vecchio continente e che...",
+      "link": "https://www.ilsole24ore.com/art/nuova-ondata-calore-europa-picco-sara-domenica-AITUc7mD",
+      "published": "Sat, 20 Jun 2026 12:52:00 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Oggi solstizio d’estate, il giorno più lungo dell’anno: ecco cosa accade",
+      "summary": "Nell’emisfero boreale, che è quello dell’Italia, non cade sempre lo stesso giorno e alla stessa ora, ma varia in genere tra il 20 e il 22 giugno. Quest’anno il solstizio d’estate si verifica esattamente il 21 giugno, dalle ore 10:24",
+      "link": "https://www.ilsole24ore.com/art/domenica-sara-solstizio-d-estate-giorno-piu-dell-anno-ecco-cosa-accade-AIikD6mD",
+      "published": "Sat, 20 Jun 2026 12:30:00 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Arriva il tax day del 30 giugno, per partite Iva più tempo per pagare",
+      "summary": "Per i contribuenti non interessati dalla proroga deadline della proroga anche per il saldo 2025 e il primo acconto 2026 sulla cedolare secca per gli affitti",
+      "link": "https://www.ilsole24ore.com/art/fisco-arriva-tax-day-30-giugno-ma-partite-iva-hanno-piu-tempo-pagare-AIBbAUmD",
+      "published": "Sat, 20 Jun 2026 12:26:00 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Repubblica Dominicana: italiana muore fuggendo dall’incendio di un resort",
+      "summary": "È Francesca Valentino, originaria di Caserta, la donna italiana morta nell’incendio che ha quasi distrutto completamente un resort nella Repubblica Dominicana. Il rogo ha costretto a evacuare circa 1.700 turisti....",
+      "link": "https://www.ilsole24ore.com/art/repubblica-dominicana-italiana-muore-fuggendo-dall-incendio-un-resort-AIko7zmD",
+      "published": "Sat, 20 Jun 2026 10:08:48 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Prestiti, +3% a maggio. Depositi a livelli record: salgono a 1.890 miliardi",
+      "summary": "Per le famiglie è il diciassettesimo mese consecutivo di incremento e per le imprese è l’undicesimo mese consecutivo di crescita dei prestiti",
+      "link": "https://www.ilsole24ore.com/art/prestiti-3percento-maggio-depositi-livelli-record-salgono-1890-miliardi-AI1BhumD",
+      "published": "Sat, 20 Jun 2026 08:36:00 GMT",
+      "source": "ilsole24ore.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+      "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 04:34:00 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
+      "summary": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
+      "link": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 16:37:03 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.",
+      "link": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 17:40:43 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "summary": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
+      "link": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 23:17:51 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+      "summary": "Davey Hearn says he was simply touching the new paint at the site out of curiosity and did not remove or alter it.",
+      "link": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 07:16:54 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+      "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
+      "link": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 15:31:12 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "link": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 21:57:36 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
+      "link": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 16:34:15 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "France bans alcohol at music festival events under red heatwave alert",
+      "summary": "Annual street parties attended by millions ordered to help “preserve” healthcare services in 40C (104F) heat.",
+      "link": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 00:29:51 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "US to stop funding HIV programmes in South Africa",
+      "summary": "More than eight million South Africans are living with HIV – the highest number of any country in the world.",
+      "link": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 23:35:07 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
+      "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found. ",
+      "link": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 03:12:47 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
+      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
+      "link": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 02:33:30 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Bolivian president declares state of emergency",
+      "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
+      "link": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 15:27:09 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Tourist dies in Dominican Republic luxury resort fire",
+      "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
+      "link": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 17:33:25 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
+      "summary": "Best-known as co-creator of sitcom Cheers, Burrows directed more than 1,000 episodes of other classics including the Big Bang Theory and Will and Grace.",
+      "link": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 00:23:46 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Boy, 12, wins hearts after trying to check sick chicken into Ethiopian hospital",
+      "summary": "Markos's beloved hen was not responding to any treatments - so he did the only thing he could think of.",
+      "link": "https://www.bbc.com/news/articles/cy49e7w3rmxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 10:25:30 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
+      "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023. ",
+      "link": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 10:28:22 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "Zimbabwe MPs pass bill to extend president's time in power",
+      "summary": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
+      "link": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 08:03:32 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+      "link": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 14:45:57 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Mangione's lawyers reverse course on psychiatric defence in state murder trial",
+      "summary": "The defence team reverse course a day after saying they would argue he suffered \"extreme emotional disturbance\".",
+      "link": "https://www.bbc.com/news/articles/c20y162gpm6o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 00:13:45 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
+      "summary": "Some see a double standard: Japanese men who clean in public while their wives do all the housework.",
+      "link": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 04:30:47 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Pétanque player, 68, dies after being 'hit in head with metal boule'",
+      "summary": "The man was allegedly struck by his 81-year-old opponent, who has since been arrested, the public prosecutor says.",
+      "link": "https://www.bbc.com/news/articles/cvgmny9v14no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 17:30:24 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
+      "is_high_priority": false
+    },
+    {
+      "title": "UK actress charged with importing meth worth almost A$300m into Australia",
+      "summary": "Emaa Hussen, 34, faces life in prison for allegedly trying to smuggle 320kg of meth hidden in bags of charcoal.",
+      "link": "https://www.bbc.com/news/articles/ckg5nq0172no?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 01:04:14 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Asia's richest man Ambani announces what could be India's biggest share sale",
+      "summary": "India's largest telecom operator is expected to raise around $4bn (£3.02bn), according to media reports. ",
+      "link": "https://www.bbc.com/news/articles/cx2kerpkynko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 10:13:41 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "In Trump's shadow, Vance becomes face of Iran deal",
+      "summary": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
+      "link": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 04:12:07 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+      "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones were launched towards an area to the south-east of the Russian capital.",
+      "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 18 Jun 2026 15:46:36 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
+      "summary": "Niger has been fighting a militant Islamist insurgency for a decade and in January suspected jihadists attacked the same airport.",
+      "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 19 Jun 2026 09:43:30 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Backstage at Gorillaz' epic, one-off stadium show: 'The vibe is ridiculous'",
+      "summary": "Damon Albarn, De La Soul and Moonchild Sannelly talk backstage as Gorillaz play their biggest show.",
+      "link": "https://www.bbc.com/news/articles/cm203gndx0lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 21 Jun 2026 01:14:49 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "At CrimeCon true crime obsessives come face-to-face with real loss",
+      "summary": "Victims' families say there are ways to be an ethical true-crime fan - not an exploitative one.",
+      "link": "https://www.bbc.com/news/articles/cr47z6ykp2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 23:26:45 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generale"
+      ],
+      "is_ndrangheta": false,
+      "is_high_priority": false
+    },
+    {
+      "title": "Steve Rosenberg: Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "link": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 20 Jun 2026 10:19:34 GMT",
+      "source": "bbc.com",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_ndrangheta": true,
       "is_high_priority": false
     }
   ]
