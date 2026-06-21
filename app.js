@@ -1,40 +1,50 @@
 const NEWS_DATA_URL = 'news_data.json';
 
+let currentTab = 'home';
+let currentFilter = 'all';
+
 document.addEventListener('DOMContentLoaded', function() {
     const navButtons = document.querySelectorAll('.nav-btn');
     const tabContents = document.querySelectorAll('.tab-content');
     const filterChips = document.querySelectorAll('.chip');
 
+    // Cambio tab - RESETTA il filtro
     navButtons.forEach(button => {
         button.addEventListener('click', function() {
-            const targetTab = this.getAttribute('data-tab');
+            currentTab = this.getAttribute('data-tab');
+            currentFilter = 'all';
+            
             navButtons.forEach(btn => btn.classList.remove('active'));
             tabContents.forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+            document.querySelector('.chip[data-filter="all"]').classList.add('active');
+            
             this.classList.add('active');
-            document.getElementById(targetTab).classList.add('active');
+            document.getElementById(currentTab).classList.add('active');
+            
+            loadAndDisplay();
         });
     });
 
+    // Gestione filtri sottocategoria
     filterChips.forEach(chip => {
         chip.addEventListener('click', function() {
-            filterChips.forEach(c => c.classList.remove('active'));
+            document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
             this.classList.add('active');
-            const filter = this.getAttribute('data-filter');
-            loadNews(filter);
+            currentFilter = this.getAttribute('data-filter');
+            loadAndDisplay();
         });
     });
 
     document.getElementById('btn-refresh').addEventListener('click', function() {
-        loadNews('all');
+        loadAndDisplay();
     });
 
     const toggleNotifications = document.getElementById('toggle-notifications');
     const toggleHotNews = document.getElementById('toggle-hot-news');
 
     toggleNotifications.addEventListener('change', function() {
-        if (this.checked) {
-            requestNotificationPermission();
-        }
+        if (this.checked) requestNotificationPermission();
         localStorage.setItem('notifications', this.checked);
     });
 
@@ -45,9 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
     toggleNotifications.checked = localStorage.getItem('notifications') !== 'false';
     toggleHotNews.checked = localStorage.getItem('hotNews') !== 'false';
 
-    if (toggleNotifications.checked) {
-        requestNotificationPermission();
-    }
+    if (toggleNotifications.checked) requestNotificationPermission();
 
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('sw.js')
@@ -55,52 +63,66 @@ document.addEventListener('DOMContentLoaded', function() {
             .catch(err => console.log('Errore Service Worker:', err));
     }
 
-    loadNews('all');
+    loadAndDisplay();
 });
 
-async function loadNews(filter = 'all') {
+async function loadAndDisplay() {
     try {
-        console.log('Caricamento notizie da:', NEWS_DATA_URL);
         const response = await fetch(NEWS_DATA_URL + '?t=' + Date.now());
-        
-        if (!response.ok) {
-            throw new Error('HTTP ' + response.status + ' - File non trovato');
-        }
-        
+        if (!response.ok) throw new Error('HTTP ' + response.status);
         const data = await response.json();
-        console.log('Notizie caricate:', data.total_news);
-        console.log('Ultimo aggiornamento:', data.last_update);
-        
-        displayNews(data.news, filter);
-        
+        displayNews(data.news);
     } catch (error) {
-        console.error('Errore caricamento:', error);
+        console.error('Errore:', error);
         showError(error.message);
     }
 }
 
-function displayNews(news, filter) {
-    let filteredNews = news;
+function displayNews(allNews) {
+    if (currentTab === 'home') {
+        displayHome(allNews);
+    } else if (currentTab === 'ndrangheta') {
+        displayNdrangheta(allNews);
+    } else if (currentTab === 'mondo') {
+        displayMondo(allNews);
+    }
+}
+
+function displayHome(allNews) {
+    // HOME: top news Italia + top news Mondo
+    const newsItalia = allNews.filter(n => n.section === 'italia' || n.section === 'crime_italy');
+    const newsMondo = allNews.filter(n => n.section === 'mondo');
+    const breaking = allNews.filter(n => n.is_high_priority);
     
-    if (filter !== 'all') {
-        filteredNews = news.filter(n => n.categories.includes(filter));
+    displayNewsList('breaking-news', breaking.slice(0, 5));
+    displayNewsList('top-news', [...newsItalia.slice(0, 5), ...newsMondo.slice(0, 5)].slice(0, 10));
+}
+
+function displayNdrangheta(allNews) {
+    // NDRANGHETA: solo notizie section='ndrangheta'
+    let news = allNews.filter(n => n.section === 'ndrangheta');
+    
+    if (currentFilter !== 'all') {
+        news = news.filter(n => n.categories.includes(currentFilter));
     }
     
-    const breakingNews = filteredNews.filter(n => n.is_high_priority).slice(0, 5);
-    displayNewsList('breaking-news', breakingNews);
+    displayNewsList('ndrangheta-news', news);
+}
+
+function displayMondo(allNews) {
+    // MONDO: solo notizie section='mondo'
+    let news = allNews.filter(n => n.section === 'mondo');
     
-    const topNews = filteredNews.filter(n => !n.is_high_priority && n.is_ndrangheta).slice(0, 10);
-    displayNewsList('top-news', topNews);
+    if (currentFilter !== 'all') {
+        news = news.filter(n => n.categories.includes(currentFilter));
+    }
     
-    const ndranghetaNews = filteredNews.filter(n => n.is_ndrangheta);
-    displayNewsList('ndrangheta-news', ndranghetaNews);
-    
-    const mondoNews = filteredNews.filter(n => !n.is_ndrangheta).slice(0, 15);
-    displayNewsList('mondo-news', mondoNews);
+    displayNewsList('mondo-news', news);
 }
 
 function displayNewsList(elementId, news) {
     const container = document.getElementById(elementId);
+    if (!container) return;
     
     if (!news || news.length === 0) {
         container.innerHTML = '<div class="news-card"><div class="news-title">Nessuna notizia disponibile</div></div>';
@@ -108,13 +130,13 @@ function displayNewsList(elementId, news) {
     }
     
     container.innerHTML = news.map(item => {
-        const categoryIcon = getCategoryIcon(item.categories);
+        const categoryIcon = getCategoryIcon(item.categories, item.section);
         const priorityBadge = item.is_high_priority ? '<span style="color:#ff4444;font-weight:bold;">🚨 </span>' : '';
         
         return `
         <div class="news-card" onclick="window.open('${item.link}', '_blank')">
             <div class="news-title">${priorityBadge}${categoryIcon} ${item.title}</div>
-            <div class="news-summary">${item.summary || 'Clicca per leggere l\'articolo completo'}</div>
+            <div class="news-summary">${item.summary}</div>
             <div class="news-meta">
                 <span>📰 ${item.source}</span>
                 <span>${formatDate(item.published)}</span>
@@ -123,11 +145,26 @@ function displayNewsList(elementId, news) {
     `}).join('');
 }
 
-function getCategoryIcon(categories) {
-    if (categories.includes('arresti')) return '👮';
-    if (categories.includes('scarcerazioni')) return '🔓';
-    if (categories.includes('droga')) return '💊';
-    if (categories.includes('sangue')) return '🔫';
+function getCategoryIcon(categories, section) {
+    if (section === 'ndrangheta') {
+        if (categories.includes('arresti')) return '👮';
+        if (categories.includes('scarcerazioni')) return '🔓';
+        if (categories.includes('droga')) return '💊';
+        if (categories.includes('sangue')) return '🔫';
+        return '🔍';
+    } else if (section === 'mondo') {
+        if (categories.includes('guerre')) return '⚔️';
+        if (categories.includes('ucraina-russia')) return '🇺🇦';
+        if (categories.includes('medio-oriente')) return '🇮🇱';
+        if (categories.includes('leader')) return '👤';
+        return '🌍';
+    } else if (section === 'italia') {
+        if (categories.includes('politica')) return '🏛️';
+        if (categories.includes('economia')) return '💶';
+        return '🇮🇹';
+    } else if (section === 'crime_italy') {
+        return '🚔';
+    }
     return '📰';
 }
 
@@ -136,10 +173,8 @@ function formatDate(dateString) {
     try {
         const date = new Date(dateString);
         return date.toLocaleDateString('it-IT', { 
-            day: '2-digit', 
-            month: '2-digit', 
-            hour: '2-digit', 
-            minute: '2-digit' 
+            day: '2-digit', month: '2-digit', 
+            hour: '2-digit', minute: '2-digit' 
         });
     } catch (e) {
         return '';
@@ -149,27 +184,22 @@ function formatDate(dateString) {
 function showError(message) {
     const containers = ['breaking-news', 'top-news', 'ndrangheta-news', 'mondo-news'];
     containers.forEach(id => {
-        document.getElementById(id).innerHTML = `
-            <div class="news-card">
-                <div class="news-title">⚠️ Errore caricamento</div>
-                <div class="news-summary">
-                    <strong>Errore:</strong> ${message}<br><br>
-                    <strong>Cosa fare:</strong><br>
-                    1. Verifica che il file news_data.json esista<br>
-                    2. Controlla la console del browser (F12)<br>
-                    3. Prova a ricaricare la pagina
+        const el = document.getElementById(id);
+        if (el) {
+            el.innerHTML = `
+                <div class="news-card">
+                    <div class="news-title">⚠️ Errore caricamento</div>
+                    <div class="news-summary">${message}</div>
                 </div>
-            </div>
-        `;
+            `;
+        }
     });
 }
 
 function requestNotificationPermission() {
     if ('Notification' in window) {
         Notification.requestPermission().then(permission => {
-            if (permission === 'granted') {
-                console.log('Permessi notifiche concessi');
-            }
+            if (permission === 'granted') console.log('Permessi notifiche concessi');
         });
     }
 }
