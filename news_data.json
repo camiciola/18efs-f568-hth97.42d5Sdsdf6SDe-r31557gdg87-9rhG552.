@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-21T10:24:35.700679",
-  "total_news": 46,
+  "last_update": "2026-06-21T10:54:05.167486",
+  "total_news": 50,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -29,6 +29,20 @@
       "is_high_priority": true
     },
     {
+      "title": "Il Centro Calabrese di Solidarietà Ets celebra 40 anni di impegno",
+      "summary": "UltimeIl Centro Calabrese di Solidarietà Ets celebra 40 anni di impegnoMeloni a sorpresa al raduno degli alpiniLa sanità dipende sempre più dal reddito e dal territorio: crescono le disparità nell’accesso a cure e prevenzioneControlli dei carabinieri: denunce, arresti e sanzioni nel Crotonese«L’Auto...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/il-centro-calabrese-di-solidarieta-ets-celebra-40-anni-di-impegno/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 10,
+      "categories": [
+        "arresti",
+        "sangue"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Perquisizione all'ex primario vicino a Messina Denaro, sequestrata una pistola",
       "summary": "20 06 26 - 18:02",
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/perquisizione-allex-primario-vicino-a-messina-denaro-sequestrata-una-pistola",
@@ -47,10 +61,10 @@
       "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-campania/napoli-preso-latitante-alla-festa-di-battesimo-del-figlio-dellamico",
       "published": "",
       "source": "antimafiaduemila.com",
-      "section": "crime_italy",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "crime_italy"
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -95,15 +109,15 @@
       "is_high_priority": false
     },
     {
-      "title": "«Un bullo cresciuto in un ambiente tossico»: la personalità di Donald Trump spiegata dalla nipote psicologa",
+      "title": "La calabrese Teresa Maradei all’assemblea Confcommercio a Roma: «Mi ha colpito il richiamo al “sense of Italy”»",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/italia-mondo/un-bullo-cresciuto-in-un-ambiente-tossico-la-personalita-di-donald-trump-spiegata-dalla-nipote-psicologa-lu7xddel",
+      "link": "https://www.lacnews24.it/economia-e-lavoro/la-calabrese-teresa-maradei-allassemblea-confcommercio-a-roma-mi-ha-colpito-il-richiamo-al-sense-of-italy-nt6k9pcg",
       "published": "",
       "source": "lacnews24.it",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "leader"
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -130,6 +144,19 @@
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sondaggi Politici: Cateno De Luca nella top ten della fiducia degli italiani, il Premier Meloni nettamente al primo posto | DATI",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/sondaggi-politici-cateno-de-luca-nella-top-ten-della-fiducia-degli-italiani-il-premier-meloni-nettamente-al-primo-posto-dati/2103818/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
       ],
       "is_high_priority": false
     },
@@ -239,6 +266,58 @@
       "is_high_priority": false
     },
     {
+      "title": "il 50esimo anniversario del terremoto in friuliMeloni a sorpresa al raduno degli alpiniVisita lampo della premier, che ha ricevuto il saluto della folla",
+      "summary": "il 50esimo anniversario del terremoto in friuli",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/meloni-a-sorpresa-al-raduno-degli-alpini/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "ALTA TENSIONE IN MEDIO ORIENTE«Lo Stretto di Hormuz chiuso fino a nuovo ordine»Teheran aveva disposto la chiusura dopo gli attacchi di Israele sul Libano",
+      "summary": "ALTA TENSIONE IN MEDIO ORIENTE",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/lo-stretto-di-hormuz-chiuso-fino-a-nuovo-ordine/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "medio-oriente"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Violenza sessuale nella Sibaritide, un 25enne avrebbe abusato di una collega di lavoroil caso",
+      "summary": "il caso",
+      "link": "https://www.corrieredellacalabria.it/2026/06/21/violenza-sessuale-nella-sibaritide-un-25enne-avrebbe-abusato-di-una-collega-di-lavoro/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "‘Ndrangheta a Cortale, il patto per la fornitura di frutta e 200-300 euro in più nei lavori. «Devi prendere roba di qualità»artemis 2",
+      "summary": "artemis 2",
+      "link": "https://www.corrieredellacalabria.it/2026/06/20/ndrangheta-a-cortale-il-patto-per-la-fornitura-di-frutta-e-200-300-euro-in-piu-nei-lavori-devi-prendere-roba-di-qualita/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "“Risultato di anni di allenamento”. Influencer Safa Brian sfreccia a oltre 80 km/h in bici sul Passo Sella, scoppia la polemica: “Non è un’impresa sportiva, solo una cosa pericolosissima”",
       "summary": "Il profilo aguzzo delle Dolomiti sullo sfondo e una striscia d&#8217;asfalto che si snoda tra i tornanti del Passo Sella, aperta al normale traffico automobilistico. All&#8217;improvviso, un ciclista si lancia in picchiata a tutta velocità, ripreso dall&#8217;occhio millimetrico di un drone: taglia ",
       "link": "https://www.ilfattoquotidiano.it/2026/06/21/risultato-di-anni-di-allenamento-influencer-safa-brian-sfreccia-a-oltre-80-km-h-in-bici-sul-passo-sella-scoppia-la-polemica-non-e-unimpresa-sportiva-solo-una-cosa-pericolosissima/8425191/",
@@ -292,8 +371,8 @@
       "is_high_priority": false
     },
     {
-      "title": "Usa-Iran, Vance atterrato in Svizzera per i colloqui. Media: “Il tema centrale sarà il Libano”. Hormuz resta chiuso",
-      "summary": "L'articolo Usa-Iran, Vance atterrato in Svizzera per i colloqui. Media: &#8220;Il tema centrale sarà il Libano&#8221;. Hormuz resta chiuso proviene da Il Fatto Quotidiano.\n",
+      "title": "Usa-Iran, al via i colloqui in Svizzera. Teheran: “Nessun accordo possibile senza la pace in Libano “. Hormuz resta chiuso",
+      "summary": "L'articolo Usa-Iran, al via i colloqui in Svizzera. Teheran: &#8220;Nessun accordo possibile senza la pace in Libano &#8220;. Hormuz resta chiuso proviene da Il Fatto Quotidiano.\n",
       "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/21/notizie-mondo-internazionale-aggiornamenti-oggi/8425144/",
       "published": "Sun, 21 Jun 2026 07:24:41 +0000",
       "source": "ilfattoquotidiano.it",
@@ -331,28 +410,28 @@
       "is_high_priority": false
     },
     {
-      "title": "Lo scrittore Malaguti: “Fascismo? Retorica che permea le famiglie, anche moderate. Ora le ‘idee da bar’ diventano programma di partito”",
-      "summary": "La definisce &#8220;teoria del caffè corretto grappa&#8220;. Vale a dire quando, nei momenti conviviali, al bar, alla fine di una cena o di un matrimonio, l&#8217;italiano &#8220;si lascia andare&#8221;. E allora via con la litania del &#8220;Mussolini ha fatto anche cose buone&#8221; o &#8220;se so",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/retorica-fascista-malaguti-idee-bar-politica-notizie/8424081/",
-      "published": "Sun, 21 Jun 2026 07:06:46 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "In Veneto tutti sul carro di Vannacci, gli iscritti di FnV superano quelli della Lega: “Qui la gente non ne può più”. Il videoreportage tra “camerati”, Mussolini e bandiere russe",
-      "summary": "&#8220;Qui la gente si è rotta i coglioni, non ce la fa più&#8221;. Corrisponde alla realtà l&#8217;idea secondo cui il Veneto è la regione, in Italia, con le più profonde contraddizioni. È sufficiente percorrerlo, come abbiamo fatto, da ovest a est: dall&#8217;infinita sequenza senz&#8217;ordine di",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/21/vannacci-veneto-futuro-nazionale-lega-notizie/8421200/",
-      "published": "Sun, 21 Jun 2026 07:06:27 +0000",
-      "source": "ilfattoquotidiano.it",
+      "title": "Il Papa sui rifugiati: nessuno può voltarsi dall’altra parte",
+      "summary": "Leone XIV ha ricordato che sabato 20 giugno è stata celebrata la Giornata del Rifugiato nella ricorrenza del 75° anniversario della Convenzione sullo Stato dei Rifugiati, «nata per proteggere quanti sono perseguitati e costretti a lasciare la propria terra, la casa e la famiglia»",
+      "link": "https://www.ilsole24ore.com/art/il-papa-rifugiati-nessuno-puo-voltarsi-dall-altra-parte-AI7hehnD",
+      "published": "Sun, 21 Jun 2026 10:50:13 GMT",
+      "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Yoga e Pilates, la sfida tra benessere ed economia sportiva",
+      "summary": "Più che rivali, sono cugini. Non in concorrenza ma discipline complementari. Una, lo yoga, ha una storia millenaria, l’altra, il pilates, giusto un secolo, ma riescono ad accomunare...",
+      "link": "https://www.ilsole24ore.com/art/yoga-e-pilates-benessere-ed-economia-sportiva-AIu8rhnD",
+      "published": "Sun, 21 Jun 2026 10:39:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "economia"
       ],
       "is_high_priority": false
     },
@@ -409,20 +488,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Crosetto: rapporto con Usa saldissimo, non ho capito atteggiamento di Trump",
-      "summary": "Il ministro della Difesa assicura: «I rapporti che ho con gli Stati Uniti, anche in queste ore, sono sempre assolutamente normali e non sono cambiati, non sono mutati, compreso quelli con l’ambasciatore americano in Italia con cui i rapporti sono ottimi e penso sia anche lui in grande difficoltà in ",
-      "link": "https://www.ilsole24ore.com/art/crosetto-rapporto-usa-saldissimo-non-ho-capito-atteggiamento-trump-AI1MtbnD",
-      "published": "Sun, 21 Jun 2026 07:58:53 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L’estate pazza dei prezzi: ad agosto fino a 300mila euro per una settimana a Firenze e 238mila euro per una tenda in Salento",
       "summary": "L’indagine del Codacons per scovare da nord a sud Italia i prezzi “pazzi” dell’estate 2026",
       "link": "https://www.ilsole24ore.com/art/l-estate-pazza-prezzi-ad-agosto-fino-300mila-euro-una-settimana-firenze-e-238mila-euro-una-tenda-salento-AIwDPtmD",
@@ -445,19 +510,6 @@
       "priority": 0,
       "categories": [
         "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Oggi solstizio d’estate, il giorno più lungo dell’anno: ecco cosa accade",
-      "summary": "Nell’emisfero boreale, che è quello dell’Italia, non cade sempre lo stesso giorno e alla stessa ora, ma varia in genere tra il 20 e il 22 giugno. Quest’anno il solstizio d’estate si verifica esattamente il 21 giugno, dalle ore 10:24",
-      "link": "https://www.ilsole24ore.com/art/domenica-sara-solstizio-d-estate-giorno-piu-dell-anno-ecco-cosa-accade-AIikD6mD",
-      "published": "Sat, 20 Jun 2026 12:30:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
       ],
       "is_high_priority": false
     },
