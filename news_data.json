@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-23T11:43:16.167148",
-  "total_news": 61,
+  "last_update": "2026-06-23T19:24:17.725594",
+  "total_news": 78,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -16,11 +16,11 @@
       "is_high_priority": true
     },
     {
-      "title": "Pista mafia turca per omicidio a Livorno, sparita la convivente del morto",
-      "summary": "12 06 26 - 13:13",
-      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/pista-mafia-turca-per-omicidio-a-livorno-sparita-la-convivente-del-morto",
+      "title": "Omicidio Chindamo, in aula l’amica che vide Maria per ultima: «Non aveva paurema mi disse “Ora guardo nello specchietto”»",
+      "summary": "L’amicizia con Maria Bencivenga nata su Facebook. La reticenza a parlare del rapporto con Tagliafierro nel giorno in cui l’imprenditrice è sparita: «Era riservata, non la volevo tradire». Il rapporto col suocero: «C’era attrito»",
+      "link": "https://www.lacnews24.it/cronaca/omicidio-chindamo-in-aula-lamica-che-vide-maria-per-ultima-non-aveva-paure-ma-mi-disse-ora-guardo-nello-specchietto-cxehsghi",
       "published": "",
-      "source": "antimafiaduemila.com",
+      "source": "lacnews24.it",
       "section": "crime_italy",
       "priority": 20,
       "categories": [
@@ -29,11 +29,24 @@
       "is_high_priority": true
     },
     {
-      "title": "l’agguatoNapoli, 21enne incensurato ucciso davanti casaIndagano i carabinieri, dinamica ancora da chiarire",
-      "summary": "l’agguato",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/napoli-21enne-incensurato-ucciso-davanti-casa/",
+      "title": "Regeni, la Procura chiede un ergastolo e tre condanne a 17 anni e 6 mesi per i quattro 007 egiziani: “Il Cairo ha coperto gli aguzzini”",
+      "summary": "Un ergastolo e tre condanne a 17 anni e sei mesi di reclusione. Al termine di circa sette ore di requisitoria, sono queste le richieste avanzate dalla Procura di Roma nel processo per il sequestro, le torture e l&#8217;omicidio di Giulio Regeni, che vede imputati quattro appartenenti ai servizi di s",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/caso-regeni-procura-ergastolo-007-egiziani-notizie/8428045/",
+      "published": "Tue, 23 Jun 2026 18:58:37 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 20,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": true
+    },
+    {
+      "title": "I legali degli indagati: «Alla base dell’omicidioincomprensioni e scontritra le vittime e gli arrestati»",
+      "summary": "Secondo la difesa, i quattro braccianti morti nel rogo sarebbero stati coinvolti in precedenti alterchi con gli indagati. Chiesta anche un’attenuazione delle misure cautelari",
+      "link": "https://www.lacnews24.it/cronaca/strage-di-amendolara-i-legali-degli-indagati-alla-base-dellomicidio-incomprensioni-e-scontri-tra-le-vittime-e-gli-arrestati-h889j6ew",
       "published": "",
-      "source": "corrieredellacalabria.it",
+      "source": "lacnews24.it",
       "section": "crime_italy",
       "priority": 10,
       "categories": [
@@ -42,16 +55,15 @@
       "is_high_priority": false
     },
     {
-      "title": "il blitzScambio elettorale politico-mafioso, arrestato sindaco del MessineseAi domiciliari Letterio Pistone",
-      "summary": "il blitz",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/scambio-elettorale-politico-mafioso-arrestato-sindaco-del-messinese/",
+      "title": "Reggio Calabria, blitz della Polizia Locale: tre arresti, due sequestri e sanzioni per oltre 10 mila euro",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-blitz-della-polizia-locale-tre-arresti-due-sequestri-e-sanzioni-per-oltre-10-mila-euro/2104922/",
       "published": "",
-      "source": "corrieredellacalabria.it",
+      "source": "strettoweb.com",
       "section": "ndrangheta",
       "priority": 10,
       "categories": [
-        "arresti",
-        "scarcerazioni"
+        "arresti"
       ],
       "is_high_priority": false
     },
@@ -65,6 +77,45 @@
       "priority": 10,
       "categories": [
         "sangue"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Omicidio nelle campagne del Cuneese, arrestato 36enne calabrese",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lametino.it/cronaca/omicidio-nelle-campagne-del-cuneese-arrestato-36enne-calabrese.html",
+      "published": "",
+      "source": "lametino.it",
+      "section": "crime_italy",
+      "priority": 10,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sfuggì alla Guardia di Finanza, latitante italo-albanese arrestato in Inghilterra",
+      "summary": "23 06 26 - 18:43",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/sfuggi-alla-guardia-di-finanza-latitante-italo-albanese-arrestato-in-inghilterra",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Prescrizione ancora letale in Appello: un processo su cinque finisce nel cestino",
+      "summary": "23 06 26 - 17:54",
+      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/cronache-italia/prescrizione-ancora-letale-in-appello-un-processo-su-cinque-finisce-nel-cestino",
+      "published": "",
+      "source": "antimafiaduemila.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -121,68 +172,29 @@
       "is_high_priority": false
     },
     {
-      "title": "Inefficaci le misure previste dal ministro Piantedosi contro la recrudescenza mafiosa",
-      "summary": "16 06 26 - 19:36",
-      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-eventi-sicilia/inefficaci-le-misure-previste-dal-ministro-piantedosi-contro-la-recrudescenza-mafiosa",
-      "published": "",
-      "source": "antimafiaduemila.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Cocaina dal Sud America all'Italia, otto arresti: smantellata rete con base tra Roma e il litorale laziale",
-      "summary": "16 06 26 - 19:27",
-      "link": "https://www.antimafiaduemila.com/home/rassegna-stampa-sp-2087084558/mafia-flash/cocaina-dal-sud-america-allitalia-otto-arresti-smantellata-rete-con-base-tra-roma-e-il-litorale-laziale",
-      "published": "",
-      "source": "antimafiaduemila.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti",
-        "droga"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Pesca illegale nel Tirreno calabrese, confiscati 19 chilometri di spadare:nelle reti mante e delfini morti",
-      "summary": "L'operazione congiunta di Sea Sheperd, Gdf e Guardia Costiera ha consentito di sequestrare le attrezzature disseminate al largo della costa tirrenica e vietate dal 2002. Salvataggio in extremis per quattro Mobula mobular, un pesce luna, una tartaruga Caretta caretta e due tonni rossi",
-      "link": "https://www.lacnews24.it/cronaca/guardia-di-finanza-di-vibo-e-sea-shepherd-scoprono-19-chilometri-di-spadare-mante-e-delfini-morti-nelle-reti-illegali-xb3xtodj",
+      "title": "Usa, Trump ancora in calo nei sondaggi, il gradimento del presidente scende al 30%",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lacnews24.it/italia-mondo/usa-trump-ancora-in-calo-nei-sondaggi-il-gradimento-del-presidente-scende-al-30-b6qzzxyh",
       "published": "",
       "source": "lacnews24.it",
-      "section": "ndrangheta",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "arresti"
+        "leader",
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Maxi frodesul carburante agricolo tra Crotone e la Germania: sequestro da 8 milioni di euro e 29 indagati - NOMI",
-      "summary": "La Guardia di Finanza smantella due organizzazioni criminali dedite al traffico illecito di gasolio agevolato. Coinvolte 25 aziende e 29 indagati: ecco come funzionava il sistema delle \"false serre\"",
-      "link": "https://www.lacnews24.it/cronaca/maxi-frode-sul-carburante-agricolo-tra-crotone-e-la-germania-sequestro-da-8-milioni-di-euro-e-29-indagati-nomi-aaliw9tx",
+      "title": "Sanità, il M5s: «Fine del commissariamento in Calabria? Il governo Meloni fa favori agli amici»",
+      "summary": "I parlamentari delle commissioni Affari sociali di Camera e Senato contestano la decisione dell’esecutivo di far uscire la Calabria dal regime commissariale, richiamando i rilievi della Corte dei Conti e le criticità ancora presenti nel sistema sanitario regionale",
+      "link": "https://www.lacnews24.it/politica/sanita-il-m5s-fine-del-commissariamento-in-calabria-il-governo-meloni-fa-favori-agli-amici-e1yr2eas",
       "published": "",
       "source": "lacnews24.it",
-      "section": "ndrangheta",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Depositi costieri a Vibo Marina,riunione “segreta”tra Romeo e Ammaturo: nuova bozza per la delocalizzazione",
-      "summary": "Nel corso di un Consiglio comunale fiume il sindaco ha raccontato di un incontro riservato a cui ha partecipato il presidente del Gruppo Ludoil, l’Autorità portuale e un rappresentante del Ministero. Ricucito lo strappo con Meridionale Petroli. Coinvolto anche il deputato Mangialavori per la ricerca...",
-      "link": "https://www.lacnews24.it/politica/depositi-costieri-a-vibo-marina-romeo-rivela-la-riunione-segreta-con-ammaturo-nuova-bozza-per-la-delocalizzazione-q8daliij",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
+        "leader"
       ],
       "is_high_priority": false
     },
@@ -200,37 +212,50 @@
       "is_high_priority": false
     },
     {
-      "title": "Hezbollah non si fida dell’accordo: «Rimaniamo col dito sul grilletto, Israele non violi patti»",
-      "summary": "Redazione Esteri",
-      "link": "https://www.lacnews24.it/italia-mondo/hezbollah-non-si-fida-dellaccordo-rimaniamo-col-dito-sul-grilletto-israele-non-violi-patti-q3xgbebb",
+      "title": "Trump: «L’Iran accetta ispezioni nucleari senza limiti». Ma Teheran smentisce sull’accesso ai siti bombardati",
+      "summary": "Redazione",
+      "link": "https://www.lacnews24.it/italia-mondo/trump-liran-accetta-ispezioni-nucleari-senza-limiti-ma-teheran-smentisce-sullaccesso-ai-siti-bombardati-ljd06ykv",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "medio-oriente"
+        "leader"
       ],
       "is_high_priority": false
     },
     {
       "title": "Notizie in evidenza",
-      "summary": "Il dramma dei quattro migranti uccisi sulla Ss 106 diventa la spinta per un patto di legalità volto a tutelare i diritti dei raccoglitori stagionali nei campi: il 4 luglio l’evento organizzato dalla Cec",
-      "link": "https://www.lacnews24.it/attualita/contro-caporalato-e-sfruttamento-la-chiesa-calabrese-si-mobilita-ad-amendolara-dopo-la-strage-dei-braccianti-u6yt8lp1",
+      "summary": "Arrestato un 36enne originario del Cosentino, accusato di averlo ucciso con un colpo di pistola alla testa. L’uomo è stato rintracciato e trasferito in carcere",
+      "link": "https://www.lacnews24.it/cronaca/venticinquenne-ucciso-a-febbraio-nel-cuneese-un-arresto-in-calabria-yfp29qfn",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Karate, Michael Mollica e la Fortitudo Reggio sul tetto d'Italia: i complimenti di Don Zampaglione",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/karate-michael-mollica-e-la-fortitudo-reggio-sul-tetto-ditalia-i-complimenti-di-don-zampaglione/2104718/",
+      "title": "Venticinquenne ucciso a febbraio nel Cuneese: un arresto in Calabria",
+      "summary": "Arrestato un 36enne originario del Cosentino, accusato di averlo ucciso con un colpo di pistola alla testa. L’uomo è stato rintracciato e trasferito in carcere",
+      "link": "https://www.lacnews24.it/cronaca/venticinquenne-ucciso-a-febbraio-nel-cuneese-un-arresto-in-calabria-yfp29qfn",
       "published": "",
-      "source": "strettoweb.com",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Occhiuto sfida (e diffida) Arera: «Dove si produce più energia rinnovabile le bollette devono costare meno»",
+      "summary": "Il presidente della Regione Calabria annuncia una diffida all’Autorità per l’energia e chiede l’applicazione della riforma sulle tariffe differenziate per aree geografiche: «I vantaggi delle rinnovabili devono arrivare a cittadini e imprese»",
+      "link": "https://www.lacnews24.it/ambiente/occhiuto-sfida-e-diffida-arera-dove-si-produce-piu-energia-rinnovabile-le-bollette-devono-costare-meno-gb87w54h",
+      "published": "",
+      "source": "lacnews24.it",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -239,35 +264,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Messina, la nuova Giunta Basile nasce tra qualche mal di pancia ed equilibrismi politici con vista sulle elezioni regionali",
+      "title": "A Marina di Gioiosa Ionica evento benefico a sostegno dell’Oncologia di Locri. Il presidente Cirillo: \"serata speciale\"",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/messina-la-nuova-giunta-basile-nasce-tra-qualche-mal-di-pancia-ed-equilibrismi-politici-con-vista-sulle-elezioni-regionali/2104703/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Il premio “Bronzi di Riace” premia l’Arma dei Carabinieri | FOTO",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/il-premio-bronzi-di-riace-premia-larma-dei-carabinieri-foto/2104677/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Lamezia-Catanzaro, proseguono i test ERTMS: passo decisivo per la nuova gestione ferroviaria",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/lamezia-catanzaro-proseguono-i-test-ertms-passo-decisivo-per-la-nuova-gestione-ferroviaria/2104664/",
+      "link": "https://www.strettoweb.com/2026/06/a-marina-di-gioiosa-ionica-evento-benefico-a-sostegno-delloncologia-di-locri-il-presidente-cirillo-serata-speciale/2104946/",
       "published": "",
       "source": "strettoweb.com",
       "section": "ndrangheta",
@@ -278,28 +277,95 @@
       "is_high_priority": false
     },
     {
-      "title": "Reggio Calabria, Demetrio Marino ricorda Carmelo Caridi: “uomo delle istituzioni, legato alla sua Gallina e alla comunità reggina\"",
+      "title": "\"Il giorno della Verità\", Meloni: \"Trump? Politica non diventi Temptation Island\". Accelerata su nucleare e legge elettorale",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-demetrio-marino-ricorda-carmelo-caridi-uomo-delle-istituzioni-legato-alla-sua-gallina-e-alla-comunita-reggina/2104620/",
+      "link": "https://www.strettoweb.com/2026/06/il-giorno-della-verita-meloni-trump-politica-non-diventi-temptation-island-accelerata-su-nucleare-e-legge-lettorale/2104914/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il riscatto dopo l'incubo: la commovente lettera della vittima di stalking ai Carabinieri di Orti",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/il-riscatto-dopo-lincubo-la-commovente-lettera-della-vittima-di-stalking-ai-carabinieri-di-orti/2104930/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ma Trump lo sa che senza l'Italia l'America non sarebbe diventata quello che è?",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/ma-trump-lo-sa-che-senza-litalia-lamerica-non-sarebbe-diventata-quello-che-e/2104917/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Guerra Ucraina, Putin: \"Russia pronta a colloqui di pace con Kiev sulla base degli accordi di Istanbul\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/guerra-ucraina-putin-russia-pronta-a-colloqui-di-pace-con-kiev-sulla-base-degli-accordi-di-istanbul/2104905/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre",
+        "leader",
+        "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sicilia, De Luca occupa il podio dell'Ars per protesta: “Schifani può sottrarsi a un obbligo di legge”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/sicilia-de-luca-occupa-il-podio-dellars-per-protesta-schifani-puo-sottrarsi-a-un-obbligo-di-legge/2104897/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Pesca illegale nel Tirreno calabrese, sequestrati 19 chilometri di reti vietate",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/pesca-illegale-nel-tirreno-calabrese-sequestrati-19-chilometri-di-reti-vietate/2104850/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Messina, Basile ha partecipato a Roma al Coordinamento dei Sindaci dei Comuni capoluogo e delle Città metropolitane",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/messina-basile-ha-partecipato-a-roma-al-coordinamento-dei-sindaci-dei-comuni-capoluogo-e-delle-citta-metropolitane/2104833/",
       "published": "",
       "source": "strettoweb.com",
       "section": "italia",
       "priority": 0,
       "categories": [
         "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Nuova Giunta comunale, “Rispetto Messina\": “la città usata come merce di scambio e poltronificio”",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/nuova-giunta-comunale-rispetto-messina-la-citta-usata-come-merce-di-scambio-e-poltrronificio/2104600/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -317,29 +383,67 @@
       "is_high_priority": false
     },
     {
-      "title": "OPERAZIONE A PADOVADroga e soldi “ripuliti” nelle lavanderie self-service: 14 arrestiSequestrati anche 120mila euro in contanti, pistole, una katana e un taser",
-      "summary": "OPERAZIONE A PADOVA",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/droga-soldi-lavanderie-self-service-padova-sequestri-arresti/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti",
-        "droga"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Operazione “Carta Canta”, dissequestrata una porzione di area della Calabria Macerila decisione",
-      "summary": "la decisione",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/operazione-carta-canta-dissequestrata-una-porzione-di-area-della-calabria-maceri/",
+      "title": "Catanzaro, Pitaro lancia “Punto di svolta“ (e sé stesso…). E’ un “alert” per Pd, centrosinistra e Fiorita",
+      "summary": "UltimeCatanzaro, Pitaro lancia “Punto di svolta“ (e sé stesso…). E’ un “alert” per Pd, centrosinistra e FioritaDomani allerta gialla in 7 regioni (anche in Calabria)Nuova aggressione nel carcere di Rossano, agente finisce in ospedaleReggio Calabria, controlli della Polizia Locale tra abusivismo e al...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/catanzaro-pitaro-lancia-punto-di-svolta-e-se-stesso-e-un-alert-per-pd-centrosinistra-e-fiorita/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
         "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "i rilieviSanità calabrese fuori dal commissariamento, Corte dei Conti frena il governo«Servono ulteriori verifiche»",
+      "summary": "i rilievi",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/sanita-calabrese-fuori-dal-commissariamento-corte-dei-conti-frena-il-governo/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "il dibattito’Ndrangheta, perché la delibera sulle procure continua a far discutere. «Così si ignorano decenni di indagini, processi e sentenze»Anche il mondo dell’autotrasporto e i sindaci dell’Emilia Romagna sono sono entrati nel dibattito sul provvedimento del Csm che individua le aree ad alta densità mafiosa",
+      "summary": "il dibattito",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/ndrangheta-perche-la-delibera-sulle-procure-continua-a-far-discutere-cosi-si-ignorano-decenni-di-indagini-processi-e-sentenze/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ucciso con un colpo alla nuca nelle campagne di Bra: arrestato a Cosenza un 36ennela svolta nelle indagini",
+      "summary": "la svolta nelle indagini",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/ucciso-con-un-colpo-alla-nuca-nelle-campagne-di-bra-arrestato-a-cosenza-un-36enne/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il ruolo strategico di Hitachi: Reggio e la Calabria al centro dell’industria ferroviaria italianasinergie",
+      "summary": "sinergie",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/il-ruolo-strategico-di-hitachi-reggio-e-la-calabria-al-centro-dellindustria-ferroviaria-italiana/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -357,35 +461,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Lamezia, Sinistra Italiana: «Crisi evidente nella maggioranza del sindaco Murone»l’affondo",
-      "summary": "l’affondo",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/lamezia-sinistra-italiana-crisi-evidente-nella-maggioranza-del-sindaco-murone/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Crotone, è l’ora delle scelte: Longo tra Foggia e Catania. Società al lavoro per il nuovo corsofuturo rossoblù",
-      "summary": "futuro rossoblù",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/crotone-e-lora-delle-scelte-longo-tra-foggia-e-catania-societa-al-lavoro-per-il-nuovo-corso/",
+      "title": "Reggio Calabria, controlli della Polizia Locale tra abusivismo e allacci irregolari: tre arrestile operazioni",
+      "summary": "le operazioni",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/reggio-calabria-controlli-della-polizia-locale-tra-abusivismo-e-allacci-irregolari-tre-arresti/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "generico"
+        "arresti"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Catanzaro-Turati, si attende solo l’annuncio. Staff già definitonuovo tecnico in arrivo",
-      "summary": "nuovo tecnico in arrivo",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/catanzaro-turati-si-attende-solo-lannuncio-staff-gia-definito/",
+      "title": "Bonifica campo rom di Scordovillo, l’appello di cinque sindaci: riunire la cabina di regiala lettera",
+      "summary": "la lettera",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/bonifica-campo-rom-di-scordovillo-lappello-di-cinque-sindaci-riunire-la-cabina-di-regia/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
@@ -396,15 +487,28 @@
       "is_high_priority": false
     },
     {
-      "title": "Violenza e resistenza in un villaggio turistico, un arresto a Isola Capo Rizzutola misura",
-      "summary": "la misura",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/violenza-e-resistenza-in-un-villaggio-turistico-un-arresto-a-isola-capo-rizzuto/",
+      "title": "Direzione, nuova segreteria e “stretta” sui territori. Il timing del Pd per uscire dall’impasse“tormenti” dem",
+      "summary": "“tormenti” dem",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/direzione-nuova-segreteria-e-stretta-sui-territori-il-timing-del-pd-per-uscire-dallimpasse/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Gasolio agricolo usato illecitamente, frode da oltre 8 milioni: 29 indagati nel CrotoneseL’INCHIESTA",
+      "summary": "L’INCHIESTA",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/gasolio-agricolo-usato-illecitamente-frode-da-oltre-8-milioni-29-indagati-nel-crotonese/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "arresti"
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -435,54 +539,28 @@
       "is_high_priority": false
     },
     {
-      "title": "Espulsione eseguita a Crotone: brasiliano rimpatriato e stop al rientro per tre anniIrregolare in Italia",
-      "summary": "Irregolare in Italia",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/espulsione-eseguita-a-crotone-brasiliano-rimpatriato-e-stop-al-rientro-per-tre-anni/",
+      "title": "Capistrano, via libera al «super regolamento antimafia» sugli appalti pubbliciil provvedimento",
+      "summary": "il provvedimento",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/capistrano-via-libera-al-super-regolamento-antimafia-sugli-appalti-pubblici/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Da ore non si hanno notizie di una donna di 91 anni, grande apprensione nella Locridela scomparsa",
-      "summary": "la scomparsa",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/da-ore-non-si-hanno-notizie-di-una-donna-di-91-anni-grande-apprensione-nella-locride/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Clima, le città italiane in cui si vive meglio. Vibo Valentia sul podio“Vince Ancona, seguita da  Bari e la città vibonese. Male il Nord, mentre il Sud domina per vivibilità climatica. Reggio Calabria tra le ultime per “n…23 Giugno, 13:03",
-      "summary": "“Vince Ancona, seguita da  Bari e la città vibonese. Male il Nord, mentre il Sud domina per vivibilità climatica. Reggio Calabria tra le ultime per “n…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/clima-le-citta-italiane-in-cui-si-vive-meglio-vibo-valentia-sul-podio/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Napoli, 21enne incensurato ucciso davanti casa“Indagano i carabinieri, dinamica ancora da chiarire23 Giugno, 12:50",
-      "summary": "“Indagano i carabinieri, dinamica ancora da chiarire",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/napoli-21enne-incensurato-ucciso-davanti-casa/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
       "section": "crime_italy",
       "priority": 0,
       "categories": [
         "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Uil Calabria, Mariaelena Senese confermata segretaria generale. «Saremo il rumore della società»“Su proposta di Pierpaolo Bombardieri, il congresso ha rinnovato all’unanimità il mandato della dirigente sindacale e ha nominato la nuova segreteria…23 Giugno, 19:43",
+      "summary": "“Su proposta di Pierpaolo Bombardieri, il congresso ha rinnovato all’unanimità il mandato della dirigente sindacale e ha nominato la nuova segreteria…",
+      "link": "https://www.corrieredellacalabria.it/2026/06/23/uil-calabria-mariaelena-senese-confermata-segretaria-generale-saremo-il-rumore-della-societa/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -500,23 +578,23 @@
       "is_high_priority": false
     },
     {
-      "title": "Mercato auto Europa, a maggio crescita del 3,4%. Cinesi oltre il 10% di quota",
-      "summary": "A maggio il mercato europeo dell&#8217;auto ha confermato il trend positivo già visto nei mesi precedenti. Secondo i dati relativi a Unione Europea, Regno Unito e Paesi Efta, le immatricolazioni sono cresciute del 3,4% rispetto allo stesso mese del 2025, portando il bilancio dei primi cinque mesi de",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/23/mercato-auto-europa-a-maggio-crescita-del-34-cinesi-oltre-il-10-di-quota/8427285/",
-      "published": "Tue, 23 Jun 2026 11:35:00 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
+      "title": "Strage braccianti Amendolara, legali indagati: \"Movente legato a fatti personali\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lametino.it/cronaca/strage-braccianti-amendolara-legali-indagati-movente-legato-a-fatti-personali.html",
+      "published": "",
+      "source": "lametino.it",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "mondo"
+        "italia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "“I felt sorry for her”: ecco l’audio originale della telefonata tra il giornalista Compatangelo e Trump su Meloni",
-      "summary": "In esclusiva su La7, durante la trasmissione L’Aria che tira è stato mandato in onda l’audio integrale della telefonata tra Donald Trump e il giornalista Daniele Compatangelo, dopo il via libera arrivato dal governo americano, che ha autorizzato la diffusione delle voci originali del colloquio. Nei ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/23/esclusivo-la7-trump-meloni/8427308/",
-      "published": "Tue, 23 Jun 2026 11:23:53 +0000",
+      "title": "Meloni: “Vannacci? Ne parla molto la sinistra. Ma il punto è: chi volete al governo tra un anno, noi o loro?”",
+      "summary": "A ’Il giorno della verità’, l’evento organizzato dal quotidiano diretto da Maurizio Belpietro, la presidente del Consiglio Giorgia Meloni, alla domanda su Roberto Vannacci, afferma: “Ne parla tanto la sinistra, forse perché loro non potendo parlare della coalizione, cercano disperatamente di dire ch",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/meloni-vannacci-sinistra-dichiarazioni-notizie/8428005/",
+      "published": "Tue, 23 Jun 2026 18:11:43 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -526,10 +604,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Pier Ferdinando Casini ironizza sui ritardi dei treni postando una foto dalla stazione: “Solita bella puntualità”",
-      "summary": "Due borsoni a tracolla, occhi sgranati e sullo sfondo il tabellone delle partenze della stazione ferroviaria con un lungo elenco di treni in ritardo, dai 20 minuti fino a oltre tre ore. È la foto che Pier Ferdinando Casini ha postato su Instagram per lamentarsi dei disagi commentando con un laconico",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/23/casini-ritardi-treni-caos-ferroviario-notizie/8427289/",
-      "published": "Tue, 23 Jun 2026 11:22:42 +0000",
+      "title": "Flotilla di terra, rilasciati i due attivisti italiani detenuti da un mese in Libia. L’annuncio di Tajani: “Rientreranno mercoledì”",
+      "summary": "Le autorità della Libia Orientale hanno rilasciato i 10 attivisti del Convoglio di terra della Flotilla per Gaza. Erano stati catturati il 24 maggio a Sirte, in Libia, e la loro detenzione è durata un mese. Gli italiani Domenico Centrone e Leonarda Alberizia sono stati consegnati nella serata di mar",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/flotilla-terra-italiani-liberati-libia-notizie/8427969/",
+      "published": "Tue, 23 Jun 2026 17:28:53 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -539,67 +617,224 @@
       "is_high_priority": false
     },
     {
-      "title": "“Signor presidente…”. “Signora deputata…”. Botta e risposta alla Camera tra Anna Ascani (Pd) e il vannacciano Pozzolo",
-      "summary": "Momenti di tensione in Aula alla Camera. Nella tarda serata di ieri, durante le votazioni sugli odg sul piano casa, c&#8217;è stato un acceso botta e risposta tra la presidente di turno Anna Ascani (Pd) e Emanuele Pozzolo (FnV). Il vannacciano a un certo punto si è rivolto ad Ascani chiamandola ripe",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/23/pozzolo-ascani-signor-presidente-scontro-camera-notizie/8427287/",
-      "published": "Tue, 23 Jun 2026 11:22:13 +0000",
+      "title": "Caccia, approvato in Senato il ddl “sparatutto”. Conte: “Va contro la Costituzione”. Bonelli: “Meloni insegue mondo venatorio e armieri”. In piazza ambientalisti e animalisti",
+      "summary": "Fucili in spiaggia, strage di uccelli, favori ai bracconieri e al traffico illecito di avifauna, più specie cacciabili e aree in cui è permessa l&#8217;attività venatoria più estese. Il disegno di legge 1552 (ddl Malan), fortemente voluto dal ministro Lollobrigida, è stato approvato in Senato coi vo",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/ddl-caccia-malan-approvato-senato-notizie/8427879/",
+      "published": "Tue, 23 Jun 2026 17:19:54 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "leader"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Nick Cave: “I fan anziani mi chiedono i selfie, che odio. La sola differenza tra me e questi vecchi rincoglioniti con la dentiera è che io mi tingo i capelli di nero”",
-      "summary": "Nick Cave è tornato a farsi sentire sulla piattaforma The Red Hand Files, dove risponde personalmente e approfonditamente alle lettere inviate dai fan. Il tema toccato dall&#8217;artista stavolta è la voglia spasmodica dei fan di fare i selfie con l&#8217;artista. La premessa è doverosa: &#8220;Odio",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/23/nick-cave-i-fan-anziani-mi-chiedono-i-selfie-che-odio-la-sola-differenza-tra-me-e-questi-vecchi-rincoglioniti-con-la-dentiera-e-che-io-mi-tingo-i-capelli-di-nero/8427242/",
-      "published": "Tue, 23 Jun 2026 10:54:52 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Da “Off Campus” all’amore vero: Josh Heuston e Mika Abdalla “paparazzati” in atteggiamenti intimi a Parigi",
-      "summary": "C&#8217;è chi aspetta la seconda stagione di Off Campus e chi, nel frattempo, segue con attenzione una trama che sembra svilupparsi lontano dal set. Nelle ultime ore i riflettori si sono accesi su Josh Heuston e Mika Abdalla, protagonisti della serie romance di Prime Video, dopo la comparsa online d",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/23/da-off-campus-allamore-vero-josh-heuston-e-mika-abdalla-paparazzati-in-atteggiamenti-intimi-a-parigi/8427095/",
-      "published": "Tue, 23 Jun 2026 09:59:36 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "La Rai cancella il programma di Stefano Bollani e Valentina Cenni, Via dei Matti numero 0. Loro sui social: “Avremmo voluto darvi una buona notizia, ma non è così”",
-      "summary": "La Rai ha deciso di cancellare dai palinsesti della prossima stagione &#8220;Via dei Matti numero 0&#8220;, il programma condotto da Stefano Bollani e Valentina Cenni. Lo show, apprezzato dalla critica e dal pubblico, aveva debuttato a marzo 2021 su Rai3 ed è stato trasmesso per cinque stagioni. &#8",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/23/la-rai-cancella-il-programma-di-stefano-bollani-e-valentina-cenni-via-dei-matti-numero-0-loro-sui-social-avremmo-voluto-darvi-una-buona-notizia-ma-non-e-cosi/8427173/",
-      "published": "Tue, 23 Jun 2026 09:55:13 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Il momento d’oro di Marc Marquez: rinnova con la Ducati dopo le 2 vittorie consecutive. “È il posto giusto per raggiungere i miei obiettivi”",
-      "summary": "Prima la vittoria in Ungheria, poi quella a Brno, infine il rinnovo in Ducati. Per Marc Marquez è un momento d&#8217;oro. Il pilota infatti rimarrà in Ducati anche nel 2027 e nel 2028, con l&#8217;ufficialità del rinnovo arrivata nella mattinata del 23 giugno. Dopo un periodo complicato a causa di a",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/23/marc-marquez-rinnovo-ducati-2028-convinto-che-questo-sia-il-posto-giusto-per-raggiungere-obiettivi-piu-ambiziosi/8427148/",
-      "published": "Tue, 23 Jun 2026 09:37:18 +0000",
+      "title": "Fare utopia, di Paolo Bosca: una questione di spazio, non di tempo",
+      "summary": "C&#8217;è una domanda che Paolo Bosca non pronuncia mai nel suo libro. Eppure è quella che mette tutto in moto: l&#8217;utopia è ancora valido come concetto? O stiamo usando una parola consumata per coprire l&#8217;imbarazzo di non averne un&#8217;altra? Fare utopia (nottetempo, 2026) è il tentativo",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/fare-utopia-bosca-recensione-notizie/8426539/",
+      "published": "Tue, 23 Jun 2026 16:26:17 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Regeni, il pm Colaiocco: “Nessun elemento su pista inglese. Giulio era un ricercatore, non una spia”",
+      "summary": "&#8220;Occorre trarre una conclusione netta sulla pista inglese. Tutti gli elementi raccolti sulla cosiddetta pista inglese sono stati approfonditi, verificati, sviscerati in ogni possibile direzione. E deve dirsi oggi, con assoluta chiarezza, che da quel versante non è emerso alcun elemento utile a",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/caso-regeni-pista-inglese-esclusa-notizie/8427834/",
+      "published": "Tue, 23 Jun 2026 15:54:36 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "A teatro torna in vita il mito di “Artiglio!”: le straordinarie avventure dei palombari viareggini diventati leggenda",
+      "summary": "Sommozzatori sul fondo dell&#8217;oceano, navi fantasma, bottini inestimabili ma anche amore, amicizia e affari. Il 26 e il 27 giugno al Teatro Jenco di Viareggio, va in scena &#8220;Artiglio!&#8220;, proprio nel cuore della Darsena, dove questa incredibile storia ha avuto inizio. L&#8217;appuntamen",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/artiglio-palombari-viareggini-teatro-notizie/8426129/",
+      "published": "Tue, 23 Jun 2026 15:27:13 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "In 17 mesi la Finanza ha scoperto 8.300 evasori totali e sequestrato 4,7 miliardi frutto di evasione e frodi. Danni erariali sopra i 3 miliardi",
+      "summary": "Quasi cinque miliardi di euro (4,7) sequestrati dalla Guardia di finanza in disponibilità patrimoniali e finanziarie perché ritenuti profitti dell&#8217;evasione e delle frodi fiscali. Poco meno di 8.300 evasori fiscali scoperti, frodi ai danni del bilancio nazionale e dell&#8217;Ue superiori a 1,6 ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/guardia-finanza-sequestri-evasione-fiscale-notizie/8427506/",
+      "published": "Tue, 23 Jun 2026 15:26:53 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Cancello le app, uso un telefono rotto e spero che le mie figlie crescano lontane dagli schermi. Spero in un ritorno alla vita analogica”: così Jeremy Allen White",
+      "summary": "Jeremy Allen White torna a far parlare di sé non solo per i suoi prossimi impegni sul set, ma anche per le sue riflessioni sempre più nette sul rapporto tra tecnologia, social network e vita quotidiana. Secondo quanto riportato da Vanity Fair, l’attore di The Bear ha espresso una posizione molto chi",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/cancello-le-app-uso-un-telefono-rotto-e-spero-che-le-mie-figlie-crescano-lontane-dagli-schermi-spero-in-un-ritorno-alla-vita-analogica-cosi-jeremy-allen-white/8427516/",
+      "published": "Tue, 23 Jun 2026 15:12:44 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sinner è un disastro a golf: il suo tiro finisce tra gli alberi, Cahill scoppia a ridere",
+      "summary": "Con la racchetta in mano, con la mano destra, ci ha abituati a spazzare le righe, trovare gli angoli più impossibili e colpire la palla con una precisione quasi chirurgica. Con la mazza da golf, invece, il risultato è decisamente diverso. Jannik Sinner ha provato a cimentarsi sul green, ma non quell",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/sinner-golf-cahill-pallina-alberi-rennae-stubbs-video/8427752/",
+      "published": "Tue, 23 Jun 2026 15:10:06 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Non esistono mafie al Nord? Quella del Csm è una lettura archeologica della criminalità",
+      "summary": "Il dibattito sulla diffusione delle mafie in Italia si è riacceso a seguito della delibera con la quale il Consiglio Superiore della Magistratura, nell&#8217;individuare le aree ad alta densità mafiosa, vi ha incluso solo i territori tradizionali del Mezzogiorno (con l&#8217;eccezione di Roma). Il p",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/mafie-italia-delibera-csm-nord-notizie/8427218/",
+      "published": "Tue, 23 Jun 2026 14:51:20 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Scontro Kiev-Varsavia, ultimo capitolo: Zelensky diserta la conferenza sulla ricostruzione dell’Ucraina in Polonia",
+      "summary": "Lo scontro tra Kiev e Varsavia si arricchisce di un nuovo capitolo. Il presidente ucraino, Volodymyr Zelensky, non parteciperà a una conferenza sulla ricostruzione dell’Ucraina che si terrà tra pochi giorni in Polonia. Lo ha annunciato la prima ministra ucraina, Yulia Svyrydenko, sullo sfondo delle ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/23/ucraina-polonia-zelensky-scontro-notizie/8427670/",
+      "published": "Tue, 23 Jun 2026 14:43:27 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader",
+        "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Tajani: liberati i due attivisti italiani della Flotilla in Libia",
+      "summary": "“Sono felice di poter annunciare la liberazione di Domenico Centrone e Leonarda Alberizia, i due attivisti italiani della Flotilla, che erano detenuti da un mese in Libia. Insieme...",
+      "link": "https://www.ilsole24ore.com/art/tajani-liberati-due-attivisti-italiani-flotilla-libia-AI8su8pD",
+      "published": "Tue, 23 Jun 2026 18:19:35 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Caccia, via libera del Senato al Ddl: dalle armi ai giorni di sospensione, tutte le novità",
+      "summary": "Un progetto per attualizzare un quadro di norme fermo al 1992. Ambientalisti sul piede di guerra. Ma in 35 anni i cacciatori sono calati di due terzi e la fauna selvatica esplosa",
+      "link": "https://www.ilsole24ore.com/art/caccia-via-libera-senato-ddl-armi-giorni-sospensione-tutte-novita-AILZiqhD",
+      "published": "Tue, 23 Jun 2026 17:20:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Euro digitale, via libera della commissione Economia al mandato negoziale",
+      "summary": "La Bce sulla posizione approvata: «Tutelerà il contante in euro come mezzo di pagamento legale e, al contempo, darà forma all’euro digitale»",
+      "link": "https://www.ilsole24ore.com/art/euro-digitale-via-libera-commissione-economia-mandato-negoziale-AIvA6gpD",
+      "published": "Tue, 23 Jun 2026 15:13:43 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "economia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Difesa, Safe ancora in stallo. L’Ue preme: «L’Italia ha un mese per decidere»",
+      "summary": "Non smette di far discutere la questione del prestito Safe per la difesa: il Governo, che aveva prenotato 14,9 miliardi nell’agosto 2025, non ne ha ancora deciso l’attivazione. Ora l’Unione...",
+      "link": "https://www.ilsole24ore.com/art/difesa-safe-ancora-stallo-l-ue-preme-l-italia-ha-mese-decidere-AImbUjpD",
+      "published": "Tue, 23 Jun 2026 14:22:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Rottamazione quinquies, ecco il conto da pagare",
+      "summary": "In arrivo il conto da pagare per i contribuenti che hanno chiesto di aderire alla Rottamazione quinquies. L’Agenzia delle Entrate Riscossione ha reso disponibili le comunicazioni di risposta a chi...",
+      "link": "https://www.ilsole24ore.com/art/rottamazione-quinquies-ecco-conto-pagare-AIRrlhpD",
+      "published": "Tue, 23 Jun 2026 13:28:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Autotrasportatori, deduzione forfettaria a 48 euro per il 2026",
+      "summary": "Arriva le cifre ufficiali dal ministero dell’Economia sulle agevolazioni fiscali a favore degli autotrasportatori. Il Mef, d’intesa con il ministero delle infrastrutture e dei trasporti, ha definito per il 2026...",
+      "link": "https://www.ilsole24ore.com/art/autotrasportatori-deduzione-forfettaria-48-euro-il-2026-AID7yfpD",
+      "published": "Tue, 23 Jun 2026 13:08:45 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "economia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Giovani, fiducia  in calo ma il sentimento verso l’Ue resta stabile",
+      "summary": "L’Indice di Fiducia realizzato dall’Istituto Piepoli per il Consiglio nazionale giovani registra la flessione maggiore nella fascia tra i 18 e i 24 anni (56,5%), mentre tengono meglio i giovani adulti tra i 25 e i 34 anni (60,5%)",
+      "link": "https://www.ilsole24ore.com/art/giovani-fiducia-calo-ma-sentimento-l-ue-resta-stabile-AIulxYpD",
+      "published": "Tue, 23 Jun 2026 12:26:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Carbone: «Unico ecosistema tra Fisco e professionisti»",
+      "summary": "De Nuccio: commercialisti in prima fila anche sulla cooperative compliance. Sisto: avanti su limiti di responsabilità per i revisori legali. Leo: Codice tributario entro fine legislatura",
+      "link": "https://www.ilsole24ore.com/art/carbone-unico-ecosistema-fisco-e-professionisti-AIfZ5bpD",
+      "published": "Tue, 23 Jun 2026 11:53:19 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -617,37 +852,24 @@
       "is_high_priority": false
     },
     {
-      "title": "80 anni dalla Costituente, il 25 giugno cerimonia alla Camera con Mattarella, Meloni e La Russa",
-      "summary": "L’appuntamento sarà trasmesso in diretta su Rai 1 e sulla webTv della Camera dalle 10:15, con l’accoglienza al Capo dello Stato e la visita alla mostra “1946: nasce la Repubblica, l’Assemblea Costituente a Montecitorio”",
-      "link": "https://www.ilsole24ore.com/art/80-anni-costituente-25-giugno-cerimonia-camera-mattarella-meloni-e-russa-AITsxQpD",
-      "published": "Tue, 23 Jun 2026 10:25:51 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
+      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+      "summary": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
+      "link": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 17:30:44 GMT",
+      "source": "bbc.com",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "leader"
+        "italia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Regeni, la Procura di Roma: «Esercizio metodico e freddo della violenza su un uomo inerme»",
-      "summary": "Dieci anni e mezzo di attesa per arrivare all’aula bunker di Rebibbia. Oggi la Procura di Roma ha svolto la requisitoria nel processo a carico di quattro appartenenti ai servizi...",
-      "link": "https://www.ilsole24ore.com/art/regeni-procura-roma-esercizio-metodico-e-freddo-violenza-un-uomo-inerme-AIrLHTpD",
-      "published": "Tue, 23 Jun 2026 09:24:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Evasione e frodi, sequestrati 4,7 miliardi di euro nell’ultimo anno e mezzo",
-      "summary": "Quasi cinque miliardi di euro disponibilità patrimoniali e finanziarie sequestrate perché ritenute profitto di evasione e frodi fiscali. Ma non solo: più di cento milioni di euro in criptovalute sottoposte...",
-      "link": "https://www.ilsole24ore.com/art/evasione-e-frodi-sequestrati-47-miliardi-euro-nell-ultimo-anno-e-mezzo-AIpa0PpD",
-      "published": "Tue, 23 Jun 2026 08:30:30 GMT",
-      "source": "ilsole24ore.com",
+      "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
+      "summary": "The former Louisiana inmate argued his Rastafarian faith was violated after prison officials focibly shaved off his hair. ",
+      "link": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 15:57:29 GMT",
+      "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -665,6 +887,19 @@
       "priority": 0,
       "categories": [
         "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "summary": "On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, \"We are in agony.\"",
+      "link": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 17:59:22 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -769,19 +1004,6 @@
       "priority": 0,
       "categories": [
         "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "The BTS fans losing thousands as scammers cash in on comeback tour ticket war",
-      "summary": "As ticket demand outstrips supply by a ratio of 15 to one, desperate fans have become easy targets.",
-      "link": "https://www.bbc.co.uk/news/articles/cdr45nrr2jyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 21 Jun 2026 23:44:31 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
       ],
       "is_high_priority": false
     },
