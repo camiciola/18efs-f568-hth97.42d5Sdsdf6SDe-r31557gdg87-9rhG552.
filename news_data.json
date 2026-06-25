@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-24T23:52:50.751069",
-  "total_news": 73,
+  "last_update": "2026-06-25T10:29:53.093905",
+  "total_news": 64,
   "news": [
     {
       "title": "Ergastolo confermato in Appello per Antonino Marano, il “killer delle carceri”",
@@ -16,41 +16,70 @@
       "is_high_priority": true
     },
     {
-      "title": "Guardia di Finanza, il nuovo comandante Borrelli: «Nel mirinoi soldi dei clan». Negli ultimi 3 anni confiscati 230 milioni",
-      "summary": "Il passaggio di consegne con Gianluigi D’Alessio («Calabria terra difficile e meravigliosa») si è svolto nel corso della cerimonia per il 252° anniversario della fondazione del Corpo. Nel bilancio delle attività anche il sequestro di 11 tonnellate di cocaina al porto di Gioia Tauro",
-      "link": "https://www.lacnews24.it/cronaca/guardia-di-finanza-il-nuovo-comandante-borrelli-nel-mirino-i-soldi-dei-clan-negli-ultimi-tre-anni-confische-per-230-milioni-mrru10l9",
+      "title": "Omicidio nel carcere di Catanzaro, cinque arresti a un anno dalla morte di un detenuto: «Pestato in cella»",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lacnews24.it/cronaca/omicidio-nel-carcere-di-catanzaro-cinque-arresti-a-un-anno-dalla-morte-di-un-detenuto-pestato-in-cella-niog8lpe",
       "published": "",
       "source": "lacnews24.it",
       "section": "ndrangheta",
       "priority": 10,
       "categories": [
+        "arresti",
+        "sangue"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Confagricoltura: «Bene l’intesa sul latte, ma non è la soluzione definitiva»",
+      "summary": "UltimeConfagricoltura: «Bene l’intesa sul latte, ma non è la soluzione definitiva»Scavi abusivi nel fiume Neto, blitz dei Carabinieri: 12 denunce e maxi sequestro dell’area – FOTOCosenza, lite condominiale e aggressione. Assoluzione dopo l’istruttoria dibattimentaleMieloma multiplo, traguardo storic...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/confagricoltura-bene-lintesa-sul-latte-ma-non-e-la-soluzione-definitiva/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 10,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "l’inchiesta sul traffico di drogaBlitz contro il clan Mazzei, 10 arrestiNuovo colpo della Dda di Catania contro la criminalità organizzata",
+      "summary": "l’inchiesta sul traffico di droga",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/blitz-contro-il-clan-mazzei-10-arresti/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 10,
+      "categories": [
+        "arresti",
         "droga"
       ],
       "is_high_priority": false
     },
     {
-      "title": "UltimoraLamezia, quei “nuovi elementi” che potrebbero portare a svelare il duplice omicidio dei netturbini",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lametino.it/ultimora/lamezia-quei-nuovi-elementi-che-potrebbero-portate-a-svelare-il-duplice-omicidio-dei-netturbini.html",
+      "title": "Scavi abusivi nel fiume Neto, blitz dei Carabinieri: 12 denunce e maxi sequestro dell’area – FOTOinquinamento ambientale",
+      "summary": "inquinamento ambientale",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/scavi-abusivi-nel-fiume-neto-blitz-dei-carabinieri-12-denunce-e-maxi-sequestro-dellarea-foto/",
       "published": "",
-      "source": "lametino.it",
-      "section": "crime_italy",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
       "priority": 10,
       "categories": [
-        "crime_italy"
+        "arresti"
       ],
       "is_high_priority": false
     },
     {
-      "title": "“Brutto pensare che un padre ti preferisca morto che gay”: chi era Mirko Moriconi ucciso a fucilate con la madre Kety Andreoni",
-      "summary": "&#8220;Brutto pensare che un padre ti preferisca morto che gay&#8221;. È una frase pubblicata sui social nel 2022 da Mirko Moriconi, il 24enne ucciso a colpi di fucile dal padre Piero a Camaiore, in Versilia, costata la vita anche alla madre Kety. Parole che, dopo il duplice omicidio, sono riemerse ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/brutto-pensare-che-un-padre-ti-preferisca-morto-che-gay-chi-era-mirko-moriconi-ucciso-a-fucilate-con-la-madre-kety-andreoni/8429209/",
-      "published": "Wed, 24 Jun 2026 18:42:35 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "crime_italy",
+      "title": "CronacaOmicidio di un detenuto in carcere a Catanzaro: 5 arresti, uno eseguito a Lamezia",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lametino.it/cronaca/omicidio-di-un-detenuto-in-carcere-a-catanzaro-5-arresti-uno-eseguito-a-lamezia.html",
+      "published": "",
+      "source": "lametino.it",
+      "section": "ndrangheta",
       "priority": 10,
       "categories": [
-        "crime_italy"
+        "arresti",
+        "sangue"
       ],
       "is_high_priority": false
     },
@@ -120,9 +149,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Occhiuto lancia il“social taxi”in Calabria: autista gratuito per gli over 65 diretti a visite mediche lontane",
-      "summary": "Il governatore presenta il nuovo servizio durante un evento con Uber: «Chi prenota al Cup e deve percorrere oltre 15 chilometri sarà accompagnato gratuitamente. Credeteci, non è una truffa». E rivendica la liberalizzazione del trasporto pubblico non di linea: «I tassisti mi apprezzano poco...»",
-      "link": "https://www.lacnews24.it/politica/occhiuto-lancia-il-social-taxi-in-calabria-autista-gratuito-per-gli-over-65-diretti-a-visite-mediche-lontane-v0m7afac",
+      "title": "La Calabria al secondo posto per comuni rurali premiati con leSpighe Verdi, 11 le località sostenibili: ecco quali",
+      "summary": "Sono in tutto 97 i centri che quest’anno hanno ottenuto il riconoscimento della Fee (Foundation for Environmental Education), contro i 90 dello scorso anno. Uno in più nella nostra regione",
+      "link": "https://www.lacnews24.it/ambiente/la-calabria-al-secondo-posto-per-comuni-rurali-premiati-con-le-spighe-verdi-11-le-localita-sostenibili-ecco-quali-axtysq5a",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
@@ -133,28 +162,29 @@
       "is_high_priority": false
     },
     {
-      "title": "Commissariamento Sanità, Occhiuto: «Domani firmerò le prime delibere da assessore»",
-      "summary": "Il presidente della Regione ha commentato così la pronuncia della Corte dei Conti che dilatava ulteriormente i tempi: «Ritengo che la questione sia già risolta da qualche ora». Convocata per domani la Giunta, all’odg anche il riparto del fondo sanitario",
-      "link": "https://www.lacnews24.it/sanita/commissariamento-sanita-occhiuto-domani-firmero-le-prime-delibere-da-assessore-wf648xjt",
+      "title": "Bimba di 2 annisoccorsa a Schiavonea: trasferita in elisoccorso all'Annunziata di Cosenza",
+      "summary": "La piccola è stata trovata in stato soporoso. Stabilizzata dal 118, è stata trasferita in via precauzionale per la presenza di precedenti problemi cardiaci",
+      "link": "https://www.lacnews24.it/cronaca/bimba-di-2-anni-soccorsa-a-schiavonea-trasferita-in-elisoccorso-allannunziata-di-cosenza-nqmjrv4k",
       "published": "",
       "source": "lacnews24.it",
-      "section": "mondo",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "mondo"
+        "generico"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Trump: «L’Iran accetta ispezioni nucleari senza limiti». Ma Teheran smentisce sull’accesso ai siti bombardati",
+      "title": "Guerra Stati Uniti-Iran, Rutte: «500 aerei Usa sono decollati dalle basi in Italia per supportare Epic Fury»",
       "summary": "Redazione",
-      "link": "https://www.lacnews24.it/italia-mondo/trump-liran-accetta-ispezioni-nucleari-senza-limiti-ma-teheran-smentisce-sullaccesso-ai-siti-bombardati-ljd06ykv",
+      "link": "https://www.lacnews24.it/italia-mondo/guerra-stati-uniti-iran-rutte-500-aerei-usa-sono-decollati-dalle-basi-in-italia-per-supportare-epic-fury-shwu14vd",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader"
+        "guerre",
+        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -174,9 +204,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Guerra Stati Uniti-Iran, Rutte: «500 aerei Usa sono decollati dalle basi in Italia per supportare Epic Fury»",
-      "summary": "Il segretario generale dell'Alleanza Atlantica rivela l'ampio supporto logistico europeo all'operazione militare americana. Coinvolte basi e infrastrutture in diversi Paesi",
-      "link": "https://www.lacnews24.it/italia-mondo/guerra-stati-uniti-iran-rutte-500-aerei-usa-sono-decollati-dalle-basi-in-italia-per-supportare-epic-fury-shwu14vd",
+      "title": "Trump accusa gli alleati europei: Italia nel mirino, scoppia il caso basi Usa",
+      "summary": "Il presidente americano accusa Roma e altri alleati della Nato di non aver sostenuto l'operazione contro Teheran: «Ci hanno mollato, sarebbe stato carino se avessero offerto il loro aiuto»",
+      "link": "https://www.lacnews24.it/italia-mondo/trump-accusa-gli-alleati-europei-italia-nel-mirino-scoppia-il-caso-basi-usa-r5x61f08",
       "published": "",
       "source": "lacnews24.it",
       "section": "ndrangheta",
@@ -187,9 +217,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Lega in crisi, i finanziatori scappano e guardano a Vannacci (che supera a destra il Carroccio): il denaro cambia rotta",
-      "summary": "Le aziende vedono in Futuro Nazionale non un fenomeno mediatico ma un soggetto politico su cui investire. Salvini cerca un’identità per il partito ora che il sovranismo è diventato offerta politica di massa. E nel dibattito alla Camera sul Piano Casa incassa gli attacchi del suo ex fedelissimo Furgi...",
-      "link": "https://www.lacnews24.it/politica/lega-in-crisi-i-finanziatori-scappano-e-guardano-a-vannacci-che-supera-a-destra-il-carroccio-il-denaro-cambia-rotta-hxkpnpo9",
+      "title": "Notizie in evidenza",
+      "summary": "Si tratta di una delle frontiere più avanzate dell'immunoterapia oncologica. Un risultato che posiziona il Grande ospedale metropolitano come primo centro del Centro-Sud Italia e quarto nel Paese",
+      "link": "https://www.lacnews24.it/sanita/storico-traguardo-al-gom-di-reggio-dimessa-la-prima-paziente-trattata-con-terapia-car-t-ciltacel-nel-mieloma-multiplo-cupuetw7",
       "published": "",
       "source": "lacnews24.it",
       "section": "italia",
@@ -200,22 +230,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Calunnia, per il senatore di Fdi Ernesto Rapani arriva la condanna anche in appello",
-      "summary": "La Corte di Catanzaro conferma un anno e sei mesi. Il processo nasce da una denuncia su un assegno del 2017",
-      "link": "https://www.lacnews24.it/cronaca/calunnia-condanna-ernesto-rapani-appello-catanzaro-q2a1oqxn",
+      "title": "Catanzaro, detenuto pestato a morte in carcere: cinque misure cautelari",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/catanzaro-detenuto-pestato-a-morte-in-carcere-cinque-misure-cautelari/2105749/",
       "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
+      "source": "strettoweb.com",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "generico"
+        "mondo"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Drammatico incidente a Roma, muore un maresciallo di Messina dell'Aeronautica Militarre",
+      "title": "Da Padova e Vicenza scelgono Cirò per dirsi sì: il matrimonio che unisce Nord e Sud Italia | FOTO",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/drammatico-incidente-a-roma-muore-un-maresciallo-di-messina-dellaeronautica-militarre/2105571/",
+      "link": "https://www.strettoweb.com/2026/06/da-padova-e-vicenza-scelgono-ciro-per-dirsi-si-il-matrimonio-che-unisce-nord-e-sud-italia-foto/2105711/",
       "published": "",
       "source": "strettoweb.com",
       "section": "italia",
@@ -226,9 +256,100 @@
       "is_high_priority": false
     },
     {
-      "title": "Mondiali 2026, Partey accusato di stupro: il gesto di Spence in Inghilterra-Ghana è virale | VIDEO",
+      "title": "Salute e benessere, l’Università di Messina conquista il primo posto in Italia nel \"THE Impact Ranking\"",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/mondiali-2026-partey-accusato-di-stupro-il-gesto-di-spence-in-inghilterra-ghana-e-virale-video/2105558/",
+      "link": "https://www.strettoweb.com/2026/06/salute-e-benessere-luniversita-di-messina-conquista-il-primo-posto-in-italia-nel-the-impact-ranking/2105676/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, grossa perdita idrica in località Miniera: disagi ad Arangea e Gallina",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-grossa-perdita-idrica-in-localita-miniera-disagi-ad-arangea-e-gallina/2105649/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Elezioni, Nuccio Di Paola pronto a correre per la presidenza della Regione Siciliana",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/elezioni-nuccio-di-paola-pronto-a-correre-per-la-presidenza-della-regione-siciliana/2105642/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Vibo Valentia, tornano in mare due tartarughe Caretta Caretta salvate dalla Guardia di finanza",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/vibo-valentia-tornano-in-mare-due-tartarughe-caretta-caretta-salvate-dalla-guardia-di-finanza/2105641/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "\"Le Città e il Mediterraneo\", meeting Forza Italia al Porto di Catania",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/le-citta-e-il-mediterraneo-meeting-forza-italia-al-porto-di-catania/2105613/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Giusi Princi, online il nuovo sito istituzionale dell’eurodeputato reggino",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/giusi-princi-online-il-nuovo-sito-istituzionale-delleurodeputato-reggino/2105605/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Calabria, la denuncia della Cgil: \"in decine di cantieri si sta assistendo alla violazione dell'ordinanza sullo stress termico\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/calabria-la-denuncia-della-cgil-in-decine-di-cantieri-si-sta-assistendo-alla-violazione-dellordinanza-sullo-stress-termico/2105602/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Porto di Tremestieri, Di Sarcina: “dialogo aperto con Ministero e Regione su risorse da reperire”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/porto-di-tremestieri-di-sarcina-dialogo-aperto-con-ministero-e-regione-su-risorse-da-reperire/2105600/",
       "published": "",
       "source": "strettoweb.com",
       "section": "mondo",
@@ -239,108 +360,15 @@
       "is_high_priority": false
     },
     {
-      "title": "E5, Meloni: \"Europa si assuma responsabilità Difesa\". Il ruolo dell'Italia nella guerra in Ucraina e la precarietà dell'Iran",
+      "title": "Rivoluzione all'alba a Reggio Calabria: il Sindaco Cannizzaro lancia l'operazione \"Piazza Pulita\"",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/e5-meloni-europa-si-assuma-responsabilita-difesa-il-ruolo-dellitalia-nella-guerra-in-ucraina-e-la-precarieta-delliran/2105458/",
+      "link": "https://www.strettoweb.com/2026/06/rivoluzione-allalba-a-reggio-calabria-il-sindaco-cannizzaro-lancia-loperazione-piazza-pulita/2105592/",
       "published": "",
       "source": "strettoweb.com",
-      "section": "mondo",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "guerre",
-        "leader",
-        "ucraina-russia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Riforme, Occhiuto: \"sono necessarie, vorrei più coraggio per il futuro dell'Italia\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/riforme-occhiuto-sono-necessarie-vorrei-piu-coraggio-per-il-futuro-dellitalia/2105553/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Sicilia, De Luca sul governo Schifani: “è un fallimento, i giovani sono costretti a scappare dall'Isola”",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/sicilia-de-luca-sul-governo-schifani-e-un-fallimento-i-giovani-sono-costretti-a-scappare-dallisola/2105525/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Porto di Villa San Giovanni, Minasi (Lega): \"subito chiarezza su tempi e piena operatività. Tuteliamo imprese, lavoratori e indotto\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/porto-di-villa-san-giovanni-minasi-lega-subito-chiarezza-su-tempi-e-piena-operativita-tuteliamo-imprese-lavoratori-e-indotto/2105529/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Da Gallo a Lotito, la storia si ripete: quella frase dell'ex Presidente della Reggina e la situazione attuale. Con un comune denominatore... | VIDEO",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/da-gallo-a-lotito-la-storia-si-ripete-quella-frase-dellex-presidente-della-reggina-e-la-situazione-attuale-con-un-comune-denominatore-video/2105488/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Premio Donna 2026, Antonella Cortese premiata a Cetraro per legalità e memoria",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/premio-donna-2026-antonella-cortese-premiata-a-cetraro-per-legalita-e-memoria/2105504/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Il Consiglio Nazionale Forense sceglie Reggio Calabria per due giornate di rilievo nazionale | PROGRAMMA",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/il-consiglio-nazionale-forense-sceglie-reggio-calabria-per-due-giornate-di-rilievo-nazionale-programma/2105498/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“2 giugno 1946. Repubblica e Assemblea Costituente”: incontro alla Biblioteca “Pietro De Nava” di Reggio Calabria",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/2-giugno-1946-repubblica-e-assemblea-costituente-incontro-alla-biblioteca-pietro-de-nava-di-reggio-calabria/2105480/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
+        "arresti"
       ],
       "is_high_priority": false
     },
@@ -358,61 +386,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Pentiti e politici locali nella lista testi della Dda, così i pm vogliono provare il «sistema mafioso lombardo» – I NOMI",
-      "summary": "UltimePentiti e politici locali nella lista testi della Dda, così i pm vogliono provare il «sistema mafioso lombardo» – I NOMIRiforma della caccia, Mario Occhiuto si smarca: «no» al ddl«Calabria regione complessa. Priorità al contrasto alla ‘ndrangheta e all’aggressione ai patrimoni illeciti»Camaior...",
-      "link": "https://www.corrieredellacalabria.it/2026/06/25/pentiti-e-politici-locali-nella-lista-testi-della-dda-cosi-i-pm-vogliono-provare-il-sistema-mafioso-lombardo-i-nomi/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "ControcorrenteRiforma della caccia, Mario Occhiuto si smarca: «no» al ddlVia libera al Senato alla legge ribattezzata «sparatutto». Il voto contrario del senatore azzurro accende il dibattito sui social",
-      "summary": "Controcorrente",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/riforma-della-caccia-mario-occhiuto-si-smarca-no-al-ddl/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "LA TRAGEDIACamaiore, uccide moglie e figlio. «Mi sono liberato»Piero Moriconi, 63 anni, avrebbe pronunciato la frase davanti ai carabinieri",
-      "summary": "LA TRAGEDIA",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/camaiore-uccide-moglie-e-figlio-mi-sono-liberato/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "la polemicaRutte: «500 voli Usa partiti dall’Italia per Epic Fury»Crosetto: «Rispettati i trattati»",
-      "summary": "la polemica",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/rutte-500-voli-usa-partiti-dallitalia-per-epic-fury/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "la novitàMobilità e innovazione, Occhiuto presenta il “social taxi” per la sanità calabrese – VIDEOAl Centro Studi Americani il confronto con Tony West, global chief legal officer di Uber. Il governatore: «Una macchina sotto casa per accompagnare i cittadini nelle strutture sanitarie»",
-      "summary": "la novità",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/mobilita-e-innovazione-occhiuto-presenta-il-social-taxi-per-la-sanita-calabrese-video/",
+      "title": "la tragediaTerremoto in Venezuela, primo bilancio: 32 vittimeCirca 700 i feriti. Ma il bilancio potrebbe aggravarsi ulteriormente",
+      "summary": "la tragedia",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/terremoto-in-venezuela-primo-bilancio-32-vittime/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
@@ -423,15 +399,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Nubifragi sulla costa jonica catanzarese: allagamenti tra Soverato e Montepaone – VIDEOondata di maltempo",
-      "summary": "ondata di maltempo",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/nubifragi-sulla-costa-jonica-catanzarese-allagamenti-tra-soverato-e-montepaone-video/",
+      "title": "«Calabria regione complessa. Priorità al contrasto alla ‘ndrangheta e all’aggressione ai patrimoni illeciti»in campo per la legalità",
+      "summary": "in campo per la legalità",
+      "link": "https://www.corrieredellacalabria.it/2026/06/24/calabria-regione-complessa-priorita-al-contrasto-alla-ndrangheta-e-allaggressione-ai-patrimoni-illeciti/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "italia",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "italia"
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -449,15 +425,41 @@
       "is_high_priority": false
     },
     {
-      "title": "Inchiesta sulla vendita di bibite allo stadio di Crotone, Voce: «Fiducia nella Procura, chiariremo tutto»le indagini",
-      "summary": "le indagini",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/inchiesta-sulla-vendita-di-bibite-allo-stadio-di-crotone-voce-fiducia-nella-procura-chiariremo-tutto/",
+      "title": "Spighe Verdi, la Calabria cresce ancora: Locri è la novità del 2026 – L’ELENCOil riconoscimento",
+      "summary": "il riconoscimento",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/spighe-verdi-la-calabria-cresce-ancora-locri-e-la-novita-del-2026-lelenco/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
         "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Catanzaro tra mercato e debutto stagionale. In Coppa Italia a ferragosto contro il Südtirolla nuova stagione",
+      "summary": "la nuova stagione",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/catanzaro-tra-mercato-e-debutto-stagionale-in-coppa-italia-a-ferragosto-contro-il-sudtirol/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Da Crotone al Mondiale: Ante Budimir, il bomber che continua a stupireil personaggio",
+      "summary": "il personaggio",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/da-crotone-al-mondiale-ante-budimir-il-bomber-che-continua-a-stupire/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre"
       ],
       "is_high_priority": false
     },
@@ -475,9 +477,9 @@
       "is_high_priority": false
     },
     {
-      "title": "la prima ricercaOltre 13 milioni di italiani soffrono di dolore cronico, spese fino a 300 euro al mese",
-      "summary": "la prima ricerca",
-      "link": "https://www.corrieredellacalabria.it/2026/06/23/oltre-13-milioni-di-italiani-soffrono-di-dolore-cronico-spese-fino-a-300-euro-al-mese/",
+      "title": "lo studioDopo un infarto o un ictus un italiano su 3 salta i controlli",
+      "summary": "lo studio",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/dopo-un-infarto-o-un-ictus-un-italiano-su-3-salta-i-controlli/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "italia",
@@ -488,9 +490,9 @@
       "is_high_priority": false
     },
     {
-      "title": "l’eventoTricologia, a Catanzaro il primo grande congresso del Sud Italia",
-      "summary": "l’evento",
-      "link": "https://www.corrieredellacalabria.it/2026/06/22/tricologia-a-catanzaro-il-primo-grande-congresso-del-sud-italia/",
+      "title": "Nubifragi sulla costa jonica catanzarese: allagamenti tra Soverato e Montepaone – VIDEOondata di maltempo",
+      "summary": "ondata di maltempo",
+      "link": "https://www.corrieredellacalabria.it/2026/06/24/nubifragi-sulla-costa-jonica-catanzarese-allagamenti-tra-soverato-e-montepaone-video/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "italia",
@@ -514,12 +516,208 @@
       "is_high_priority": false
     },
     {
-      "title": "Riforma della caccia, Mario Occhiuto si smarca: «no» al ddl“Via libera al Senato alla legge ribattezzata «sparatutto». Il voto contrario del senatore azzurro accende il dibattito sui social24 Giugno, 21:49",
-      "summary": "“Via libera al Senato alla legge ribattezzata «sparatutto». Il voto contrario del senatore azzurro accende il dibattito sui social",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/riforma-della-caccia-mario-occhiuto-si-smarca-no-al-ddl/",
+      "title": "«L’accordo della Regione Calabria con Mimit, Invitalia e Regione Campania per Hitachi apre nuove prospettive per l’industria»i temi dello sviluppo",
+      "summary": "i temi dello sviluppo",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/laccordo-della-regione-calabria-con-mimit-invitalia-e-regione-campania-per-hitachi-apre-nuove-prospettive-per-lindustria/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Cosenza, lite condominiale e aggressione. Assoluzione dopo l’istruttoria dibattimentale“Due protagonisti, due diverse denunce. I rapporti tesi tra condomini si consumano per strada25 Giugno, 12:18",
+      "summary": "“Due protagonisti, due diverse denunce. I rapporti tesi tra condomini si consumano per strada",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/cosenza-lite-condominiale-e-aggressione-assoluzione-dopo-listruttoria-dibattimentale/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
       "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Mieloma multiplo, traguardo storico al Gom di Reggio Calabria: prima paziente curata con la terapia CAR-T Ciltacel“Si tratta di una delle frontiere più avanzate dell’immunoterapia oncologica. È il primo centro del Sud-Italia a farlo25 Giugno, 11:59",
+      "summary": "“Si tratta di una delle frontiere più avanzate dell’immunoterapia oncologica. È il primo centro del Sud-Italia a farlo",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/mieloma-multiplo-traguardo-storico-al-gom-di-reggio-calabria-prima-paziente-curata-con-la-terapia-car-t-ciltacel/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Vibonese, ufficiale il nuovo cambio di proprietà. Ceduto il 60% delle quote a Cosimo Vullo“Cammarata ha ceduto ad una cordata guidata dall’imprenditore siciliano. «Questo è un club con storia e blasone importanti»25 Giugno, 11:42",
+      "summary": "“Cammarata ha ceduto ad una cordata guidata dall’imprenditore siciliano. «Questo è un club con storia e blasone importanti»",
+      "link": "https://www.corrieredellacalabria.it/2026/06/25/vibonese-ufficiale-il-nuovo-cambio-di-proprieta-ceduto-il-60-delle-quote-a-cosimo-vullo/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Guardia di finanza, in Calabria confische per oltre 230 milioni in 3 anni. Generale Borrelli nuovo comandante regionale",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lametino.it/cronaca/guardia-di-finanza-in-calabria-confische-per-oltre-230-milioni-in-3-anni-generale-borrelli-nuovo-comandante-regionale.html",
+      "published": "",
+      "source": "lametino.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Lo scontro tra Anna Ascani e ‘la deputata’ Pozzolo non è una banale polemica sulla lingua",
+      "summary": "Quanto accaduto nei giorni scorsi alla Camera dei Deputati tra la vicepresidente Anna Ascani (Partito democratico) e colui che, adottando il femminile universale, chiamerò ‘la deputata’ Emanuele Pozzolo (Futuro Nazionale) è stato liquidato da molti come una banale polemica linguistica. Non lo è affa",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/25/ascani-pozzolo-femminile-istituzionale-notizie/8429094/",
+      "published": "Thu, 25 Jun 2026 10:28:16 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Ferrovie, lascia anche Donnarumma: l’ultimo spintone di Giorgetti e Salvini",
+      "summary": "L’avventura di Stefano Donnarumma alla guida delle Ferrovie dello Stato è arriva alla fine. Oggi il manager – stando a quanto filtra – si sarebbe dimesso al termine di un incontro con Matteo Salvini. Il vertice con il ministro dei Trasporti era stato fissato per chiudere una fase turbolenta. Il mana",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/25/ferrovie-lascia-anche-donnarumma-lultimo-spintone-di-giorgetti-e-salvini/8429810/",
+      "published": "Thu, 25 Jun 2026 10:06:25 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Strage di Viareggio, ultimo atto in Cassazione. La Procura generale chiede la conferma delle condanne",
+      "summary": "Si avvia verso l’epilogo giudiziario una delle più lunghe e complesse vicende processuali in Italia. Davanti alla IV sezione penale della Cassazione, la Procura generale ha chiesto la conferma delle condanne inflitte nel processo per la strage ferroviaria di Viareggio, il disastro del 29 giugno 2009",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/25/strage-di-viareggio-ultimo-atto-in-cassazione-la-procura-generale-chiede-la-conferma-delle-condanne/8429795/",
+      "published": "Thu, 25 Jun 2026 09:59:25 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Complici dell’aggressione Usa”: l’Iran accusa l’Italia e la Romania dopo le parole di Rutte sui jet partiti dall’Europa verso Teheran",
+      "summary": "L'articolo &#8220;Complici dell&#8217;aggressione Usa&#8221;: l&#8217;Iran accusa l&#8217;Italia e la Romania dopo le parole di Rutte sui jet partiti dall&#8217;Europa verso Teheran proviene da Il Fatto Quotidiano.\n",
+      "link": "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/25/complici-dellaggressione-usa-liran-accusa-litalia-e-la-romania-dopo-le-parole-di-rutte-sui-jet-partiti-dalleuropa-verso-teheran/8429735/",
+      "published": "Thu, 25 Jun 2026 09:37:15 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Michelle Obama: “Quando ci frequentavamo Barack stava in un appartamentino squallido in affitto con un amico. Niente aria condizionata. Le finestre erano aperte. Il sabato sera era una follia”",
+      "summary": "Michelle e Barack Obama hanno inaugurato a Chicago per l’Obama Presidential Center, un polo culturale costato 850 milioni di dollari, proprio nella città che ha visto l&#8217;ex presidente Usa muovere i primi passi nel mondo del lavoro e che lo ha visto consacrarsi come uno dei più importanti avvoca",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/25/michelle-obama-quando-ci-frequentavamo-barack-stava-in-un-appartamentino-squallido-in-affitto-con-un-amico-niente-aria-condizionata-le-finestre-erano-aperte-il-sabato-sera-era-una-follia/8429711/",
+      "published": "Thu, 25 Jun 2026 09:10:47 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Trump apre le celebrazioni per i 250 anni degli Usa con un comizio in stile Maga: “L’America è tornata”",
+      "summary": "L&#8217;inizio con God bless the Usa e la chiusura con il balletto sulle note di &#8220;YMCA&#8221; e lo slogan Make America Great Again. L&#8217;esaltazione del trumpismo, le &#8220;vittorie quotidiane&#8221; e lo spauracchio comunismo. Più che un discorso da celebrazione ufficiale è stato un comiz",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/25/trump-250-anni-usa-comizio-maga-notizie/8429574/",
+      "published": "Thu, 25 Jun 2026 08:51:17 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Terremoto in Venezuela, Tajani: “Qualche italiano potrebbe essere rimasto intrappolato, decine e decine di palazzi crollati”",
+      "summary": "&#8220;Speriamo che non ci siano italiani&#8221; coinvolti nel terremoto in Venezuela, &#8220;ma con tanti nostri connazionali anche con doppio passaporto che vivono nel Paese, potrebbe esserci qualcuno che sia rimasto intrappolato&#8221;: lo ha detto il ministro degli Esteri, Antonio Tajani, in col",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/25/terremoto-venezuela-italiani-intrappolati-notizie/8429611/",
+      "published": "Thu, 25 Jun 2026 08:41:18 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Cosa mi ha insegnato Robert Smith dei Cure? Che il segreto per una relazione duratura è avere bagni separati. Me lo ricorderò per il futuro”: la popstar dei record Olivia Rodrigo racconta",
+      "summary": "&#8220;Ho avuto la fortuna di passare parecchio tempo con lui nell’ultimo anno ed è una persona meravigliosa, siamo proprio amici. Tutti sanno che è un artista leggendario, ma è anche una persona gentile e alla mano&#8221;: chi parla è Olivia Rodrigo, la popstar del momento e l&#8217;artista leggend",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/25/cosa-mi-ha-insegnato-robert-smith-dei-cure-che-il-segreto-per-una-relazione-duratura-e-avere-bagni-separati-me-lo-ricordero-per-il-futuro-la-popstar-dei-record-olivia-rodrigo-racconta/8429620/",
+      "published": "Thu, 25 Jun 2026 08:37:22 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "MotoGp, Aprilia diventa tutta italiana: ufficiale l’arrivo di Pecco Bagnaia, ecco il dream team azzurro con Bezzecchi",
+      "summary": "Se in Ducati si parlerà solo spagnolo, Aprilia diventa ufficialmente tutta italiana: il team di Noale ha annunciato l&#8217;arrivo di Pecco Bagnaia per la stagione 2027. Il 29enne, tre volte campione del mondo, andrà a comporre la coppia azzurra dei sogni con Marco Bezzecchi. Non a caso, Aprilia ha ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/25/motogp-bagnaia-aprilia-2027-dream-team-italiano-bezzecchi/8429615/",
+      "published": "Thu, 25 Jun 2026 08:34:26 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Auto troppo care, il 59% degli italiani rinvia l’acquisto. E il comparto del noleggio critica gli obblighi Ue sulle EV",
+      "summary": "Gli italiani continuano ad avere bisogno dell&#8217;auto, ma comprarne una nuova sta diventando sempre più complicato. Oggi servono in media 11 mensilità di stipendio per acquistare una vettura, contro le cinque che bastavano nel 2000. Nel frattempo i prezzi delle auto sono aumentati del 52% dal 201",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/25/auto-troppo-care-il-59-degli-italiani-rinvia-lacquisto-e-il-comparto-del-noleggio-critica-gli-obblighi-ue-sulle-ev/8429613/",
+      "published": "Thu, 25 Jun 2026 08:25:29 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Dipendenze, Agic: necessarie regole efficaci contro il gioco d’azzardo",
+      "summary": "La Relazione 2026 al Parlamento mostra una diffusione record del fenomeno: quasi un milione e 500mila studenti hanno giocato d’azzardo nel 2025. Per Agic occorre completare il riordino normativo del settore",
+      "link": "https://www.ilsole24ore.com/art/dipendenze-agic-necessarie-regole-efficaci-contro-gioco-d-azzardo-AIz2RhrD",
+      "published": "Thu, 25 Jun 2026 10:14:50 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
       "priority": 0,
       "categories": [
         "politica"
@@ -527,50 +725,50 @@
       "is_high_priority": false
     },
     {
-      "title": "«Calabria regione complessa. Priorità al contrasto alla ‘ndrangheta e all’aggressione ai patrimoni illeciti»“Il neo comandante regionale della Guardia di Finanza Borrelli alla festa delle Fiamme Gialle a Catanzaro: «Lavoreremo con attenzione e con spirito di…24 Giugno, 20:42",
-      "summary": "“Il neo comandante regionale della Guardia di Finanza Borrelli alla festa delle Fiamme Gialle a Catanzaro: «Lavoreremo con attenzione e con spirito di…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/calabria-regione-complessa-priorita-al-contrasto-alla-ndrangheta-e-allaggressione-ai-patrimoni-illeciti/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "ndrangheta",
+      "title": "Italiani smart: sei su dieci hanno la firma digitale, è tra le più sicure d’Europa",
+      "summary": "Trentatré milioni di certificati attivi, sette miliardi di firme l’anno, 233 marche temporali emesse ogni secondo. Gli italiani hanno adottato la firma digitale più e meglio di quasi tutti i...",
+      "link": "https://www.ilsole24ore.com/art/italiani-smart-sei-dieci-hanno-firma-digitale-e-le-piu-sicure-d-europa-AIOee8qD",
+      "published": "Thu, 25 Jun 2026 09:56:35 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "generico"
+        "italia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Camaiore, uccide moglie e figlio. «Mi sono liberato»“Piero Moriconi, 63 anni, avrebbe pronunciato la frase davanti ai carabinieri24 Giugno, 20:26",
-      "summary": "“Piero Moriconi, 63 anni, avrebbe pronunciato la frase davanti ai carabinieri",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/camaiore-uccide-moglie-e-figlio-mi-sono-liberato/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "crime_italy",
+      "title": "Decreto Accise, è legge l’obbligo di accettazione della moneta elettronica anche via app e wallet",
+      "summary": "Accoglie con favore la notizia Satispay, che da settembre porterà a zero le commissioni per transazioni sotto i dieci euro per «rendere i pagamenti digitali accessibili a tutti»",
+      "link": "https://www.ilsole24ore.com/art/decreto-accise-e-legge-l-obbligo-accettazione-moneta-elettronica-anche-via-app-e-wallet-AI60Q1qD",
+      "published": "Thu, 25 Jun 2026 09:16:43 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "crime_italy"
+        "politica"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Errori giudiziari e processi mediatici, il confronto a Cosenza. Maffia: «La risposta più efficace è la conoscenza»“Le Pera: «L’errore nasce anche quando le istanze della difesa vengono disattese». Quintieri: «L’origine è nel vulnus delle indagini»24 Giugno, 18:24",
-      "summary": "“Le Pera: «L’errore nasce anche quando le istanze della difesa vengono disattese». Quintieri: «L’origine è nel vulnus delle indagini»",
-      "link": "https://www.corrieredellacalabria.it/2026/06/24/errori-giudiziari-e-processi-mediatici-il-confronto-a-cosenza-maffia-la-risposta-piu-efficace-e-la-conoscenza/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "ndrangheta",
+      "title": "Bce, solo il 7% delle aziende dell’Eurozona usa l’Ai in modo intensivo",
+      "summary": "Nonostante l’adozione dell’intelligenza artificiale sia sempre più diffusa, la maggior parte delle imprese dell’area euro la impiega in modo sporadico o moderato",
+      "link": "https://www.ilsole24ore.com/art/bce-solo-7percento-aziende-dell-eurozona-usa-l-ai-modo-intensivo-AIvKyrqD",
+      "published": "Thu, 25 Jun 2026 08:54:10 GMT",
+      "source": "ilsole24ore.com",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "generico"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Strage di Ferragosto, si riapre il caso: scarcerati cinque libici condannati per la morte di 49 migranti",
-      "summary": "Undici anni dopo la tragedia e dopo anni di carcere scontati sulla base di sentenze passate in giudicato, si riapre uno dei casi più controversi legati alle stragi dei migranti nel Mediterraneo. La Corte d&#8217;appello di Messina ha disposto la scarcerazione di cinque degli otto cittadini libici co",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/strage-ferragosto-scarcerazione-libici-notizie/8429405/",
-      "published": "Wed, 24 Jun 2026 20:17:20 +0000",
-      "source": "ilfattoquotidiano.it",
+      "title": "Antitrust multa Deghi Spa per uso ingannevole di countdown nelle promozioni online",
+      "summary": "L’Autorità Garante della Concorrenza e del Mercato ha sanzionato per 2 milioni di euro Deghi Spa per pratica commerciale scorretta. L’Autorità ha accertato che la società, da gennaio 2024 a...",
+      "link": "https://www.ilsole24ore.com/art/antitrust-multa-deghi-spa-uso-ingannevole-countdown-promozioni-online-AINbYfrD",
+      "published": "Thu, 25 Jun 2026 08:50:42 GMT",
+      "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -579,24 +777,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Falso in bilancio e frode, prosciolti i vertici di Original Marines. Per il Gup di Nola “il fatto non sussiste”",
-      "summary": "Non luogo a procedere e proscioglimento. Così si è concluso il procedimento giudiziario scaturito circa un anno fa dal sequestro da ben 38 milioni di euro notificato a otto indagati &#8211; tra amministratori, componenti il collegio sindacale e la stessa società Original Marines spa &#8211; a cui la",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/falso-in-bilancio-e-frode-prosciolti-i-vertici-di-original-marines-per-il-gup-di-nola-il-fatto-non-sussiste/8429062/",
-      "published": "Wed, 24 Jun 2026 19:25:08 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Ci abitueremo al clima caraibico, non moriremo”: La Russa scatenato alla presentazione del libro di Procaccini (che loda per aver “fatto incazzare Floris”)",
-      "summary": "Per il presidente del Senato, Ignazio La Russa, il danno del mutamento climatico è un luogo comune: “Ci abitueremo al clima caraibico, non vuol dire che moriremo”. E il responsabile Energia e Ambiente di Fratelli d’Italia, Nicola Procaccini, “meriterebbe una piccola statua” per aver fatto “incazzare",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/la-russa-cambiamenti-climatici-scatenato-leggi-fasciste-libro-procaccini-video/8429266/",
-      "published": "Wed, 24 Jun 2026 19:15:14 +0000",
-      "source": "ilfattoquotidiano.it",
+      "title": "Campi Flegrei: terremoto di magnitudo 3.6 nella notte",
+      "summary": "L’Osservatorio Vesuviano dell’Ingv ha localizzato l’epicentro in località Arco Felice a Pozzuoli, nei pressi del Monte Nuovo",
+      "link": "https://www.ilsole24ore.com/art/campi-flegrei-terremoto-magnitudo-36-notte-AIlYTXrD",
+      "published": "Thu, 25 Jun 2026 06:07:00 GMT",
+      "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -605,265 +790,28 @@
       "is_high_priority": false
     },
     {
-      "title": "La Rai nega a Ranucci la tutela delle spese legali sul caso Cipriani-Uruguay. Ms5 all’attacco: “Così TeleMeloni prova a indebolire Report”",
-      "summary": "L&#8217;ultima trincea si chiama tutela legale. Ed è qui che si consuma l&#8217;ennesimo scontro su Sigfrido Ranucci, conduttore della trasmissione di inchiesta Report su Rai 3. Secondo quanto anticipato da Dagospia, l&#8217;azienda avrebbe deciso di non garantire la copertura delle spese legali al ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/ranucci-rai-tutela-legale-notizie/8429262/",
-      "published": "Wed, 24 Jun 2026 19:02:09 +0000",
-      "source": "ilfattoquotidiano.it",
+      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "summary": "Buildings were flattened in the capital Caracas, where voices have been heard calling from the rubble.",
+      "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 09:07:25 GMT",
+      "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "guerre",
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
+      "summary": "But the budget faces an uphill battle as the president spars with some members of his own party over the issue.",
+      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 09:06:59 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
         "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "La destra mette il turbo per cambiare la legge elettorale: ok in commissione, venerdì testo in Aula. Con l’ombra della tagliola",
-      "summary": "L&#8217;urgenza della destra per una nuova legge elettorale porta la corsa della riforma al suo primo traguardo. La commissione Affari costituzionali della Camera ha dato il primo via libera al testo ribattezzato &#8220;Bignami bis&#8221; (dal nome del capogruppo di Fdi a Montecitorio) che recepisce",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/legge-elettorale-bignami-bis-commissione-notizie/8429219/",
-      "published": "Wed, 24 Jun 2026 18:57:50 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Il vertice dei leader E5: più soldi per la difesa comune e sostegno a Kiev. Trump insiste: “Deluso da Italia, Gran Bretagna, Germania e Francia”",
-      "summary": "Rafforzare il pilastro europeo della Nato, aumentare gli investimenti nella difesa, sostenere l’Ucraina contro l’aggressione russa e consolidare la cooperazione industriale militare. Sono questi i punti centrali della dichiarazione congiunta adottata oggi a Berlino dai leader di Francia, Germania, I",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/vertice-e5-berlino-difesa-ucraina-meloni/8429203/",
-      "published": "Wed, 24 Jun 2026 18:28:46 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Regeni, Ballerini: “La famiglia ha lottato a mani nude contro il regime”. E la presidenza del Consiglio (parte civile) chiede 2 milioni agli 007 imputati",
-      "summary": "&#8220;Sono stati anni continui di tortura anche per noi e per la famiglia Regeni. Hanno gettato fango su Giulio e non hanno mai smesso di farlo. Doversi difendere da tutto questo, dopo dieci anni, è faticoso&#8221;. Nell&#8217;Aula bunker di Rebibbia a Roma, dopo la requisitoria del pm Sergio Colai",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/regeni-ballerini-famiglia-lotta-regime-egitto-risarcimento-presidenza-consiglio/8429120/",
-      "published": "Wed, 24 Jun 2026 17:03:46 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Patrimoniale, ho immaginato la seduta del signor Ingenuo (che era più scaltro di quanto sembrasse)",
-      "summary": "“Buongiorno signor Ingenuo”. Dentro di me pensavo che il nome imposto dai genitori era piuttosto evocativo di quello che desideravano per lui. “Si sieda pure e mi parli del motivo per cui è venuto al consulto da uno psicoterapeuta come me”. “Dottore, mi sento incompreso. Quando formulo delle opinion",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/patrimoniale-satira-politica-ingenuo-notizie/8425967/",
-      "published": "Wed, 24 Jun 2026 16:46:32 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Stellantis cadente, il libro sulla crisi dell’auto italiana. Rivedi la diretta con Peter Gomez, Andrea Tundo e Michele De Palma",
-      "summary": "In Italia nel 1999 vennero prodotte 1,4 milioni di automobili. Nel 2025 le fabbriche di Stellantis ne hanno assemblate poco più di 200mila. Quali sono le colpe dell&#8217;azienda in questo tracollo? E la politica ha fatto qualcosa negli ultimi, disastrosi anni per tentare di salvaguardare l&#8217;in",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/stellantis-cadente-crisi-auto-italiana-notizie/8429108/",
-      "published": "Wed, 24 Jun 2026 16:37:21 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Allarme Djokovic, si ritira dall’Armani Tennis Classic: nessuna comunicazione sulle cause. Il mistero a 5 giorni da Wimbledon",
-      "summary": "Allarme Novak Djokovic a cinque giorni dall&#8217;inizio di Wimbledon. Il serbo era tra gli iscritti al &#8220;Giorgio Armani Tennis Classic&#8220;, torneo d&#8217;esibizione che si gioca sull&#8217;erba dell&#8217;Hurlingham Club, ma pochissime ore prima ha deciso di ritirarsi senza fornire spiegaz",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/djokovic-ritiro-armani-tennis-classic-wimbledon-mistero-cause-perche-infortunio/8429087/",
-      "published": "Wed, 24 Jun 2026 16:10:55 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Ral obbligatoria negli annunci di lavoro: ci sarà spazio per negoziare il salario",
-      "summary": "di Luisa Casanova Stua* Come ormai noto, la normativa sulla trasparenza salariale, che recepisce la direttiva UE 2023/970, impone alle aziende italiane di indicare la Retribuzione Annua Lorda o, quantomeno, la fascia retributiva negli annunci di lavoro. Un cambiamento forte per un mercato del lavoro",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/trasparenza-salariale-ral-annunci-lavoro-notizie/8426547/",
-      "published": "Wed, 24 Jun 2026 15:47:59 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Il decreto lavoro è legge con la fiducia. Nel “salario giusto” si conta anche il welfare. Sanità privata esclusa dall’aumento automatico degli stipendi",
-      "summary": "Via libera definitivo del Parlamento al decreto Lavoro voluto dal governo Meloni, che diventa legge. Il Senato ha approvato con la fiducia il provvedimento con 94 voti favorevoli, 61 contrari e due astensioni. La maggioranza rivendica l&#8217;introduzione del principio del &#8220;salario giusto&#822",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/decreto-lavoro-salario-giusto-sanita-privata-notizie/8428950/",
-      "published": "Wed, 24 Jun 2026 15:18:31 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Processo Regeni, anche Schlein in Aula: “Continuiamo a sostenere la ricerca di verità e giustizia per Giulio”",
-      "summary": "&#8221;Il procuratore aggiunto Sergio Colaiocco ieri ha fatto una ricostruzione molto accurata, significativa e importante. Noi continuiamo a seguire e a fare da scorta politica e mediatica in questo importante processo. Se c&#8217;è questo processo è per il lavoro enorme svolto dalla procura, l&#82",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/processo-regeni-ergastolo-schlein-notizie/8428986/",
-      "published": "Wed, 24 Jun 2026 15:13:33 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "crime_italy",
-      "priority": 0,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Legge elettorale, sprint della maggioranza. Accantonate le preferenze e riformulata l’esenzione dalla raccolta delle firme (che esclude i vannacciani)",
-      "summary": "Sono ripresi i lavori in commissione Affari Costituzionali alla Camera sulla riforma della legge elettorale. Al momento restano accantonati gli emendamenti che riguardano le preferenze. &#8220;Sugli accantonati c&#8217;è una discussione in corso, il lavoro è in itinere. C&#8217;è volontà di farne di",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/legge-elettorale-preferenze-raccolta-firme-notizie/8428912/",
-      "published": "Wed, 24 Jun 2026 15:07:24 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Forest – Il futuro ha radici antiche”, il doc che racconta il lavoro forestale: da Vaia al bostrico, una riflessione sul nostro futuro",
-      "summary": "Lombardia, Veneto, Liguria, Friuli, Piemonte: parte da qui il tour di Forest – Il futuro ha radici antiche, il documentario diretto da Giorgia Lorenzato e Manuel Zarpellon e prodotto da Cineblend, che accompagna lo spettatore nel cuore del lavoro forestale contemporaneo, in un ambiente tanto familia",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/24/forest-documentario-lavoro-forestale-vaia-notizie/8428977/",
-      "published": "Wed, 24 Jun 2026 15:07:01 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Spiagge sicure 2026, dal Viminale 1,5 milioni contro abusivismo e contraffazione",
-      "summary": "Contributi da 25mila euro a 60 Comuni costieri. Le risorse serviranno per rafforzare i controlli nelle località balneari, assumere agenti di Polizia locale a tempo determinato, acquistare mezzi e avviare campagne di sensibilizzazione",
-      "link": "https://www.ilsole24ore.com/art/spiagge-sicure-2026-viminale-15-milioni-contro-abusivismo-e-contraffazione-AIi12vqD",
-      "published": "Wed, 24 Jun 2026 15:46:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Sì al decreto lavoro: bonus assunzioni under 35 e donne, salario giusto e tutele ai rider",
-      "summary": "Via libera definitivo del Senato. Il salario giusto per accedere alle agevolazioni viene individuato nel Trattamento economico complessivo (Tec) dei contratti collettivi nazionali firmati da sindacati e associazioni datoriali comparativamente più rappresentative",
-      "link": "https://www.ilsole24ore.com/art/si-decreto-lavoro-bonus-assunzioni-under-35-e-donne-salario-giusto-e-tutele-rider-AI2mNbqD",
-      "published": "Wed, 24 Jun 2026 13:55:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Regeni, la Presidenza del Consiglio chiede un risarcimento di 2 milioni",
-      "summary": "La Presidenza del Consiglio del ministri, tramite l’Avvocatura dello Stato - nell’ambito del processo sul caso Regeni - ha chiesto un risarcimento di due milioni di euro nei confronti dei...",
-      "link": "https://www.ilsole24ore.com/art/regeni-presidenza-consiglio-chiede-risarcimento-2-milioni-AIPmtkqD",
-      "published": "Wed, 24 Jun 2026 13:17:28 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Fininvest ha accettato proposta vincolante per Villa Certosa allo sceicco Al Thani",
-      "summary": "L’ammontare dell’operazione - secondo le indiscrezioni non confermate - sarebbe pari a 350 milioni di euro",
-      "link": "https://www.ilsole24ore.com/art/fininvest-ha-accettato-proposta-vincolante-villa-certosa-sceicco-thani-AIjhZjqD",
-      "published": "Wed, 24 Jun 2026 12:33:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Rutte: dall’Italia 500 voli Usa contro l’Iran, governo smentisce",
-      "summary": "«Comprendo perfettamente la delusione, ma se prendiamo ad esempio l’Italia, 500 aerei statunitensi sono decollati dalle basi americane in Italia per supportare l’operazione. Quindi si tratta di un numero enorme»....",
-      "link": "https://www.ilsole24ore.com/art/rutte-rivela-dalle-basi-italiane-500-aerei-supportare-guerra-iran-campo-largo-all-attacco-AIe9lfqD",
-      "published": "Wed, 24 Jun 2026 11:55:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Dipendenze, il 23% degli under 18 ha usato almeno una sostanza illegale nel 2025",
-      "summary": "La premier Meloni: «Occorrono un approccio a 360 gradi e risposte lungimiranti. Il governo ha costruito un nuovo metodo di lavoro, condiviso con tutti coloro che sono impegnati nel contrasto alle dipendenze»",
-      "link": "https://www.ilsole24ore.com/art/dipendenze-23percento-under-18-ha-usato-almeno-sostanza-illegale-2025-AI1eWeqD",
-      "published": "Wed, 24 Jun 2026 11:29:18 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Guardia di Finanza, Giorgetti: frodi per 20 miliardi sui bonus edilizi",
-      "summary": "Ai 10 miliardi sequestrati dalle Fiamme gialle si aggiungono altri 10 emersi da controlli preventivi. Il ministro dell’Economia: sicurezza economica e finanziaria è questione nazionale",
-      "link": "https://www.ilsole24ore.com/art/guardia-finanza-giorgetti-sicurezza-economica-bonus-edilizi-corrono-frodi-AIARwaqD",
-      "published": "Wed, 24 Jun 2026 10:42:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Corte conti: deficit 2025 sopra attese per Superbonus. Irpef, 82% da dipendenti e pensionati",
-      "summary": "«In questa prima fase di attuazione della nuova normativa europea in materia di governance economica e in linea con quanto previsto da recenti atti di indirizzo parlamentare, l’attività di monitoraggio...",
-      "link": "https://www.ilsole24ore.com/art/corte-conti-deficit-2025-sopra-attese-emersione-inattesa-superbonus-AIHHIYqD",
-      "published": "Wed, 24 Jun 2026 09:34:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
       ],
       "is_high_priority": false
     },
@@ -881,80 +829,15 @@
       "is_high_priority": false
     },
     {
-      "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
-      "summary": "Yasmina alleges she was held along with her five children, and they were all cut off from the outside world.",
-      "link": "https://www.bbc.co.uk/news/articles/cj0g71pnv3no?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 08:29:06 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Colombia's left-wing presidential candidate concedes defeat",
-      "summary": "Senator Iván Cepeda was beaten by right-wing businessman Abelardo de la Espriella by less than a percentage point.  ",
-      "link": "https://www.bbc.co.uk/news/articles/cgrkqky5lzpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 15:50:22 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Kenya to charge students with murder over deadly school fire",
-      "summary": "Sixteen pupils, aged between 15 and 18, died when a fire broke out in a dormitory at Utumishi Girls' School last month.",
-      "link": "https://www.bbc.co.uk/news/articles/cwykl517xk7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 14:36:42 GMT",
-      "source": "bbc.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "economia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-      "summary": "Experts say Trump is likely to ignore it, but that even though it carries little power, it is politically significant.",
-      "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 14:57:21 GMT",
+      "title": "The ICE raids are over, but some Minnesotans say they still live in fear",
+      "summary": "Six months after he Trump administration's immigration crackdown ended, Minneapolis is still feeling the impact.  ",
+      "link": "https://www.bbc.co.uk/news/articles/c0eyww7280xo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Jun 2026 02:40:13 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
-      "summary": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours. ",
-      "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 23:46:01 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
-      "summary": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
-      "link": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 23:25:07 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
       ],
       "is_high_priority": false
     }
