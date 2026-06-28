@@ -1,11 +1,25 @@
 {
-  "last_update": "2026-06-28T15:06:09.795498",
-  "total_news": 76,
+  "last_update": "2026-06-28T20:23:19.148116",
+  "total_news": 82,
   "news": [
     {
-      "title": "Vasto incendio nella zona industriale di Lamezia: pneumatici in fiamme e densa colonna di fumo",
-      "summary": "UltimeVasto incendio nella zona industriale di Lamezia: pneumatici in fiamme e densa colonna di fumo’Ndrangheta, il calabrese picchiato nel bar di Busto Arsizio. Il pentito: «Solo Cristello poteva autorizzare la reazione»Marito di Roccella: continuano le ricerche nel lagoLe viene rimosso un tumore r...",
-      "link": "https://www.corrieredellacalabria.it/2026/06/28/vasto-incendio-nella-zona-industriale-di-lamezia-pneumatici-in-fiamme-e-densa-colonna-di-fumo/",
+      "title": "Cataldo De Luca,muore in carcereil detenuto accusato dell'omicidio in cella a Catanzaro: disposta l'autopsia",
+      "summary": "Il 41enne di Cirò Marina, è stato trovato senza vita nel penitenziario di Rossano, dove era stato trasferito dopo l'arresto per il delitto del detenuto Antonio Pugliese. La Procura di Castrovillari ha aperto un'inchiesta e disposto l'esame autoptico",
+      "link": "https://www.lacnews24.it/cronaca/cataldo-de-luca-muore-in-carcere-il-detenuto-accusato-dellomicidio-in-cella-a-catanzaro-disposta-lautopsia-f6hmtu0f",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 10,
+      "categories": [
+        "arresti",
+        "sangue"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Venezuela: sale a 1.450 il bilancio delle vittime del terremoto",
+      "summary": "UltimeVenezuela: sale a 1.450 il bilancio delle vittime del terremotoGiuramento di Ippocrate per 73 nuovi medici reggini: i nomiMeloni contro gli insulti a Roccella: “Fa rabbrividire”Arrestato in Spagna “Don Mico” Paviglianiti, boss della ‘ndrangheta latitante dal 2022Sventata evasione: detenuto si ...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/venezuela-sale-a-1-450-il-bilancio-delle-vittime-del-terremoto/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
@@ -29,11 +43,11 @@
       "is_high_priority": false
     },
     {
-      "title": "Spari in una discoteca del Cosentino, feriti due giovani: indagini",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lametino.it/cronaca/spari-in-una-discoteca-del-cosentino-feriti-due-giovani-indagini.html",
+      "title": "Meloni contro gli insulti a Roccella: “Fa rabbrividire”",
+      "summary": "UltimeMeloni contro gli insulti a Roccella: “Fa rabbrividire”Arrestato in Spagna “Don Mico” Paviglianiti, boss della ‘ndrangheta latitante dal 2022Sventata evasione: detenuto si frattura una gambaIncendio a Lamezia Terme: chiuso un tratto della SS 18 “Tirrena Inferiore”Elezioni metropolitane di Regg...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/meloni-contro-gli-insulti-a-roccella-fa-rabbrividire/",
       "published": "",
-      "source": "lametino.it",
+      "source": "corrieredellacalabria.it-cronaca",
       "section": "ndrangheta",
       "priority": 10,
       "categories": [
@@ -120,19 +134,6 @@
       "is_high_priority": false
     },
     {
-      "title": "L'Università, le sue trasformazioni e le incognite del futuro, Stefano Jossa: «Rivendicare il valore intellettuale perchè resti patrimonio per la comunità»",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/attualita/luniversita-le-sue-trasformazioni-e-le-incognite-del-futuro-stefano-jossa-rivendicare-il-valore-intellettuale-perche-resti-patrimonio-per-la-comunita-isdusqi0",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Economia e Lavoro",
       "summary": "Clicca per leggere l'articolo completo",
       "link": "https://www.lacnews24.it/video/economia-e-lavoro",
@@ -142,6 +143,19 @@
       "priority": 0,
       "categories": [
         "economia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Notizie in evidenza",
+      "summary": "Dopo il rogo nell’area dell’ex Sir, i tecnici dell'agenzia installeranno campionatori ad alto volume per verificare l'eventuale presenza di sostanze prodotte dalla combustione. I risultati saranno resi pubblici",
+      "link": "https://www.lacnews24.it/cronaca/vasto-incendio-in-un-impianto-di-raccolta-pneumatici-a-lamezia-arpacal-al-lavoro-per-monitorare-la-qualita-dellaria-video-ajvppsjx",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -185,37 +199,24 @@
       "is_high_priority": false
     },
     {
-      "title": "Fondi Ue, Bruno e Tridico contro Occhiuto: «Basta reel, la Calabria rischia di perdere 273 milioni»",
-      "summary": "L’opposizione denuncia i ritardi nella spesa del Programma Fesr-Fse: «Solo l'11% dei 3 miliardi di risorse è stato certificato. Se non si accelera scatterà il disimpegno automatico dei fondi europei»",
-      "link": "https://www.lacnews24.it/politica/fondi-ue-bruno-e-tridico-contro-occhiuto-basta-reel-la-calabria-rischia-di-perdere-273-milioni-nvfxnagy",
+      "title": "Vibo Marina attende l’ambasciatore Usa Fertitta tra le invettive dei leoni da tastiera e le ambizioni di rilancio del porto",
+      "summary": "Giuseppe Addesi",
+      "link": "https://www.lacnews24.it/cronaca/vibo-marina-attende-lambasciatore-usa-fertitta-tra-le-invettive-dei-leoni-da-tastiera-e-le-ambizioni-di-rilancio-del-porto-tqv00nl0",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Vinitaly and the City raddoppia quest’anno in Calabria, Rodilosso: «Orgoglioso di aver firmato lo spot»",
-      "summary": "Franco Sangiovanni",
-      "link": "https://www.lacnews24.it/lacalabriavisione/eventi/vinitaly-and-the-city-raddoppia-questanno-in-calabria-rodilosso-orgoglioso-di-aver-firmato-lo-spot-mwg7w0vc",
+      "title": "'Ndrangheta, catturato in Spagna il boss di Reggio Calabria Domenico Paviglianiti, detto \"Don Micu\". Era un \"superlatitante\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/ndrangheta-catturato-in-spagna-il-boss-di-reggio-calabria-domenico-paviglianiti-detto-don-micu-era-un-superlatitante/2107087/",
       "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Tartufo di Pizzo simbolo della Calabria, Penna: «Ora vogliamo un marchio collettivo per tutelarne l'identità»",
-      "summary": "Il titolare dell’omonima azienda napitina racconta il percorso che ha reso il gelato un’eccellenza conosciuta oltre i confini regionali: «La vera sfida adesso è esportare in un numero sempre maggiore di Paesi»",
-      "link": "https://www.lacnews24.it/attualita/tartufo-di-pizzo-simbolo-della-calabria-penna-ora-vogliamo-un-marchio-collettivo-per-tutelarne-lidentita-mdglex8j",
-      "published": "",
-      "source": "lacnews24.it",
+      "source": "strettoweb.com",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
@@ -224,15 +225,67 @@
       "is_high_priority": false
     },
     {
-      "title": "Cutro,muore a 18 annischiantandosi contro un albero: guidava col foglio rosa. Due giovani feriti",
-      "summary": "Redazione Cronaca",
-      "link": "https://www.lacnews24.it/cronaca/cutro-muore-a-18-anni-schiantandosi-contro-un-albero-guidava-col-foglio-rosa-due-giovani-feriti-jbfgxsww",
+      "title": "Arriva in Calabria il tenebroso \"Oblio Horror Circus\", l'esclusivo show horror-thriller",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/arriva-in-calabria-il-tenebroso-oblio-horror-circus-lesclusivo-show-horror-thriller/2107083/",
       "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "mondo"
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, la lettera al Sindaco da un reggino \"disidratato\": \"secondo weekend di fila senz'acqua, qua non è mai mancata. Eppure la diga del Menta...\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-la-lettera-al-sindaco-da-un-reggino-disidratato-secondo-weekend-di-fila-senzacqua-qua-non-e-mai-mancata-eppure-la-diga-del-menta/2107076/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Catanzaro, sospesa l’espulsione di cittadino pakistano condannato per terrorismo",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/catanzaro-sospesa-lespulsione-di-cittadino-pakistano-condannato-per-terrorismo/2107044/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, cresce l'allarme lupi in tutto l'Aspromonte. Allevatori in crisi, pioggia di solidarietà ai pastori",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-cresce-lallarme-lupi-in-tutto-laspromonte-allevatori-in-crisi-pioggia-di-solidarieta-ai-pastori/2107040/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La storia della radio italiana, a Reggio Calabria la presentazione del libro \"Cent’anni di compagnia. La radio 1924/2024\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/la-storia-della-radio-italiana-a-reggio-calabria-la-presentazione-del-libro-centanni-di-compagnia-la-radio-1924-2024/2107030/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -289,84 +342,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Catanzaro, proclamato il nuovo governatore del Distretto Rotary 2102 | NOME",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/catanzaro-proclamato-il-nuovo-governatore-del-distretto-rotary-2102-nome/2106930/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Tragedia in Calabria, schianto nella notte: muore 18enne, due minorenni in gravissime condizioni",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/tragedia-in-calabria-schianto-nella-notte-muore-18enne-due-minorenni-in-gravissime-condizioni/2106910/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Reggio Calabria attende Lotito: pronta la conferenza a 3. E spuntano i retroscena sull'acquisizione della Reggina",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-attende-lotito-pronta-la-conferenza-a-3-e-il-retroscena-su-come-cannizzaro-lha-convinto/2106884/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Palermo, finti esperti di medicina estetica sui social: due denunciati per esercizio abusivo della professione",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/palermo-finti-esperti-di-medicina-estetica-sui-social-due-denunciati-per-esercizio-abusivo-della-professione/2106894/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Corigliano-Rossano, lite tra stranieri nel centro urbano: accoltellati due cittadini pachistani",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/corigliano-rossano-lite-tra-stranieri-nel-centro-urbano-accoltellati-due-cittadini-pachistani/2106893/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Crotone e Isola di Capo Rizzuto, maxi operazione di controllo: identificate oltre 600 persone e raffica di verifiche sul territorio",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/crotone-e-isola-di-capo-rizzuto-maxi-operazione-di-controllo-identificate-oltre-600-persone-e-raffica-di-verifiche-sul-territorio/2106887/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L'ora in Italia:",
       "summary": "L'ora in Italia:",
       "link": "https://time.is/Italy",
@@ -380,22 +355,61 @@
       "is_high_priority": false
     },
     {
-      "title": "l’operazioneFurti sui treni, beccati su un Frecciarossa per la Calabria: due arrestiBloccati da agenti in borghese",
-      "summary": "l’operazione",
-      "link": "https://www.corrieredellacalabria.it/2026/06/28/furti-sui-treni-beccati-su-un-frecciarossa-per-la-calabria-due-arresti/",
+      "title": "Il bilancioVenezuela: sale a 1.450 il bilancio delle vittime del terremotoLo ha annunciato il presidente del Parlamento, Jorge Rodriguez",
+      "summary": "Il bilancio",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/venezuela-sale-a-1-450-il-bilancio-delle-vittime-del-terremoto/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "arresti"
+        "mondo"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Rissa a Corigliano Rossano, accoltellati due pakistaniavviate le indagini",
-      "summary": "avviate le indagini",
-      "link": "https://www.corrieredellacalabria.it/2026/06/28/rissa-a-corigliano-rossano-accoltellati-due-pakistani/",
+      "title": "La difesaMeloni contro gli insulti a Roccella: “Fa rabbrividire”La premier dopo i commenti sprezzanti comparsi sui social",
+      "summary": "La difesa",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/meloni-contro-gli-insulti-a-roccella-fa-rabbrividire/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Il fattoSventata evasione: detenuto si frattura una gamba“È inaccettabile”, affermano i segretari di categoria Sappe Donato Capece e Calogero Navarra",
+      "summary": "Il fatto",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/enna-evasione-carcere-detenuto-ferito-sappe/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "verso il votoElezioni metropolitane di Reggio: centrodestra con più liste, centrosinistra fa muroLe operazioni sono scattate stamattina a Palazzo Alvaro: la finestra per depositare le candidature si chiude domani, lunedì 29 giugno, alle dodici",
+      "summary": "verso il voto",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/elezioni-metropolitane-di-reggio-centrodestra-con-piu-liste-centrosinistra-fa-muro/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sospesa l’espulsione di un detenuto pakistano: il Tribunale di Sorveglianza accoglie il ricorsoTerrorismo",
+      "summary": "Terrorismo",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/catanzaro-sospesa-espulsione-detenuto-pakistano-tribunale-sorveglianza-accoglie-ricorso/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
@@ -428,32 +442,6 @@
       "priority": 0,
       "categories": [
         "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "’Ndrangheta stragista, l’attesa per Graviano e l’affondo sulla «credibilità dei pentiti»: l’ultimo miglio dell’appello bisla verità sulle stragi",
-      "summary": "la verità sulle stragi",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/ndrangheta-stragista-lattesa-per-graviano-e-laffondo-sulla-credibilita-dei-pentiti-lultimo-miglio-dellappello-bis/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Dalla Tunisia in Calabria, l’odissea di due giovani diventati “schiavi” del caporalatoL’ESCLUSIVA",
-      "summary": "L’ESCLUSIVA",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/dalla-tunisia-in-calabria-lodissea-di-due-giovani-diventati-schiavi-del-caporalato/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
       ],
       "is_high_priority": false
     },
@@ -497,6 +485,32 @@
       "is_high_priority": false
     },
     {
+      "title": "Rissa a Corigliano Rossano, accoltellati due pakistaniavviate le indagini",
+      "summary": "avviate le indagini",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/rissa-a-corigliano-rossano-accoltellati-due-pakistani/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "’Ndrangheta stragista, l’attesa per Graviano e l’affondo sulla «credibilità dei pentiti»: l’ultimo miglio dell’appello bisla verità sulle stragi",
+      "summary": "la verità sulle stragi",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/ndrangheta-stragista-lattesa-per-graviano-e-laffondo-sulla-credibilita-dei-pentiti-lultimo-miglio-dellappello-bis/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "SIM Carabinieri Rende, organici sottostimati e sovraccarico di lavorola nota",
       "summary": "la nota",
       "link": "https://www.corrieredellacalabria.it/2026/06/27/sim-carabinieri-rende-organici-sottostimati-e-sovraccarico-di-lavoro/",
@@ -506,19 +520,6 @@
       "priority": 0,
       "categories": [
         "crime_italy"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Grimaldi, disagi per i cittadini dopo la chiusura temporanea dell’ufficio postale causa lavorila segnalazione",
-      "summary": "la segnalazione",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/grimaldi-disagi-per-i-cittadini-dopo-la-chiusura-temporanea-dellufficio-postale-causa-lavori/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -536,6 +537,45 @@
       "is_high_priority": false
     },
     {
+      "title": "Arrestato in Spagna “Don Mico” Paviglianiti, boss della ‘ndrangheta latitante dal 2022“Il vertice dell’omonima cosca reggina è stato fermato a Soria, nell’entroterra spagnolo, grazie alla cooperazione tra la Guardia di Finanza italiana…28 Giugno, 20:25",
+      "summary": "“Il vertice dell’omonima cosca reggina è stato fermato a Soria, nell’entroterra spagnolo, grazie alla cooperazione tra la Guardia di Finanza italiana…",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/arrestato-in-spagna-don-mico-paviglianiti-boss-della-ndrangheta-latitante-dal-2022/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sventata evasione: detenuto si frattura una gamba“”È inaccettabile”, affermano i segretari di categoria Sappe Donato Capece e Calogero Navarra28 Giugno, 20:05",
+      "summary": "“”È inaccettabile”, affermano i segretari di categoria Sappe Donato Capece e Calogero Navarra",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/enna-evasione-carcere-detenuto-ferito-sappe/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Elezioni metropolitane di Reggio: centrodestra con più liste, centrosinistra fa muro“Le operazioni sono scattate stamattina a Palazzo Alvaro: la finestra per depositare le candidature si chiude domani, lunedì 29 giugno, alle dodici28 Giugno, 19:00",
+      "summary": "“Le operazioni sono scattate stamattina a Palazzo Alvaro: la finestra per depositare le candidature si chiude domani, lunedì 29 giugno, alle dodici",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/elezioni-metropolitane-di-reggio-centrodestra-con-piu-liste-centrosinistra-fa-muro/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Auto contro albero a Cutro, 18enne perde la vita: due feriti",
       "summary": "Clicca per leggere l'articolo completo",
       "link": "https://www.lametino.it/cronaca/auto-contro-albero-a-cutro-18enne-perde-la-vita-due-feriti.html",
@@ -545,6 +585,149 @@
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Pride a Istanbul, fermate almeno 50 persone tra cui una giornalista: la parata annuale era stata vietata",
+      "summary": "Almeno 50 persone sono state fermate dalla polizia turca durante la parata del Pride a Istanbul. Lo riferiscono gli organizzatori. La manifestazione, così come le altre legate al Pride, era stata vietata dalle autorità locali e il principale luogo di ritrovo era stato isolato. L&#8217;omosessualità,",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/pride-istanbul-fermi-giornalista-notizie/8433127/",
+      "published": "Sun, 28 Jun 2026 18:29:41 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Le pensiline a Roma fanno ombra dietro e non sotto, complimenti a Gualtieri”: il post del consigliere leghista scatena i social",
+      "summary": "Un attacco al sindaco di Roma, Roberto Gualtieri, non per la grandezza delle pensiline, né per (ad esempio) il numero di posti a sedere o, più in generale per l&#8217;efficienza dei mezzi pubblici, ma per la ben poco controllabile posizione dell&#8217;ombra. Un consigliere capitolino, il leghista Fa",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/santori-pensiline-roma-gaffe-social/8433105/",
+      "published": "Sun, 28 Jun 2026 17:52:00 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sotto sequestro il Collettivo romano Angelo Mai: “È accanimento”. Solidarietà dal mondo dello spettacolo, Gemitaiz: “Notizia terribile”",
+      "summary": "Dopo anni di lotte per sopravvivere, tre sgomberi e reiterate azioni giudiziarie, nella notte del 27 giugno la questura, con un dispiegamento di 12 agenti, ha messo i sigilli al Collettivo romano Angelo Mai. Come spiegato dai gestori del centro culturale in un post social, il controllo &#8220;ha tro",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/angelo-mai-sequestro-roma-notizie/8433012/",
+      "published": "Sun, 28 Jun 2026 17:30:44 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Calenda denuncia: “Io minacciato sul gruppo Telegram Russia Today, pronto a prenderli a pedate”. Solidarietà della politica",
+      "summary": "&#8220;Il mio ufficio è a Corso Vittorio Emanuele II, 21. Arrivo intorno alle 9.00 non scortato. Prendervi a pedate nelle chiappe sarebbe di estrema soddisfazione&#8221;. A scriverlo su X è il leader di Azione, Carlo Calenda, rivolgendosi agli utendi della chat del canale Telegram &#8220;Rt Doc Ital",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/minacce-calenda-russia-today-telegram-notizie/8433074/",
+      "published": "Sun, 28 Jun 2026 17:25:18 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "ucraina-russia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Incidente a Ceriale, l’appello della mamma di Sofia Barberi alle istituzioni: “Servono norme contro chi usa i social per deridere una tragedia”",
+      "summary": "Un lungo e toccante video per chiedere allo Stato italiano di dare un &#8220;segnale forte&#8221; contro chi usa i social per &#8220;umiliare una vittima, deridere una tragedia, calpestare il dolore di una famiglia&#8221;. La mamma di Sofia Barberi, la giovane morta in un incidente a Ceriale pochi g",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/incidente-ceriale-sofia-barberi-social-notizie/8433021/",
+      "published": "Sun, 28 Jun 2026 17:01:59 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Addolora che la politica trasformi i condannati in vittime. Moretti e gli altri dichiarati responsabili da 27 magistrati in 7 gradi di giudizio”: la nota dei familiari dei morti nella strage di Viareggio",
+      "summary": "Non è solo una replica. È il tentativo di riportare il dibattito e il buon senso nel luogo in cui, secondo i familiari delle vittime della strage di Viareggio, non avrebbe mai dovuto smettere di stare: il ricordo di chi non c&#8217;è più e il rispetto per una vicenda giudiziaria conclusa dopo dicias",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/strage-viareggio-moretti-condanna-sentenze-notizie-2/8432838/",
+      "published": "Sun, 28 Jun 2026 16:19:51 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Bimbo di 11 anni investito da un’auto pirata in provincia di Salerno: è ricoverato in terapia intensiva con prognosi riservata",
+      "summary": "Un bambino di 11 anni è stato investito da un’auto pirata sabato sera a Sant&#8217;Egidio del Monte Albino, in provincia di Salerno. È ricoverato in terapia intensiva, con prognosi riservata, all’ospedale Santobono di Napoli. Sul caso indagano i carabinieri di Nocera Inferiore. Proseguono, intanto, ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/auto-pirata-bambino-investito-salerno-notizie/8433054/",
+      "published": "Sun, 28 Jun 2026 16:17:06 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“La traccia di Diritto penale anticipata in chat”: denunce e tensioni al concorso per magistrati. E il caso finisce in Procura",
+      "summary": "Alcuni partecipanti all&#8217;ultimo concorso in magistratura hanno potuto &#8220;sbirciare&#8221; le tracce di diritto penale il giorno prima della prova. È la denuncia che sta avvelenando la selezione per 450 posti di magistrato ordinario indetta lo scorso ottobre, le cui prove scritte si sono svo",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/concorso-magistratura-tracce-penale-anticipate-notizie/8432835/",
+      "published": "Sun, 28 Jun 2026 16:06:36 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Dopo la condanna di Moretti sul Sole 24 Ore cassa di risonanza solo alla sua posizione”: l’accusa del cdr del giornale",
+      "summary": "&#8220;Sulle pagine del Sole 24 Ore abbiamo, ancora una volta, fatto da cassa di risonanza a una posizione sola, quella di un top manager condannato per fatti gravissimi&#8220;. E&#8217; un passaggio del comunicato del comitato di redazione del quotidiano edito da Confindustria che torna a contestar",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/strage-viareggio-moretti-sole24ore-cdr-notizie/8433017/",
+      "published": "Sun, 28 Jun 2026 16:04:16 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Sulla condanna per Moretti toni da lesa maestà, stupore per la fine del regime di impunità. Zero empatia con le vittime e ostilità alle regole sociali”",
+      "summary": "&#8220;Si percepisce un certo stupore per la fine di quel regime di impunità per i vertici aziendali che in Italia ha sempre garantito una sorta di immunità di classe dalle responsabilità penali&#8220;. A scrivere così della condanna definitiva nei confronti di Mauro Moretti, ex ad di Ferrovie, per ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/strage-viareggio-moretti-condanna-impunita-notizie/8432845/",
+      "published": "Sun, 28 Jun 2026 15:38:47 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Sull’immigrazione dicono un sacco di minch**te e non risolvono. Se lo Stato fallisce, falliamo noi e chi fa la guerra non pagherà mai”: Fiorella Mannoia canta De André per fare luce sugli orrori di oggi",
+      "summary": "“Sono nata due volte, la prima nel mio anno e la seconda a 14 anni quando ho ascoltato la prima volta Fabrizio De André”. Con queste parole Fiorella Mannoia ha espresso tutto il suo amore per il cantautore omaggiato con il nuovo tour &#8220;Fiorella canta Fabrizio e Ivano – Anime Salve”. Ieri sera 2",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/sullimmigrazione-dicono-un-sacco-di-minchte-e-non-risolvono-se-lo-stato-fallisce-falliamo-noi-e-chi-fa-la-guerra-non-paghera-mai-fiorella-mannoia-canta-de-andre-per-fare-luce/8432811/",
+      "published": "Sun, 28 Jun 2026 15:15:55 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre"
       ],
       "is_high_priority": false
     },
@@ -575,15 +758,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Cinquantenne italiana muore in Grecia dopo un incidente in barca a vela a Kalamos",
-      "summary": "Incidente mortale in barca a vela per una signora italiana di 52 anni che si trovava nella Grecia ionica. Secondo quanto riferito dalla Guardia Costiera locale, l’Autorità Portuale è stata informata nel pomeriggio di sabato 27 giugno del grave trauma cranico riportato da una donna nella zona di Kala",
+      "title": "Cinquantaduenne italiana muore in Grecia dopo un incidente in barca a vela a Kalamos",
+      "summary": "Incidente mortale in barca a vela per una signora italiana di 52 anni che si trovava in barca nella Grecia ionica. Secondo quanto riferito dalla Guardia Costiera locale, l’Autorità Portuale è stata informata nel pomeriggio di sabato 27 giugno del grave trauma cranico riportato da una donna, Eleonora",
       "link": "https://www.ilfattoquotidiano.it/2026/06/28/cinquantenne-italiana-muore-in-grecia-dopo-un-incidente-in-barca-a-vela-a-kalamos/8432934/",
       "published": "Sun, 28 Jun 2026 14:14:18 +0000",
       "source": "ilfattoquotidiano.it",
-      "section": "italia",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "italia"
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -627,88 +810,23 @@
       "is_high_priority": false
     },
     {
-      "title": "Dua Lipa amareggiata: ha comprato casa sei anni fa e sarà pronta solo nel 2027. Le proteste dei vicini e degli ambientalisti per i mega lavori di ristrutturazione",
-      "summary": "Spensierata per la luna di miele in Italia, ma non troppo. Infatti la neosposina Dua Lipa non può ancora trasferirsi nel suo appartamento londinese, sei anni dopo averlo acquistato per 6,75 milioni di sterline. Il motivo? I lavori di ristrutturazione da 3 milioni di sterline procedono a rilento. Il ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/28/dua-lipa-amareggiata-ha-comprato-casa-sei-anni-fa-e-sara-pronta-solo-nel-2027-le-proteste-dei-vicini-e-degli-ambientalisti-per-i-mega-lavori-di-ristrutturazione/8432671/",
-      "published": "Sun, 28 Jun 2026 13:07:56 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Attorno all’Intelligenza Artificiale c’è un grande business, dove c’è il denaro, l’arte soccombe. È impensabile fermare questo percorso”: la denuncia di Sergio Castellitto",
-      "summary": "Sergio Castellitto, in occasione della premiazione del Nations Award 2026 al Teatro Antico di Taormina per la sua carriera, ha voluto ribadito come il cinema sia prima di tutto linguaggio per immagini &#8220;Quando monto i miei film, tolgo il sonoro, vedo gli attori che si agitano, parlano, piangono",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/28/attorno-allintelligenza-artificiale-ce-un-grande-business-dove-ce-il-denaro-larte-soccombe-e-impensabile-fermare-questo-percorso-la-denuncia-di-sergio-castellitto/8432801/",
-      "published": "Sun, 28 Jun 2026 12:15:47 +0000",
-      "source": "ilfattoquotidiano.it",
+      "title": "Nyt: «Per Trump accordo minerario con il Kazakistan da un miliardo $. I suoi figli ne trarranno profitto»",
+      "summary": "«Trump ha concluso un accordo minerario da un miliardo di dollari. I suoi figli ne trarranno profitto». Questo è il titolo di un articolo pubblicato oggi sul sito...",
+      "link": "https://www.ilsole24ore.com/art/nyt-trump-ha-concluso-accordo-minerario-un-miliardo-dollari-suoi-figli-ne-trarranno-profitto-AIKLs6uD",
+      "published": "Sun, 28 Jun 2026 17:30:00 GMT",
+      "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "leader"
       ],
       "is_high_priority": false
     },
     {
-      "title": "“Vannacci? È l’uomo nuovo come Renzi e Salvini. Da lui slogan, noi rispondiamo coi fatti”. Il videoracconto del raduno dei giovani della Lega, tra l’influencer Giò Urso e il coro col Capitano sulle note di Loretta Goggi",
-      "summary": "“Non dobbiamo rincorrere Vannacci ma dobbiamo ritrovare noi stessi”. Mattia Montemezzo è il vice sindaco di Rovolon, cinquemila abitanti nel padovano. Ha 28 anni, leghista da quando ne aveva sedici. In questi dodici anni ha vissuto la Lega al 34 per cento e quella al 5 per cento. E questo weekend si",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/28/lega-giovani-nexus-vannacci-notizie/8432843/",
-      "published": "Sun, 28 Jun 2026 11:55:38 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Aereo da turismo con paracadutisti precipita in Francia: “Era un battesimo di volo, 11 vittime”",
-      "summary": "Un aereo da turismo è precipitato nella tarda mattinata a Tomblaine, in Francia alle porte di Nancy. A bordo c&#8217;erano una decina di persone: secondo quanto riportano media locali il velivolo si è schiantato vicino all’uscita del cimitero e il bilancio delle vittime comunicato dal prefetto parla",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/28/aereo-da-turismo-precipita-in-francia-diverse-vittime-a-bordo-una-decina-di-persone/8432830/",
-      "published": "Sun, 28 Jun 2026 11:31:47 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "È morta Annunziata Verità, la partigiana “che visse due volte” aveva 100 anni",
-      "summary": "Era la partigiana &#8220;che visse due volte&#8221;, ma non era un modo di dire. Nel 1944 infatti era sopravvissuta a una fucilazione nazifascista. È morta nella notte a Faenza Annunziata Verità, aveva 100 anni. Sabato 27 giugno ha accusato dei problemi respiratori ed è stata portata in pronto socco",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/28/annunziata-verita-partigiana-faenza-notizie/8432822/",
-      "published": "Sun, 28 Jun 2026 11:28:16 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Israele approva il riconoscimento del genocidio armeno. Il ministro Sàar: “Non è mai troppo tardi per fare la cosa giusta”",
-      "summary": "&#8220;Non è mai troppo tardi per fare la cosa giusta&#8221;. Lo ha detto il ministro degli Esteri di Israele, Gideon Sàar, dopo che Tel Aviv, su sua proposta, ha approvato all’unanimità il riconoscimento del genocidio armeno avvenuto negli ultimi anni dell’Impero ottomano. “Sostengo il riconoscimen",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/28/israele-riconosce-genocidio-armeno/8432749/",
-      "published": "Sun, 28 Jun 2026 11:12:21 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "medio-oriente"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Falsi prodotti italiani: un giro d’affari di 42 miliardi tra il nostro Paese e gli Usa",
+      "title": "Falsi prodotti italiani negli Usa, 40 miliardi di danni al made in Italy",
       "summary": "L’Italian sounding, ovvero la pratica di vendere prodotti che sfruttano nomi, immagini e colori (come la bandiera) per sembrare italiani, è uno dei problemi più importanti per il Made in...",
       "link": "https://www.ilsole24ore.com/art/falsi-prodotti-italiani-giro-d-affari-42-miliardi-il-nostro-paese-e-usa-AIVdN1uD",
-      "published": "Sun, 28 Jun 2026 14:49:31 GMT",
+      "published": "Sun, 28 Jun 2026 14:49:00 GMT",
       "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
@@ -786,7 +904,7 @@
       "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
       "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
       "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 12:39:41 GMT",
+      "published": "Sun, 28 Jun 2026 19:21:07 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -810,9 +928,9 @@
     },
     {
       "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-      "summary": "The pilot and 10 passengers died in the incident, local officials said.",
+      "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said.",
       "link": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 13:21:33 GMT",
+      "published": "Sun, 28 Jun 2026 18:34:07 GMT",
       "source": "bbc.com",
       "section": "italia",
       "priority": 0,
@@ -822,15 +940,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Trump's face is added to select US passports for America's 250th birthday",
-      "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
-      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 20:03:26 GMT",
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Jun 2026 16:33:50 GMT",
       "source": "bbc.com",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "leader"
+        "politica"
       ],
       "is_high_priority": false
     },
@@ -848,6 +966,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Trump's face is added to select US passports for America's 250th birthday",
+      "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 20:03:26 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Budapest's first Pride since Orban left power",
       "summary": "Budapest held its first Pride march since the end of former prime minister Viktor Orban's 16-year government with thousands turning out to celebrate.",
       "link": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
@@ -861,54 +992,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
-      "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults.",
-      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 23:01:50 GMT",
+      "title": "What news reports from 1600s tell us about life in Mughal India",
+      "summary": "Thousands of forgotten news reports are reshaping our understanding of Aurangzeb and the Mughal world.",
+      "link": "https://www.bbc.co.uk/news/articles/c1dy5y3y2g3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 23:40:43 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Billionaire Leon Black walks out of Epstein investigation hearing",
-      "summary": "The House panel then issued subpoenas demanding the private equity tycoon, who co-founded Apollo Global Management, testify on camera and under oath.",
-      "link": "https://www.bbc.co.uk/news/articles/cn948lwyl3jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 03:07:46 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
-      "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
-      "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 02:57:20 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 18:36:32 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -926,15 +1018,15 @@
       "is_high_priority": false
     },
     {
-      "title": "What news reports from 1600s tell us about life in Mughal India",
-      "summary": "Thousands of forgotten news reports are reshaping our understanding of Aurangzeb and the Mughal world.",
-      "link": "https://www.bbc.co.uk/news/articles/c1dy5y3y2g3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 23:40:43 GMT",
+      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
+      "summary": "Survivors of Venezuela's devastating earthquakes are being cared for at a makeshift hospital formed on the site of a country club in Caraballeda.",
+      "link": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Jun 2026 17:32:30 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "superpotenze"
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -969,19 +1061,6 @@
       "summary": "Two powerful earthquakes rocked Venezuela within seconds of each other on Wednesday, killing at least 920 people.",
       "link": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 27 Jun 2026 12:51:25 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Watch: BBC reports from La Guaira, one of Venezuela's worst-hit areas",
-      "summary": "Vanessa Silva visited the coastal state, where rescuers are still working to find survivors under the rubble after twin earthquakes rocked the country.",
-      "link": "https://www.bbc.co.uk/news/videos/cwy0lw84p3go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 21:44:54 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
