@@ -1,45 +1,35 @@
 {
-  "last_update": "2026-06-27T20:18:10.610260",
-  "total_news": 73,
+  "last_update": "2026-06-28T08:35:54.592593",
+  "total_news": 82,
   "news": [
     {
-      "title": "Strage di Ustica: il Governo si opporrà alla richiesta di archiviazione",
-      "summary": "UltimeStrage di Ustica: il Governo si opporrà alla richiesta di archiviazioneIl marito della ministra Roccella disperso nel lago di VicoTriplice omicidio a Roma: la Polizia diffonde foto del killerArpal Calabria, si insediano il coordinamento regionale e il Direttivo aziendale della Csa-Cisal’Ndrang...",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/strage-di-ustica-il-governo-si-opporra-alla-richiesta-di-archiviazione/",
+      "title": "Peperoncino di Calabria IGP, Serra: «Più tutele e valore ai produttori, la sfida è sui mercati esteri»",
+      "summary": "UltimePeperoncino di Calabria IGP, Serra: «Più tutele e valore ai produttori, la sfida è sui mercati esteri»Blitz antidroga a Roma, 7 arresti. Tra i “corrieri” anche un 15enneTrovato morto in cella Cataldo De Luca, era stato arrestato pochi giorni fa per l’omicidio del detenuto a CatanzaroIncidente ...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/peperoncino-di-calabria-igp-serra-piu-tutele-e-valore-ai-produttori-la-sfida-e-sui-mercati-esteri/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 20,
       "categories": [
+        "arresti",
+        "droga",
         "sangue"
       ],
       "is_high_priority": true
     },
     {
-      "title": "la ricercaTriplice omicidio a Roma: la Polizia diffonde foto del killerÈ un cittadino bengalese di 43 anni",
-      "summary": "la ricerca",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/triplice-omicidio-a-roma-la-polizia-diffonde-foto-del-killer/",
+      "title": "i controlliBlitz antidroga a Roma, 7 arresti. Tra i “corrieri” anche un 15enneBloccato con droga mentre era in bici",
+      "summary": "i controlli",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/blitz-antidroga-a-roma-7-arresti-tra-i-corrieri-anche-un-15enne/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "crime_italy",
-      "priority": 20,
+      "section": "ndrangheta",
+      "priority": 10,
       "categories": [
-        "crime_italy"
+        "arresti",
+        "droga"
       ],
-      "is_high_priority": true
-    },
-    {
-      "title": "Triplice omicidio a Roma: la Polizia diffonde foto del killer“È un cittadino bengalese di 43 anni27 Giugno, 18:29",
-      "summary": "“È un cittadino bengalese di 43 anni",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/triplice-omicidio-a-roma-la-polizia-diffonde-foto-del-killer/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "crime_italy",
-      "priority": 20,
-      "categories": [
-        "crime_italy"
-      ],
-      "is_high_priority": true
+      "is_high_priority": false
     },
     {
       "title": "’Ndrangheta, tentato omicidio Inzitari: assolto Tripodi. Condanna a 15 anni per CandiloroIl verdetto",
@@ -55,15 +45,29 @@
       "is_high_priority": false
     },
     {
-      "title": "Triplice omicidio a Roma, la Polizia diffonde foto del sospettato",
-      "summary": "Tre persone della stessa famiglia sono state uccise nella loro abitazione, in via Montiglio nel quartiere Aurelio a Roma, in località Casalotti. A perdere la vita sono stati Kamal Uddin,...",
-      "link": "https://www.ilsole24ore.com/art/padre-madre-e-figlia-uccisi-periferia-roma-ferito-l-altro-figlio-AInL57tD",
-      "published": "Sat, 27 Jun 2026 07:36:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "crime_italy",
+      "title": "Blitz antidroga a Roma, 7 arresti. Tra i “corrieri” anche un 15enne“Bloccato con droga mentre era in bici28 Giugno, 10:03",
+      "summary": "“Bloccato con droga mentre era in bici",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/blitz-antidroga-a-roma-7-arresti-tra-i-corrieri-anche-un-15enne/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "ndrangheta",
       "priority": 10,
       "categories": [
-        "crime_italy"
+        "arresti",
+        "droga"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Trovato morto in cella Cataldo De Luca, era stato arrestato pochi giorni fa per l’omicidio del detenuto a Catanzaro“Non si conoscono ancora le cause della morte. L’uomo, 41enne di Cirò Marina, è stato ritrovato senza vita nel carcere di Rossano28 Giugno, 9:44",
+      "summary": "“Non si conoscono ancora le cause della morte. L’uomo, 41enne di Cirò Marina, è stato ritrovato senza vita nel carcere di Rossano",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/trovato-morto-in-cella-cataldo-de-luca-era-stato-arrestato-pochi-giorni-fa-per-lomicidio-del-detenuto-a-catanzaro/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "ndrangheta",
+      "priority": 10,
+      "categories": [
+        "sangue"
       ],
       "is_high_priority": false
     },
@@ -146,9 +150,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Il documentario sulla storia di Bergamini in corsa agliOscar 2027, il regista: «Non rincorro la statuetta, rincorro l'attenzione»",
-      "summary": "Il cortometraggio è del giovane autore calabrese Francesco Gallo, già premiato agli Hollywood Global Awards: «Ogni giorno in cui si parla di Denis è un riflettore acceso»",
-      "link": "https://www.lacnews24.it/attualita/il-documentario-sulla-storia-di-bergamini-in-corsa-agli-oscar-2027-il-regista-non-rincorro-la-statuetta-rincorro-lattenzione-ehuf52nl",
+      "title": "Scomparso nel lago di Vico il marito della ministra Roccella: ricerche senza sosta, impiegati anche i robot subacquei",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lacnews24.it/italia-mondo/scomparso-nel-lago-di-vico-il-marito-della-ministra-roccella-ricerche-senza-sosta-impiegati-anche-i-robot-subacquei-o43hyvev",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
@@ -159,9 +163,35 @@
       "is_high_priority": false
     },
     {
-      "title": "Attraversa lo Stretto di Messina a nuoto per la solidarietà: l'impresa diDebora Vissania sostegno della ricerca e dei bambini",
-      "summary": "La dipendente di Poste Italiane ha completato la traversata in un'ora, dedicando l'impresa alla madre scomparsa. L'iniziativa sostiene la Fondazione Celeghin, impegnata nella ricerca sui tumori cerebrali, e Sport Senza Frontiere, che promuove l'inclusione attraverso lo sport",
-      "link": "https://www.lacnews24.it/attualita/attraversa-lo-stretto-di-messina-a-nuoto-per-la-solidarieta-limpresa-di-debora-vissani-a-sostegno-della-ricerca-e-dei-bambini-rnurspd6",
+      "title": "Cutro,muore a 18 annischiantandosi contro un albero: guidava col foglio rosa. Due giovani feriti",
+      "summary": "Salvatore Lukanov perde il controllo della Golf e va a sbattere contro un'acacia. L'impatto è devastante: il giovane muore sul colpo. Il diciottenne non aveva ancora conseguito la patente",
+      "link": "https://www.lacnews24.it/cronaca/cutro-muore-a-18-anni-schiantandosi-contro-un-albero-guidava-col-foglio-rosa-due-giovani-feriti-jbfgxsww",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Scomparso nel lago di Vicoil marito della ministra Roccella: ricerche senza sosta, impiegati anche i robot subacquei",
+      "summary": "Luigi Cavallari, 84 anni, si è inabissato dopo essersi tuffato da una barca nel Viterbese. Secondo le prime testimonianze avrebbe accusato un malore prima di sparire sott'acqua. La solidarietà della politica alla ministra",
+      "link": "https://www.lacnews24.it/italia-mondo/scomparso-nel-lago-di-vico-il-marito-della-ministra-roccella-ricerche-senza-sosta-impiegati-anche-i-robot-subacquei-o43hyvev",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Per Bankitalia la Calabria cresce ma staperdendo il suo futuro: senza una strategia per lo spopolamento rischia il crollo",
+      "summary": "Nonostante alcuni segnali positivi sul fronte economico, la fuga dei giovani resta la grande emergenza (160mila negli ultimi anni). Servono strategie concrete per consentire ai nostri ragazzi di restare e costruire il proprio domani qui",
+      "link": "https://www.lacnews24.it/editoriali/per-bankitalia-la-calabria-cresce-ma-sta-perdendo-il-suo-futuro-senza-una-strategia-per-lo-spopolamento-rischia-il-crollo-p1pj1zrc",
       "published": "",
       "source": "lacnews24.it",
       "section": "italia",
@@ -185,11 +215,92 @@
       "is_high_priority": false
     },
     {
-      "title": "Aree dismesse e in disuso, oltre 17 milioni alla Calabria: finanziati sei Comuni, ecco l'elenco",
-      "summary": "Il programma nazionale da circa 210 milioni punta alla rigenerazione e al rilancio economico di aree sottoutilizzate. La quota maggiore va alla provincia cosentina con tre Municipi ammessi, poi quelle di Vibo Valentia, Catanzaro e Reggio Calabria con un progetto ciascuno",
-      "link": "https://www.lacnews24.it/video/economia-e-lavoro/aree-dismesse-e-in-disuso-oltre-17-milioni-alla-calabria-finanziati-sei-comuni-ce-anche-nardodipace-dz0cinhu",
+      "title": "Il sorpasso immobile: la Calabria cresce, il Veneto rallenta. Ma il futuro resta la vera sfida",
+      "summary": "Il rapporto della Banca d’Italia racconta una regione in trasformazione, spinta da porto di Gioia Tauro, Pnrr e Zes Unica. Ma dietro la crescita restano le fragilità: fuga dei giovani e il rischio di una ripresa sostenuta dagli investimenti pubblici senza una vera autonomia strutturale",
+      "link": "https://www.lacnews24.it/economia-e-lavoro/il-sorpasso-immobile-la-calabria-cresce-il-veneto-rallenta-ma-il-futuro-resta-la-vera-sfida-adg9ph27",
       "published": "",
       "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Greenpeace lancia \"Bellezza al mare\": l'arte si immerge nello Stretto per fermare il Ponte",
+      "summary": "Tra Scilla e Villa San Giovanni, quattro artisti affidano le proprie opere ai fondali per celebrare l'unicità dello Stretto di Messina e denunciare i rischi ambientali legati al progetto del collegamento stabile – FOTOGALLERY",
+      "link": "https://www.lacnews24.it/ambiente/greenpeace-lancia-bellezza-al-mare-larte-si-immerge-nello-stretto-per-fermare-il-ponte-faztnv1b",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Iran-Usa, nuova escalation nel Golfo. Trump minaccia Teheran: «La Repubblica islamica cesserà di esistere»",
+      "summary": "Redazione Esteri",
+      "link": "https://www.lacnews24.it/italia-mondo/iran-usa-nuova-escalation-nel-golfo-trump-minaccia-teheran-la-repubblica-islamica-cessera-di-esistere-c4pnz02y",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "L'Iran attacca il Bahrein: nel mirino base USA, lanciati missili e droni",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/liran-attacca-il-bahrein-nel-mirino-base-usa-lanciati-missili-e-droni/2106866/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Gli USA attaccano l'Iran dopo la violazione del cessate il fuoco. Trump: \"potrebbero smettere di esistere\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/gli-usa-attaccano-liran-dopo-la-violazione-del-cessate-il-fuoco-trump-potrebbero-smettere-di-esistere/2106860/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Lampedusa, entra in funzione lo scalo di Cala Pisana: apertura temporanea per la visita di Papa Leone",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/lampedusa-entra-in-funzione-lo-scalo-di-cala-pisana-apertura-temporanea-per-la-visita-di-papa-leone/2106851/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Messina, Emanuele Carlo eletto alla Quarta Circoscrizione: \"porteremo una visione di centro storico che guarda agli ultimi\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/messina-emanuele-carlo-eletto-alla-quarta-circoscrizione-porteremo-una-visione-di-centro-storico-che-guarda-agli-ultimi/2106848/",
+      "published": "",
+      "source": "strettoweb.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -328,58 +439,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Siracusa, trovati resti umani ad Ortigia: indagini in corso",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/siracusa-trovati-resti-umani-ad-ortigia-indagini-in-corso/2106758/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Da Africo alla Nazionale: una serata evento per Costantino Favasuli allo stadio di via Capo Bruzzano",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/da-africo-alla-nazionale-una-serata-evento-per-costantino-favasuli-allo-stadio-di-via-capo-bruzzano/2106736/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "De Luca incontra Piantedosi nel tour in Campania, gli apprezzamenti del Ministro: \"è un grande sindaco\" | VIDEO",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/de-luca-incontra-piantedosi-nel-tour-in-campania-gli-apprezzamenti-del-ministro-e-un-grande-sindaco-video/2106734/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Sicilia: grave incidente sull’A20, scontro frontale tra un'auto ed un furgone: due morti",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/sicilia-grave-incidente-sulla20-scontro-frontale-tra-unauto-ed-un-furgone/2106731/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L'ora in Italia:",
       "summary": "L'ora in Italia:",
       "link": "https://time.is/Italy",
@@ -393,28 +452,28 @@
       "is_high_priority": false
     },
     {
-      "title": "l’inchiestaStrage di Ustica: il Governo si opporrà alla richiesta di archiviazioneLo rende noto un comunicato diffuso da Palazzo Chigi",
-      "summary": "l’inchiesta",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/strage-di-ustica-il-governo-si-opporra-alla-richiesta-di-archiviazione/",
+      "title": "il terremotoVenezuela, ritrovato vivo dopo tre giorni un ragazzo di 11 anni – VIDEOÈ stato estratto vivo dalle macerie",
+      "summary": "il terremoto",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/venezuela-ritrovato-vivo-dopo-tre-giorni-un-ragazzo-di-11-anni-video/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "italia",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "politica"
+        "mondo"
       ],
       "is_high_priority": false
     },
     {
-      "title": "la verità sulle stragi’Ndrangheta stragista, l’attesa per Graviano e l’affondo sulla «credibilità dei pentiti»: l’ultimo miglio dell’appello bisIl 9 luglio il boss di Brancaccio romperà il silenzio in aula. I giudici si ritireranno in Camera di consiglio per la sentenza  dopo il rinvio della Cassazione",
-      "summary": "la verità sulle stragi",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/ndrangheta-stragista-lattesa-per-graviano-e-laffondo-sulla-credibilita-dei-pentiti-lultimo-miglio-dellappello-bis/",
+      "title": "Dalla Tunisia in Calabria, l’odissea di due giovani diventati “schiavi” del caporalatoL’ESCLUSIVA",
+      "summary": "L’ESCLUSIVA",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/dalla-tunisia-in-calabria-lodissea-di-due-giovani-diventati-schiavi-del-caporalato/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "generico"
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -442,32 +501,6 @@
       "priority": 0,
       "categories": [
         "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Lamezia, il Pd boccia il primo anno di Murone: «Manca una visione per la città»I PUNTI CRITICI",
-      "summary": "I PUNTI CRITICI",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/lamezia-il-pd-boccia-il-primo-anno-di-murone-manca-una-visione-per-la-citta/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Ospedale della Sibaritide, al Siemens Tech Talks Buildings 2026 presentato il modello del primo Smart Hospital d’Italiasanità e innovazione",
-      "summary": "sanità e innovazione",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/ospedale-della-sibaritide-al-siemens-tech-talks-buildings-2026-presentato-il-modello-del-primo-smart-hospital-ditalia/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
       ],
       "is_high_priority": false
     },
@@ -537,6 +570,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Lamezia, il Pd boccia il primo anno di Murone: «Manca una visione per la città»I PUNTI CRITICI",
+      "summary": "I PUNTI CRITICI",
+      "link": "https://www.corrieredellacalabria.it/2026/06/27/lamezia-il-pd-boccia-il-primo-anno-di-murone-manca-una-visione-per-la-citta/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Fondi Ue, l’appello di Cisl Calabria: «Programma da 2,9 miliardi, serve uno sforzo straordinario»lo sviluppo possibile",
       "summary": "lo sviluppo possibile",
       "link": "https://www.corrieredellacalabria.it/2026/06/27/fondi-ue-lappello-di-cisl-calabria-programma-da-29-miliardi-serve-uno-sforzo-straordinario/",
@@ -550,24 +596,143 @@
       "is_high_priority": false
     },
     {
-      "title": "’Ndrangheta stragista, l’attesa per Graviano e l’affondo sulla «credibilità dei pentiti»: l’ultimo miglio dell’appello bis“Il 9 luglio il boss di Brancaccio romperà il silenzio in aula. I giudici si ritireranno in Camera di consiglio per la sentenza  dopo il rinvio della…27 Giugno, 17:48",
-      "summary": "“Il 9 luglio il boss di Brancaccio romperà il silenzio in aula. I giudici si ritireranno in Camera di consiglio per la sentenza  dopo il rinvio della…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/27/ndrangheta-stragista-lattesa-per-graviano-e-laffondo-sulla-credibilita-dei-pentiti-lultimo-miglio-dellappello-bis/",
+      "title": "Incidente mortale a Cutro, auto contro albero: perde la vita un 18enne“Secondo una prima ricostruzione, il giovane era privo della patente e con il solo foglio rosa. Altre due persone sono rimaste ferite28 Giugno, 8:53",
+      "summary": "“Secondo una prima ricostruzione, il giovane era privo della patente e con il solo foglio rosa. Altre due persone sono rimaste ferite",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/incidente-mortale-a-cutro-auto-contro-albero-perde-la-vita-un-18enne/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
-      "section": "ndrangheta",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "generico"
+        "mondo"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Lamezia, l’Amministrazione fa chiarezza sui conti: \"Operazione verità sul passato per salvare futuro\"",
+      "title": "Venezuela, ritrovato vivo dopo tre giorni un ragazzo di 11 anni – VIDEO“È stato estratto vivo dalle macerie28 Giugno, 7:50",
+      "summary": "“È stato estratto vivo dalle macerie",
+      "link": "https://www.corrieredellacalabria.it/2026/06/28/venezuela-ritrovato-vivo-dopo-tre-giorni-un-ragazzo-di-11-anni-video/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Auto contro albero a Cutro, 18enne perde la vita: due feriti",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lametino.it/ultime/lamezia-lamministrazione-fa-chiarezza-sui-conti-operazione-verita-sul-passato-per-salvare-futuro-verso-il-piano-di-riequilibrio.html",
+      "link": "https://www.lametino.it/cronaca/auto-contro-albero-a-cutro-18enne-perde-la-vita-due-feriti.html",
       "published": "",
       "source": "lametino.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Venezuela, estratto vivo un bimbo di 11 anni. Msf: “La Guaira sembra una zona di guerra”",
+      "summary": "Un ragazzino di 11 anni è stato estratto vivo dalle macerie di Caraballeda, nel nord del Venezuela, tre giorni dopo i violenti terremoti che il 24 giugno hanno devastato il Paese provocando oltre 1400 morti. Una notizia che riaccende la speranza nel pieno di un&#8217;emergenza umanitaria ancora lont",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/terremoto-venezuela-bimbo-vivo-notizie/8432656/",
+      "published": "Sun, 28 Jun 2026 08:25:20 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "guerre"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“L’apocalisse” di La Guaira: i Vigili del fuoco italiani scavano tra le macerie del Venezuela",
+      "summary": "Un paesaggio di macerie, tanto da essere definito dalla stampa locale &#8220;l&#8217;apocalisse&#8221;. È a La Guaira, la città della costa nord del Venezuela devastata dal terremoto, che opera senza sosta anche la missione italiana composta dai Vigili del fuoco e dalla Protezione civile, mentre l&#",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/terremoto-venezuela-vigili-fuoco-italiani-notizie/8432657/",
+      "published": "Sun, 28 Jun 2026 08:24:46 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Mia madre era terrorizzata di morire e trovare il padre che aveva abusato di lei a 9 anni. Ho dovuto lasciarla andare, avrei voluto da lei un ‘ti voglio bene'”: Sharon Stone in lacrime",
+      "summary": "Sharon Stone si è aperta nel podcast &#8220;All There Is with Anderson Cooper&#8221;, condividendo dettagli intimi sulla difficile infanzia vissuta dalla madre Dorothy e su come questi eventi abbiano profondamente segnato il loro rapporto, pieno di luci e ombre nel corso degli anni. L&#8217;attrice ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/mia-madre-era-terrorizzata-di-morire-e-trovare-il-padre-che-aveva-abusato-di-lei-a-9-anni-ho-dovuto-lasciarla-andare-avrei-voluto-da-lei-un-ti-voglio-bene-sharon-stone-in-lacrime/8432658/",
+      "published": "Sun, 28 Jun 2026 08:19:30 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Luga Guadagnino fa fatica a “piazzare” in America il suo film “Artificial” sul fondatore di Open-AI, Sam Altman: la mano dei poteri forti o previsioni flop al botteghino?",
+      "summary": "Luca Guadagnino non riesce a trovare un distributore per il suo nuovo film sull’Intelligenza Artificiale. Tempi duri per il cinema. Tempi duri per un regista italiano che ha tentato la fortuna ad Hollywood. Come aveva riportato per primo Variety, era stata Amazon MGM (distributrice dell’ultimo film ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/luga-guadagnino-fa-fatica-a-piazzare-in-america-il-suo-film-artificial-sul-fondatore-di-open-ai-sam-altman-la-mano-dei-poteri-forti-o-previsioni-flop-al-botteghino/8432647/",
+      "published": "Sun, 28 Jun 2026 08:03:09 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Ho la convinzione che mia figlia Ylenia sia da qualche parte nel mondo. La sto ancora aspettando e la accoglierei a braccia aperte senza giudizi”: Romina Power si commuove",
+      "summary": "Romina Power non ha mai nascosto di credere che la figlia Ylenia, scomparsa a New Orleans nel 1994, sia ancora viva: lo ha detto più volte in questi anni, lo ha messo nero su bianco nel suo ultimo libro, Pensieri profondamente semplici – L’abbecedario della mia vita, e lo ha ribadito anche ieri, osp",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/ho-la-convinzione-che-mia-figlia-ylenia-sia-da-qualche-parte-nel-mondo-la-sto-ancora-aspettando-e-la-accoglierei-a-braccia-aperte-senza-giudizi-romina-power-si-commuove/8432640/",
+      "published": "Sun, 28 Jun 2026 07:52:26 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Ero gelosa di Kylie Minogue. Pensavo che il mio ex marito, Guy Ritchie, avesse una cotta per lei e mi dicevo non sarò mai bella così”: lo rivela Madonna",
+      "summary": "Colpo di scena, anche le star &#8220;piangono&#8221;. Madonna, durante lo speciale televisivo della BBC condotto da Graham Norton, ha incontrato l&#8217;amica Kylie Minogue e si è lasciata andare ad una rivelazione: &#8220;Ero in realtà un pò gelosa di te&#8221;. La presenza di Kylie Minogue nello s",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/ero-gelosa-di-kylie-minogue-pensavo-che-il-mio-ex-marito-guy-ritchie-avesse-una-cotta-per-lei-e-mi-dicevo-non-saro-mai-bella-cosi-lo-rivela-madonna/8432628/",
+      "published": "Sun, 28 Jun 2026 07:35:43 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Mondiali, il sorteggio è “casalingo”: lo schema Fifa per favorire i Paesi ospitanti nella fase a eliminazione diretta",
+      "summary": "Gianni Infantino è un ospite straordinario, nel senso che quando assegna i suoi amati Mondiali sposa totalmente la causa degli organizzatori. Nel 2018 il presidente Fifa si sperticò in lodi della Russia e di Vladimir Putin, che poi si sarebbe trasformato di lì a poco nel nemico numero uno dell’Occid",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/mondiali-2026-sorteggio-fifa-nazionali-ospitanti-notizie/8432054/",
+      "published": "Sun, 28 Jun 2026 07:13:19 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader",
+        "ucraina-russia",
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Eros Ramazzotti: “Ora mi riposo un po’ prima dell’operazione che dovrò rifare alle corde vocali a metà luglio. Purtroppo oggi ho avuto questa notizia”",
+      "summary": "Si è concluso ieri, 27 giugno, il tour in 7 tappe negli stadi di Eros Ramazzotti. Il cantautore alla vigilia dello show ha però condiviso una notizia importante: &#8220;Stasera (per, ndr) sarò a Torino per l&#8217;ultima data di questo tour negli stadi&#8221;. &#8220;Volevo ringraziare tutti coloro ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/eros-ramazzotti-ora-mi-riposo-un-po-prima-delloperazione-che-dovro-rifare-alle-corde-vocali-a-meta-luglio-purtroppo-oggi-ho-avuto-questa-notizia/8432598/",
+      "published": "Sun, 28 Jun 2026 07:13:18 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
@@ -576,36 +741,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Cadavere mummificato trovato tra il Bitto e l’Adda in Valtellina: giallo sull’identità della vittima",
-      "summary": "Il corpo senza vita di una persona, ormai in avanzato stato di mummificazione, è stato trovato nella tarda mattinata di oggi in una radura seminascosta alla confluenza del torrente Bitto con il fiume Adda, nel territorio di Morbegno, in provincia di Sondrio. A dare l&#8217;allarme è stato un pescato",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/cadavere-mummificato-valtellina-morbegno-notizie/8432457/",
-      "published": "Sat, 27 Jun 2026 19:09:25 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Il marito della ministra Roccella disperso nel lago di Vico: ricerche in corso",
-      "summary": "Luigi Cavallari, marito della ministra della Famiglia Eugenia Roccella, risulta disperso nelle acque del lago di Vico, nel Viterbese. L’uomo si trovava in barca sul lago vulcanico assieme alla moglie, quando si è tuffato in acqua e non è più riemerso. A dare l&#8217;allarme è stata la stessa ministr",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/cavallari-disperso-lago-vico-notizie/8432341/",
-      "published": "Sat, 27 Jun 2026 17:20:11 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Precipita da un edificio in costruzione, morto il direttore del cantiere: aveva 69 anni",
-      "summary": "Il direttore di un cantiere edile, Renato Mariotti, 69 anni, ha perso la vita dopo essere precipitato da un edificio in costruzione di circa una decina di piani a Olbia, in via Gramsci. L’uomo, secondo una prima ricostruzione ancora al vaglio degli inquirenti, sarebbe caduto nel vuoto per cause che ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/undefined-24/8432306/",
-      "published": "Sat, 27 Jun 2026 16:25:39 +0000",
+      "title": "Il paradosso del cervello: per crescere sani i neuroni spezzano il proprio Dna e poi lo riparano in tempi record",
+      "summary": "La vita di un neurone appena nato è tutt’altro che semplice. Una volta venuto alla luce deve compiere un viaggio allucinante per raggiungere la sua destinazione finale nella corteccia cerebrale, cioè nella “cabina di regia” del nostro pensiero. Un neurone neonato deve infatti farsi largo a spintoni ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/il-paradosso-del-cervello-per-crescere-sani-i-neuroni-spezzano-il-proprio-dna-e-poi-lo-riparano-in-tempi-record/8423225/",
+      "published": "Sun, 28 Jun 2026 07:12:13 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
@@ -615,93 +754,81 @@
       "is_high_priority": false
     },
     {
-      "title": "Violenze e pestaggi a Cagliari, arrestati sette ragazzini: un anno di aggressioni, minacce e aggressioni adolescenti",
-      "summary": "Botte, minacce e agguati. In alcuni casi anche coltelli a serramanico mostrati per intimidire le vittime. È questo il quadro emerso a Cagliari, dove una baby gang composta da sette minorenni, tra i 15 e i 16 anni, avrebbe trasformato per mesi la vita di altri ragazzi e di un adulto straniero in un i",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/undefined-23/8432291/",
-      "published": "Sat, 27 Jun 2026 15:54:42 +0000",
+      "title": "Ricercatore in Svezia: “Qui ho potuto dedicarmi ai miei figli e cambiare lavoro anche in età avanzata. Ho iniziato la carriera accademica, qui ricerca e innovazione sono il futuro”",
+      "summary": "“Ad oggi non ci sono condizioni per cui tornerei in Italia: la mia famiglia è qui. Se dovessi rientrare, vorrei avere la stessa sicurezza economica che ho in Svezia”. Francesca Catellani parla da un centro della contea di Blekinge, la più piccola della Svezia, dove lavora come assistente alla ricerc",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/cervelli-fuga-svezia-italiana-ricerca-notizie/8431582/",
+      "published": "Sun, 28 Jun 2026 07:10:52 +0000",
       "source": "ilfattoquotidiano.it",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "mondo"
+        "italia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Texas, obbligatoria la lettura della Bibbia nelle scuole pubbliche: la decisione dello Stato governato dai Repubblicani",
-      "summary": "Oltre cinque milioni di studenti delle scuole pubbliche in Texas saranno obbligati a leggere brani della Bibbia nell&#8217;ambito della loro formazione. Lo stabilisce il nuovo elenco di letture obbligatorie approvato venerdì dal Texas State Board of Education, l&#8217;organismo- controllato dai Repu",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/bibbia-scuole-texas-obbligo-notizie/8432241/",
-      "published": "Sat, 27 Jun 2026 15:46:38 +0000",
+      "title": "“I vertici di Hamas vivono a Istanbul”: la Turchia è l’altro grande avversario regionale di Israele. Tel Aviv rinforza l’asse con la Grecia per contrastarlo",
+      "summary": "Un comunicato ufficiale. Un&#8217;accusa delle più ignominiose. Alle 8.03 del 21 giugno lo Shin Bet e l&#8217;esercito israeliano hanno pubblicato una nota congiunta in cui collegano Hamas alla Turchia. &#8220;Nel corso degli anni, e con maggiore intensità nell&#8217;ultimo anno, gli agenti del quar",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/turchia-israele-hamas-asse-grecia-notizie/8427536/",
+      "published": "Sun, 28 Jun 2026 07:06:45 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Dopo Vattene Amore troppa pressione. Sono passata dagli attacchi di panico alla bulimia. Gli uomini deficienti mi hanno aiutato a capire che non ero io quella sbagliata”: così Mietta",
-      "summary": "Mietta è tornata con l&#8217;Ep &#8220;Per avere me&#8220;, che contiene l’omonimo brano, già pubblicato lo scorso gennaio, insieme a &#8220;Mille bugie&#8221;, il nuovo singolo lanciato il 5 giugno. Nella tracklist anche le versioni acustiche dei due brani, l&#8217;inedito &#8220;Eccitazione&#8221;",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/dopo-vattene-amore-troppa-pressione-sono-passata-dagli-attacchi-di-panico-alla-bulimia-gli-uomini-deficienti-mi-hanno-aiutato-a-capire-che-non-ero-io-quella-sbagliata-cosi-mietta/8432115/",
-      "published": "Sat, 27 Jun 2026 15:03:41 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Peste suina africana, primo caso in un allevamento in Toscana: scatta l’allarme a Comano",
-      "summary": "Primo caso di peste suina africana (PSA) in Toscana in un allevamento commerciale. La conferma è arrivata dal Cerep, il Centro di referenza nazionale per le pesti suine, che ha accertato la positività al virus su una carcassa di suino rinvenuta in una struttura di Comano, in provincia di Massa Carra",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/peste-suina-africana-primo-caso-in-un-allevamento-in-toscana-scatta-lallarme-a-comano/8432144/",
-      "published": "Sat, 27 Jun 2026 14:33:05 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Auto si ribalta sulla A14 vicino a un cantiere, grave il neonato sbalzato fuori dall’abitacolo e morta una donna",
-      "summary": "Un grave incidente stradale si è verificato questa mattina sull’autostrada A14, al chilometro 0+500 in direzione Bologna, in prossimità di un cantiere, dove un’autovettura con a bordo una famiglia di sei persone si è ribaltata. Secondo una prima ricostruzione della Polizia Stradale, all’origine dell",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/auto-si-ribalta-sulla-a14-vicino-a-un-cantiere-grave-il-neonato-sbalzato-fuori-dallabitacolo-e-morta-una-donna/8432152/",
-      "published": "Sat, 27 Jun 2026 14:30:14 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Il più grave dei luoghi comuni è la favola che si è costruita sull’essere autistico: mi riferisco al fatto che essere autistico è molto figo. Non è vero, è una condizione pesante”: parla Elio",
-      "summary": "Si conclude oggi, 27 giugno, la due giorni dell’edizione 2026 del Concertozzo, l’evento annuale di Elio e le Storie Tese ideato dal Trio Medusa per unire musica e impegno sociale a Biella. È il primo evento al mondo in cui l’organizzazione, la gestione e la somministrazione del cibo e delle bevande ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/il-piu-grave-dei-luoghi-comuni-e-la-favola-che-si-e-costruita-sullessere-autistico-mi-riferisco-al-fatto-che-essere-autistico-e-molto-figo-non-e-vero-e-una-condizione-pesante-parla-elio/8432139/",
-      "published": "Sat, 27 Jun 2026 13:58:28 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
+        "medio-oriente",
         "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "La California porta al voto la tassa sui miliardari. E apre la battaglia tra i dem per le presidenziali 2028",
-      "summary": "La California laboratorio fiscale d&#8217;America. Dopo mesi di battaglia politica, ricorsi, raccolte firme e una campagna multimilionaria finanziata dai miliardari della Silicon Valley per fermarla, ora è ufficiale: il 3 novembre gli elettori se introdurre una tassa una tantum sui miliardari. In co",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/27/tassa-miliardari-california-referendum-notizie/8432124/",
-      "published": "Sat, 27 Jun 2026 13:55:10 +0000",
+      "title": "La crescita vertiginosa (e disordinata) dei data center per alimentare l’intelligenza artificiale: richieste di potenza a 84 gigawatt. E la legge lombarda permette strutture nelle aree naturali",
+      "summary": "Perfino il governatore della Banca d&#8217;Italia, nelle sue ultime considerazioni finali il 29 maggio, si è speso per l’intelligenza artificiale che &#8220;può divenire una leva decisiva per rilanciare la produttività dell’economia italiana&#8221;. Ma intelligenza artificiale comporta data center, ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/la-crescita-vertiginosa-e-disordinata-dei-data-center-per-alimentare-lintelligenza-artificiale-richieste-di-potenza-a-84-gigawatt-e-la-legge-lombarda-permette-strutture-nelle-aree-naturali/8430334/",
+      "published": "Sun, 28 Jun 2026 07:04:49 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "politica"
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Fare Amici è stato un grande salto nel vuoto. Ho avuto alti e bassi, a volte serve qualcuno che ci creda più di te. Le cose nuove mi impaurivano, ma ora sperimento il rischio”: così Jacopo Sol",
+      "summary": "“Sono sempre stato impaurito dalle cose nuove”, ma “ora sperimento anche il rischio”. È questa una delle principali consapevolezze che, Jacopo Sol, si è portato dietro dalla sua partecipazione ad Amici 24. Terminato il programma, l’artista ha pubblicato l’EP “Dove Finiscono I Sogni?” (2025) ed ora s",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/fare-amici-e-stato-un-grande-salto-nel-vuoto-ho-avuto-alti-e-bassi-a-volte-serve-qualcuno-che-ci-creda-piu-di-te-le-cose-nuove-mi-impaurivano-ma-ora-sperimento-il-rischio-cosi-jacopo-s/8431227/",
+      "published": "Sun, 28 Jun 2026 06:57:51 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La transizione energetica ridistribuisce ricchezza e potere o avvantaggerà i soliti noti?",
+      "summary": "di Rocco Ciarmoli Con il decreto FER X, approvato dalla Commissione Europea l’8 giugno 2026 e firmato dal Ministro dell’Ambiente il 18 giugno, l&#8217;Italia si prepara a sostenere fino a 37 GW di nuova capacità rinnovabile attraverso incentivi per circa 23 miliardi di euro. Non si tratta di fondi e",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/28/decreto-fer-x-rinnovabili-proprieta-impianti-notizie/8428469/",
+      "published": "Sun, 28 Jun 2026 05:07:28 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Comunicato del cdr",
+      "summary": "Dopo Castellucci, Moretti. Tempo fa, aprile 2025, contestammo lo spazio, 150 righe, dedicato a una lettera dell’ex amministratore delegato di Aspi Giovanni Castellucci, a valle della...",
+      "link": "https://www.ilsole24ore.com/art/comunicato-cdr-AIw5jquD",
+      "published": "Sun, 28 Jun 2026 07:38:51 GMT",
+      "source": "ilsole24ore.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -771,15 +898,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Strage di Ustica, il Governo si opporrà alla richiesta di archiviazione",
-      "summary": "«Sono trascorsi 46 anni dalla strage nei cieli di Ustica. In questo giorno di raccoglimento e di memoria, il pensiero di vicinanza e di solidarietà va anzitutto ai familiari delle...",
-      "link": "https://www.ilsole24ore.com/art/mattarella-46-anni-strage-ustica-impegno-la-verita-e-memoria-AISTVAuD",
-      "published": "Sat, 27 Jun 2026 08:36:00 GMT",
-      "source": "ilsole24ore.com",
+      "title": "Families calling out to loved ones trapped in rubble by Venezuela quakes",
+      "summary": "In La Guaira, desperate families keep vigil at buildings where they fear their relatives are trapped, but face an impossible task to move heavy debris.",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 21:12:51 GMT",
+      "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "superpotenze"
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -793,6 +920,19 @@
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Trump's face is added to select US passports for America's 250th birthday",
+      "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
+      "link": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 20:03:26 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
       ],
       "is_high_priority": false
     },
@@ -823,19 +963,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 18:36:32 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Ex-Trump adviser John Bolton pleads guilty to mishandling classified documents",
       "summary": "Bolton faces a prison sentence of up to five years and has agreed to pay $2.25m in fine, prosecutors say.",
       "link": "https://www.bbc.co.uk/news/articles/czxqwg4nrvlo?at_medium=RSS&at_campaign=rss",
@@ -849,49 +976,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Senior Ukrainian intelligence official jailed for life for spying for Russia",
-      "summary": "Col Dmytro Kozyura agreed to share state secrets and systematically disclosed classified information, prosecutors say.",
-      "link": "https://www.bbc.co.uk/news/articles/cg4w3wyxzzno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 10:38:37 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "ucraina-russia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-      "summary": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 06:16:01 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "They quit the West for Russia's traditional values, but it wasn't what they expected",
-      "summary": "The BBC asks Westerners who moved to Russia if life there lives up to expectations.",
-      "link": "https://www.bbc.co.uk/news/articles/cn075j04pnyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 23:02:05 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "ucraina-russia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Hit South African show gets the world talking about polygamy and cheating",
-      "summary": "The Zulu-language series about a man with multiple wives is a worldwide hit. ",
-      "link": "https://www.bbc.co.uk/news/articles/cx2djde7v2do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 23:02:23 GMT",
+      "title": "Mother dies saving daughter in Venezuela earthquakes",
+      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 26 Jun 2026 18:36:32 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -901,10 +989,49 @@
       "is_high_priority": false
     },
     {
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "summary": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces. ",
-      "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 26 Jun 2026 02:12:07 GMT",
+      "title": "Bad Bunny: Latin star lights up London with history-making stadium show",
+      "summary": "Pride and a party as the Puerto Rican becomes the first Latin artist to headline a UK stadium.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dyrk56dg9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 28 Jun 2026 01:46:24 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "What news reports from 1600s tell us about life in Mughal India",
+      "summary": "Thousands of forgotten news reports are reshaping our understanding of Aurangzeb and the Mughal world.",
+      "link": "https://www.bbc.co.uk/news/articles/c1dy5y3y2g3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 23:40:43 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Budapest's first Pride since Orban left power",
+      "summary": "Budapest held its first Pride march since the end of former prime minister Viktor Orban's 16-year government with thousands turning out to celebrate.",
+      "link": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 21:28:04 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
+      "summary": "The BBC travelled to a Caracas hospital that is treating people from the worst affected areas.",
+      "link": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Jun 2026 21:33:12 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
