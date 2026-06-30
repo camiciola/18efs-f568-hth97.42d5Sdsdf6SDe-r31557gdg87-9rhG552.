@@ -1,13 +1,13 @@
 {
-  "last_update": "2026-06-29T20:32:46.129698",
+  "last_update": "2026-06-30T10:42:20.788818",
   "total_news": 77,
   "news": [
     {
-      "title": "Triplice omicidio a Roma, il killer in fuga è dirigente di un partito del Bangladesh. Il fratello della vittima: “Voleva soldi”",
-      "summary": "Shahadat Hossain, il bengalese ricercato per l&#8217;omicidio di tre connazionali alla periferia di Roma, è un dirigente di un importante partito di governo del Bangladesh. E proprio i suoi contatti politici potrebbero averlo aiutato a sfuggire all&#8217;arresto. Lo riferisce Repubblica, citando un ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/triplice-omicidio-roma-killer-bnp-notizie/8433797/",
-      "published": "Mon, 29 Jun 2026 15:14:30 +0000",
-      "source": "ilfattoquotidiano.it",
+      "title": "svolta nelle indaginiAttentato a Sigfrido Ranucci, blitz dei Carabinieri: 4 arrestiSi cerca di risalire ai mandanti",
+      "summary": "svolta nelle indagini",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/attentato-a-sigfrido-ranucci-blitz-dei-carabinieri-4-arresti/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 20,
       "categories": [
@@ -17,28 +17,60 @@
       "is_high_priority": true
     },
     {
-      "title": "Spari in discoteca a Sangineto, si segue la pista dellaspedizione punitiva: migliorano le condizioni dei due feriti",
-      "summary": "Continuano le indagini della Procura di Paola dopo l’episodio avvenuto sabato notte durante l’inaugurazione della stagione estiva del locale. Fari puntati sull’incappucciato che ha aperto il fuoco",
-      "link": "https://www.lacnews24.it/cronaca/spari-in-discoteca-a-sangineto-si-segue-la-pista-della-spedizione-punitiva-migliorano-le-condizioni-dei-due-feriti-jy59ktz4",
+      "title": "Attentato a Ranucci, 4 arresti. Per gli inquirenti «il commando agì su mandato, come favore e dietro compenso» –NOMI",
+      "summary": "VIDEO | I carabinieri hanno eseguito tre arresti in carcere e uno ai domiciliari per l'attentato dinamitardo del 16 ottobre 2025 davanti all'abitazione del giornalista. Le indagini della Dda proseguono per identificare i mandanti.",
+      "link": "https://www.lacnews24.it/italia-mondo/attentato-a-sigfrido-ranucci-quattro-arresti-per-gli-inquirenti-il-commando-agi-su-mandato-come-favore-e-dietro-compenso-b131279h",
       "published": "",
       "source": "lacnews24.it",
-      "section": "crime_italy",
+      "section": "ndrangheta",
       "priority": 10,
       "categories": [
-        "crime_italy"
+        "arresti",
+        "scarcerazioni",
+        "sangue"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Omicidio Vasienti, annullata la custodia cautelare per Giovanni Tritto",
+      "title": "Ranucci, 4 arresti per l'attentato contro il giornalista: \"hanno agito con metodo mafioso\"",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/omicidio-vasienti-annullata-la-custodia-cautelare-per-giovanni-tritto/2107397/",
+      "link": "https://www.strettoweb.com/2026/06/ranucci-4-arresti-per-lattentato-contro-il-giornalista-attentato-contro-sigfrido-ranucci-4-arresti-hanno-agito-con-metodo-mafioso/2107557/",
       "published": "",
       "source": "strettoweb.com",
-      "section": "crime_italy",
+      "section": "ndrangheta",
       "priority": 10,
       "categories": [
-        "crime_italy"
+        "arresti",
+        "sangue"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Attentato a Ranucci, le opposizioni: “Bene gli arresti, ora la Rai paghi le spese legali nella causa con Cipriani”",
+      "summary": "La soddisfazione per gli arresti e il sostegno a Sigfrido Ranucci, ma anche l&#8217;appello alla Rai e al centrodestra perché cessi la campagna di delegittimazione contro Report. Sono tutte simili le dichiarazioni dell&#8217;opposizione dopo le misure cautelari a carico dei presunti esecutori del&#8",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/attentato-ranucci-opposizioni-rai-spese-legali-notizie/8434528/",
+      "published": "Tue, 30 Jun 2026 10:39:40 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "ndrangheta",
+      "priority": 10,
+      "categories": [
+        "arresti",
+        "sangue"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Attentato a Ranucci, quattro arresti: bomba su commissione",
+      "summary": "Tre persone in carcere e una ai domiciliari per detenzione di esplosivi e danneggiamento con l’aggravante del metodo mafioso",
+      "link": "https://www.ilsole24ore.com/art/attentato-ranucci-quattro-arresti-AI0jFOwD",
+      "published": "Tue, 30 Jun 2026 06:03:00 GMT",
+      "source": "ilsole24ore.com",
+      "section": "ndrangheta",
+      "priority": 10,
+      "categories": [
+        "arresti",
+        "scarcerazioni",
+        "sangue"
       ],
       "is_high_priority": false
     },
@@ -121,6 +153,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Venezuela, cinque giorni dopo il terremoto 12enne estratto vivo dalle macerie",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.lacnews24.it/italia-mondo/venezuela-cinque-giorni-dopo-il-terremoto-12enne-estratto-vivo-dalle-macerie-fxpr7y0l",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Economia e Lavoro",
       "summary": "Clicca per leggere l'articolo completo",
       "link": "https://www.lacnews24.it/video/economia-e-lavoro",
@@ -134,41 +179,56 @@
       "is_high_priority": false
     },
     {
-      "title": "Tajani smentisce Rutte (Nato): «Nessuna base italiana usata per attacchi all'Iran»",
-      "summary": "Redazione",
-      "link": "https://www.lacnews24.it/italia-mondo/tajani-smentisce-rutte-nato-nessuna-base-italiana-usata-per-attacchi-alliran-rua6e8zx",
+      "title": "Bezos questo sconosciuto,il boss Piromallinon sa cosa sia Amazon ma impone la propria legge: «Mi prendo ciò che è mio»",
+      "summary": "Nell’informativa dell’inchiesta Res Tauro della Dda di Reggio Calabria nuovi dettagli sul tentativo del clan di mettere le mani sul centro logistico mai entrato in funzione a Gioia Tauro. Il colosso americano nega pressioni mafiose e continua a pagare oltre un milione di euro l'anno per l'affitto de...",
+      "link": "https://www.lacnews24.it/cronaca/bezos-questo-sconosciuto-il-boss-piromalli-non-sa-cosa-sia-amazon-ma-impone-la-propria-legge-mi-prendo-cio-che-e-mio-t15x0ld8",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Incendiarono un bar-tabaccheria di Vicenza per incassare l'assicurazione:arresti anche a Reggio Calabria",
+      "summary": "Cinque misure cautelari al termine dell'inchiesta. Secondo gli investigatori, i complici sarebbero partiti dall'aeroporto di Lamezia Terme per raggiungere il Veneto e appiccare i roghi finalizzati agli indennizzi",
+      "link": "https://www.lacnews24.it/cronaca/incendiarono-un-bar-tabaccheria-di-vicenza-per-incassare-lassicurazione-arresti-anche-a-reggio-calabria-ckddfpnd",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "«La Cina ha vinto la guerra Iran-Usa»: la chiusura dello Stretto di Hormuz ridisegna gli equilibri in Asia",
+      "summary": "Redazione Esteri",
+      "link": "https://www.lacnews24.it/italia-mondo/la-cina-ha-vinto-la-guerra-iran-usa-la-chiusura-dello-stretto-di-hormuz-ridisegna-gli-equilibri-in-asia-yub6jvwk",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
+        "guerre",
         "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Usa e Iran sospendono le ostilità: a Doha il vertice decisivo sullo Stretto di Hormuz",
-      "summary": "Redazione",
-      "link": "https://www.lacnews24.it/italia-mondo/usa-e-iran-sospendono-le-ostilita-a-doha-il-vertice-decisivo-sullo-stretto-di-hormuz-clzsm5z8",
+      "title": "Iran e Usa, nuovi segnali dal Qatar ma Teheran smentisce negoziati diretti",
+      "summary": "Trump annuncia un incontro a Doha, mentre la Repubblica islamica nega qualsiasi confronto con Washington. Restano aperti i nodi sullo Stretto di Hormuz, tra tensioni diplomatiche, sicurezza marittima e traffico navale ancora rallentato",
+      "link": "https://www.lacnews24.it/italia-mondo/iran-e-usa-nuovi-segnali-dal-qatar-ma-teheran-smentisce-negoziati-diretti-a8u0exad",
       "published": "",
       "source": "lacnews24.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
+        "leader",
         "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Stretto di Hormuz, Teheran avverte la Francia: «Non complichi la situazione, lo sminamento effettuato dall’Iran»",
-      "summary": "Dopo che Francia e Oman hanno rilasciato una dichiarazione congiunta sulla delineazione di un piano per rimuovere le mine, il governo iraniano parla di «provocazioni» e invita Macron a fermarsi",
-      "link": "https://www.lacnews24.it/italia-mondo/stretto-di-hormuz-teheran-avverte-la-francia-non-complichi-la-situazione-lo-sminamento-effettuato-dalliran-nktyvn3u",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
       ],
       "is_high_priority": false
     },
@@ -186,9 +246,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Pd Cosenza, da Roma arriva Igor Taruffi: il Mr. Wolf dei democrat all’assemblea di Federazione",
-      "summary": "Antonio Clausi",
-      "link": "https://www.lacnews24.it/politica/pd-cosenza-da-roma-arriva-igor-taruffi-il-mr-wolf-dei-democrat-allassemblea-di-federazione-a08uz43u",
+      "title": "Nasce la sede provinciale di Asnali a Vibo Valentia: Antonio Gagliardi eletto presidente all'unanimità",
+      "summary": "Il via libera è arrivato a Briatico, durante il Forum delle Imprese della Costa degli Dei, con oltre sessanta tra imprenditori e professionisti riuniti sui temi del credito e delle fiduciarie e trust",
+      "link": "https://www.lacnews24.it/economia-e-lavoro/nasce-la-sede-provinciale-di-asnali-a-vibo-valentia-antonio-gagliardi-eletto-presidente-allunanimita-sk5a1h6n",
       "published": "",
       "source": "lacnews24.it",
       "section": "italia",
@@ -199,87 +259,22 @@
       "is_high_priority": false
     },
     {
-      "title": "Sondaggi politici: cala Fratelli d'Italia, tiene il Pd, balzo di Futuro Nazionale | DATI",
+      "title": "Consiglio metropolitano di Messina, elezioni a fine Luglio: al voto 1.271 sindaci e consiglieri comunali",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/sondaggi-politici-cala-fratelli-ditalia-tiene-il-pd-balzo-di-futuro-nazionale-dati/2107475/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Rosarno, ore di apprensione per la scomparsa di un uomo allontanatosi a bordo di un’Audi A3",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/rosarno-ore-di-apprensione-per-la-scomparsa-di-un-uomo-allontanatosi-a-bordo-di-unaudi-a3/2107476/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Il premier Meloni: \"un presidente della Repubblica di destra potrebbe non essere più un tabù\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/il-premier-meloni-un-presidente-della-repubblica-di-destra-potrebbe-non-essere-piu-un-tabu/2107473/",
+      "link": "https://www.strettoweb.com/2026/06/consiglio-metropolitano-di-messina-elezioni-a-fine-luglio-al-voto-1-271-sindaci-e-consiglieri-comunali/2107672/",
       "published": "",
       "source": "strettoweb.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader"
+        "politica"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Serie D, cambio ai vertici del Milazzo: acquisite le quote di maggioranza, c'è un nuovo Presidente | NOME",
+      "title": "Serie D, il Trapani risolve il contratto con il DS Volume: \"a causa di rilevanti problemi di salute\"",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/serie-d-cambio-ai-vertici-del-milazzo-acquisite-le-quote-di-maggioranza-ce-un-nuovo-presidente-nome/2107456/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Nastro Rosa Tour 2026 a Tropea, il sindaco Macrì: “un evento che rafforza l’immagine della Calabria nel mondo”",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/nastro-rosa-tour-2026-a-tropea-il-sindaco-macri-un-evento-che-rafforza-limmagine-della-calabria-nel-mondo/2107429/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Costituita la sede provinciale ASNALI di Vibo Valentia: eletto il nuovo presidente | NOME",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/costituita-la-sede-provinciale-asnali-di-vibo-valentia-eletto-il-nuovo-presidente-nome/2107394/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Auto usata e finanziamento: perché molti italiani rimandano l’acquisto, ma non rinuncia davvero",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/auto-usata-e-finanziamento-perche-molti-italiani-rimandano-lacquisto-ma-non-rinuncia-davvero/2107399/",
+      "link": "https://www.strettoweb.com/2026/06/serie-d-il-trapani-risolve-il-contratto-con-il-ds-volume-a-causa-di-rilevanti-problemi-di-salute/2107665/",
       "published": "",
       "source": "strettoweb.com",
       "section": "mondo",
@@ -290,15 +285,93 @@
       "is_high_priority": false
     },
     {
-      "title": "Iran, Pezeshkian: \"accordo con USA grande vittoria, 6 miliardi sbloccati\". E fa chiarezza sul nucleare",
+      "title": "Il marito del ministro Roccella disperso da sabato, ricerche senza sosta sul lago di Vico",
       "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/iran-pezeshkian-accordo-con-usa-grande-vittoria-6-miliardi-sbloccati-e-fa-chiarezza-sul-nucleare/2107281/",
+      "link": "https://www.strettoweb.com/2026/06/il-marito-del-ministro-roccella-disperso-da-sabato-ricerche-senza-sosta-sul-lago-di-vico/2107640/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Chi è Maria Grazia Arena, il magistrato scelto da Cannizzaro come vice Sindaco di Reggio Calabria: una garanzia di legalità per l'attività della nuova Amministrazione",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/chi-e-maria-grazia-arena-il-magistrato-scelto-da-cannizzaro-come-vice-sindaco-di-reggio-calabria-una-garanzia-di-legalita-per-lattivita-della-nuova-amministrazione/2107643/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Serie D, il Presidente dell'Enna consegna la squadra al Sindaco: \"disponibilità di un investitore, poi ho ricevuto due offerte\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/serie-d-il-presidente-dellenna-consegna-la-squadra-al-sindaco-disponibilita-di-un-investitore-poi-ho-ricevuto-due-offerte/2107617/",
       "published": "",
       "source": "strettoweb.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "superpotenze"
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Rapina a Rizziconi, il Pd Taurianova ringrazia le Forze dell’Ordine: \"la risposta dello Stato è un segnale importante”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/rapina-a-rizziconi-il-pd-taurianova-ringrazia-le-forze-dellordine-la-risposta-dello-stato-e-un-segnale-importante/2107607/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Traina d'Altura, un equipaggio reggino fra i migliori d'Italia nel Campionato Italiano Assoluto | NOMI",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/traina-daltura-un-equipaggio-reggino-fra-i-migliori-ditalia-nel-campionato-italiano-assoluto-nomi/2107590/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Elezioni comunali Messina e Barcellona Pozzo di Gotto, il Tar di Catania discuterà i ricorsi ad ottobre",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/elezioni-comunali-messina-e-barcellona-pozzo-di-gotto-il-tar-di-catania-discutera-i-ricorsi-ad-ottobre/2107587/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Europa a casa”, Princi: “pubblicato il report di giugno con i bandi finanziati dall’Unione Europea”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/europa-a-casa-princi-pubblicato-il-report-di-giugno-con-i-bandi-finanziati-dallunione-europea/2107582/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -316,29 +389,93 @@
       "is_high_priority": false
     },
     {
-      "title": "Meloni: «Presidente della Repubblica di destra non è più un tabù»",
-      "summary": "UltimeMeloni: «Presidente della Repubblica di destra non è più un tabù»L’Italia U19 batte la Serbia 2-0 agli Europei: in gol anche LiberaliPd Calabria, la road map per voltare pagina: nuova segreteria e “giro di vite” a Reggio e CosenzaTilman J. Fertitta, l’ambasciatore Usa incantato dalla Calabria:...",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/meloni-presidente-della-repubblica-di-destra-non-e-piu-un-tabu/",
+      "title": "Un passaggio per certi versi “epocale” alla Cittadella: c’è una nuova guida allo strategico Dipartimento Bilancio",
+      "summary": "UltimeUn passaggio per certi versi “epocale” alla Cittadella: c’è una nuova guida allo strategico Dipartimento BilancioDa Reggio Calabria a Vicenza per incendiare un bar-tabaccheria: cinque arrestiBusitalia rafforza i collegamenti dalla Calabria: nuove corse per Salerno e BariOcchiuto: «Azzerare le ...",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/un-passaggio-per-certi-versi-epocale-alla-cittadella-ce-una-nuova-guida-allo-strategico-dipartimento-bilancio/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "mondo",
+      "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "leader",
-        "superpotenze"
+        "arresti"
       ],
       "is_high_priority": false
     },
     {
-      "title": "il casoIl M5S al Csm: «Mafie al Nord esistono, cambiate quella delibera»I pentastellati chiedono una revisione della delibera",
-      "summary": "il caso",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/il-m5s-al-csm-mafie-al-nord-esistono-cambiate-quella-delibera/",
+      "title": "la forza silenziosa dello StatoLa giudice che non ha mai lasciato ReggioMaria Grazia Arena prima donna presidente del Tribunale di Reggio Calabria, ha affrontato le sfide della giustizia in una delle realtà più complesse del Paese. Ora mette la sua esperienza al servizio di Palazzo San Giorgio",
+      "summary": "la forza silenziosa dello Stato",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/la-giudice-che-non-ha-mai-lasciato-reggio/",
       "published": "",
       "source": "corrieredellacalabria.it",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "mondo"
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Da Reggio Calabria a Vicenza per incendiare un bar-tabaccheria: cinque arrestil’inchiesta",
+      "summary": "l’inchiesta",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/da-reggio-calabria-a-vicenza-per-incendiare-un-bar-tabaccheria-cinque-arresti/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "arresti"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "‘Ndrangheta, Liguria crocevia dei traffici e laboratorio mafioso: un sistema in evoluzioneil fenomeno",
+      "summary": "il fenomeno",
+      "link": "https://www.corrieredellacalabria.it/2026/06/29/ndrangheta-liguria-crocevia-dei-traffici-e-laboratorio-mafioso-un-sistema-in-evoluzione/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Vannacci e la Calabria. Ex leghisti, alemanniani di ieri e di oggi, ultra-destra: l’ex generale a caccia di proselitila “scalata” politica",
+      "summary": "la “scalata” politica",
+      "link": "https://www.corrieredellacalabria.it/2026/06/29/vannacci-e-la-calabria-ex-leghisti-alemanniani-di-ieri-e-di-oggi-ultra-destra-lex-generale-a-caccia-di-proseliti/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Busitalia rafforza i collegamenti dalla Calabria: nuove corse per Salerno e Bariil servizio",
+      "summary": "il servizio",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/busitalia-rafforza-i-collegamenti-dalla-calabria-nuove-corse-per-salerno-e-bari/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Carabinieri in azione nel Crotonese, arrestato un uomo condannato a oltre 3 anni di carcerei controlli",
+      "summary": "i controlli",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/carabinieri-in-azione-nel-crotonese-arrestato-un-uomo-condannato-a-oltre-3-anni-di-carcere/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -356,61 +493,35 @@
       "is_high_priority": false
     },
     {
-      "title": "Maestrale, c’è un errore nel deposito: la Corte dichiara inammissibile l’appello della Dda per 35 imputati – NOMI‘ndrangheta nel vibonese",
-      "summary": "‘ndrangheta nel vibonese",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/maestrale-ce-un-errore-nel-deposito-la-corte-dichiara-inammissibile-lappello-della-dda-per-35-imputati-nomi/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "’Ndrangheta, guerre di mafia e fughe in Spagna: la lunga storia criminale del boss “Don Mico” PaviglianitiIL CAPOLINEA",
-      "summary": "IL CAPOLINEA",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/ndrangheta-don-mico-paviglianiti-arrestato-soria-spagna/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Notte di violenza a Tropea: rissa e accoltellamento, cinque identificaticaos in centro città",
-      "summary": "caos in centro città",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/notte-di-violenza-a-tropea-rissa-e-accoltellamento-cinque-identificati/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Weekend di sangue sulle strade calabresi, tre morti in poche orecomunità sconvolte",
-      "summary": "comunità sconvolte",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/weekend-di-sangue-sulle-strade-calabresi-tre-morti-in-poche-ore/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Assalto all’Isola 2026, record di iscrizioni da tutta Italia: in 506 per il periplo di Cirella – VIDEO00:31",
       "summary": "00:31",
       "link": "https://www.corrieredellacalabria.it/2026/06/27/assalto-allisola-2026-record-di-iscrizioni-da-tutta-italia-in-506-per-il-periplo-di-cirella-video/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Estate alle Grotte di Sant’Angelo, notti di luna e  meraviglie da scoprireMeraviglie di Calabria",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.meravigliedicalabria.it/estate-alle-grotte-di-santangelo-notti-di-luna-e-meraviglie-da-scoprire/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "il manifestoSanità, l’Umg tra le 15 università italiane che firmano il Piano per salvare il diritto alle cure",
+      "summary": "il manifesto",
+      "link": "https://www.corrieredellacalabria.it/2026/06/29/sanita-lumg-tra-le-15-universita-italiane-che-firmano-il-piano-per-salvare-il-diritto-alle-cure/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "italia",
@@ -460,28 +571,15 @@
       "is_high_priority": false
     },
     {
-      "title": "la ricercaTumore al cervello, cellule “dormienti” potrebbero causare la recidiva del glioblastoma: uno studio Unical apre strada a nuove terapie",
-      "summary": "la ricerca",
-      "link": "https://www.corrieredellacalabria.it/2026/06/26/tumore-al-cervello-cellule-dormienti-potrebbero-causare-la-recidiva-del-glioblastoma-uno-studio-unical-apre-strada-a-nuove-terapie/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Franz Caruso lancia la proposta: «Cosenza Città Metropolitana»prospettive urbane",
-      "summary": "prospettive urbane",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/franz-caruso-lancia-la-proposta-cosenza-citta-metropolitana/",
+      "title": "Arresto di Paviglianiti, Ferro: «Un duro colpo alla ‘ndrangheta»dopo la cattura",
+      "summary": "dopo la cattura",
+      "link": "https://www.corrieredellacalabria.it/2026/06/29/arresto-di-paviglianiti-ferro-un-duro-colpo-alla-ndrangheta/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
       "priority": 0,
       "categories": [
-        "generico"
+        "arresti"
       ],
       "is_high_priority": false
     },
@@ -512,11 +610,90 @@
       "is_high_priority": false
     },
     {
-      "title": "L’Italia U19 batte la Serbia 2-0 agli Europei: in gol anche Liberali“Esordio vincente per gli azzurrini di Alberto Bollini: decisivo il rigore trasformato dal fantasista del Catanzaro nel primo tempo, poi il raddoppio…29 Giugno, 22:02",
-      "summary": "“Esordio vincente per gli azzurrini di Alberto Bollini: decisivo il rigore trasformato dal fantasista del Catanzaro nel primo tempo, poi il raddoppio…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/litalia-u19-batte-la-serbia-2-0-agli-europei-in-gol-anche-liberali/",
+      "title": "Occhiuto: «Azzerare le tasse per gli under 35 e abolire il bollo auto»“Le parole al Tg5 del governatore calabrese30 Giugno, 11:00",
+      "summary": "“Le parole al Tg5 del governatore calabrese",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/occhiuto-azzerare-le-tasse-per-gli-under-35-e-abolire-il-bollo-auto/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Quando mia sorella stava morendo, i medici le hanno praticato l’accanimento terapeutico. La vidi soffrire in maniera terribile. Con Warren Beatty finì perché voleva fare sesso a tre”: parla Barbara Bouchet",
+      "summary": "Barbara Bouchet ha ricevuto il Nastro d’Argento Speciale per il film da protagonista &#8220;Finale: Allegro&#8221; di Emanuela Piovano. Al centro della storia c&#8217;è Karina (Bouchet), una pianista di ottant&#8217;anni che ha vissuto la propria esistenza all&#8217;insegna dell&#8217;autodeterminaz",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/quando-mia-sorella-stava-morendo-i-medici-le-hanno-praticato-laccanimento-terapeutico-la-vidi-soffrire-in-maniera-terribile-parla-barbara-bouchet/8434590/",
+      "published": "Tue, 30 Jun 2026 10:25:15 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Inflazione in rallentamento a giugno: carrello della spesa a +1,6%. Ma accelera l’energia",
+      "summary": "L&#8217;inflazione rallenta leggermente a giugno, ma il calo è dovuto soprattutto all&#8217;attenuarsi delle tensioni sui prezzi degli alimentari freschi e di alcuni servizi, mentre torna ad aumentare il contributo dell&#8217;energia. Secondo le stime preliminari diffuse dall&#8217;Istat, l&#8217;in",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/inflazione-giugno-rallenta-istat-carrello-energia-accelera/8434527/",
+      "published": "Tue, 30 Jun 2026 09:57:32 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "politica",
+        "economia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“Oggi Wired Italia chiude.  E questo messaggio è per te. No, non ci conosciamo”: la lettera d’addio della redazione",
+      "summary": "E alla fine chiude davvero Wired Italia. Il Ceo di Condé Nast Roger Lynch aveva annunciato giovedì 16 aprile, che la rivista di tecnologia, cultura digitale e innovazioni nata nel 2009 non sarebbe stata più pubblicata. L’azienda nel 2025 ha chiuso in crescita, ma le tre testate non sono redditizie e",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/oggi-wired-italia-chiude-e-questo-messaggio-e-per-te-no-non-ci-conosciamo-la-lettera-daddio-della-redazione/8434516/",
+      "published": "Tue, 30 Jun 2026 09:44:02 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Terremoto in Venezuela, bimbo di 12 anni estratto vivo dopo cinque giorni: così i vigili del fuoco lo identificano e lo salvano",
+      "summary": "Un bambino di 12 anni è stato salvato in Venezuela dopo essere sopravvissuto cinque giorni sotto le macerie nello stato di La Guaira. L&#8217;incredibile salvataggio è avvenuto nella tarda serata di lunedì, cinque giorni dopo il sisma. Lo ha riferito una squadra di ricerca e soccorso ecuadoriana in ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/terremoto-venezuela-bimbo-12-anni-salvato-video/8434540/",
+      "published": "Tue, 30 Jun 2026 09:43:48 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Terremoto politico a Lecco, Paolo Fiocchi (figlio dell’europarlamentare Pietro) passa con Vannacci: era stato il candidato più votato di FdI",
+      "summary": "È stato il candidato più votato di Fratelli d&#8217;Italia, nonché il secondo più votato del centrodestra. E, tra le altre cose, è figlio di un europarlamentare di FdI. Si chiama Paolo Fiocchi, classe 1997, e ieri sera, alla prima occasione &#8211; il primo Consiglio comunale del sindaco Filippo Bos",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/fiocchi-vannacci-futuro-nazionale-lecco-notizie/8434489/",
+      "published": "Tue, 30 Jun 2026 09:40:00 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "“In Italia ci sono ancora molti bigotti, nessun cartello vietava di fare ciò che ho fatto”: 105 euro di multa perché prendeva il sole in topless, il caso finisce in tribunale",
+      "summary": "Una multa da 105 euro per aver preso il sole in topless sulle rive del fiume Natisone, a Cividale del Friuli, e una battaglia legale che si concluderà soltanto nel 2027. È la vicenda di Maria José Bordalo Nunes, badante brasiliana residente a Udine da oltre trent&#8217;anni, che ha deciso di impugna",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/in-italia-ci-sono-ancora-molti-bigotti-nessun-cartello-vietava-di-fare-cio-che-ho-fatto-105-euro-di-multa-perche-prendeva-il-sole-in-topless-il-caso-finisce-in-tribunale/8434410/",
+      "published": "Tue, 30 Jun 2026 09:39:10 +0000",
+      "source": "ilfattoquotidiano.it",
       "section": "italia",
       "priority": 0,
       "categories": [
@@ -525,209 +702,101 @@
       "is_high_priority": false
     },
     {
-      "title": "Pd Calabria, la road map per voltare pagina: nuova segreteria e “giro di vite” a Reggio e Cosenza“Direzione regionale per il dopo voto e il percorso futuro. Si profila un’estate “calda”. A Reggio ci sarà un congresso straordinario, lunedì assemble…29 Giugno, 21:37",
-      "summary": "“Direzione regionale per il dopo voto e il percorso futuro. Si profila un’estate “calda”. A Reggio ci sarà un congresso straordinario, lunedì assemble…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/pd-calabria-la-road-map-per-voltare-pagina-nuova-segreteria-e-giro-di-vite-a-reggio-e-cosenza/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Immigrazione irregolare, Questore di Catanzaro dispone rimpatrio di un cittadino straniero",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lametino.it/cronaca/immigrazione-irregolare-questore-di-catanzaro-dispone-rimpatrio-di-un-cittadino-straniero.html",
-      "published": "",
-      "source": "lametino.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Tre sconfitte per Trump alla Corte suprema: stop al licenziamento di Lisa Cook alla Fed",
-      "summary": "Il voto per posta, il licenziamento della governatrice della Fed, perfino la causa per molestie sessuali nei confronti di una scrittrice. È stata una terribile giornata alla Corte Suprema per il presidente Usa Donald Trump. I giudici gli hanno dato torto su tre questioni anche molto diverse tra loro",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/trump-corte-suprema-sentenze-sconfitte-oggi/8433980/",
-      "published": "Mon, 29 Jun 2026 18:13:44 +0000",
+      "title": "“Ritocco le mie foto per insicurezza, tolgo il brufoletto ma non mi allungo le gambe. In gravidanza ho preso 26 kg, non mi pesavo più, volevo godermi il momento”: così Elisabetta Gregoraci",
+      "summary": "&#8220;FaceApp? Lo uso, è vero. È una mia sorta di insicurezza. Tutti mi dicono ‘Perché lo fai? Non ne hai bisogno’ oppure ‘Sei più bella dal vivo’”. Elisabetta Gregoraci ammette di ricorrere all&#8217;app che modifica l&#8217;aspetto del volto eliminando le imperfezioni. “Ora lo sto usando un po’ m",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/ritocco-le-mie-foto-per-insicurezza-tolgo-il-brufoletto-ma-non-mi-allungo-le-gambe-in-gravidanza-ho-preso-26-kg-non-mi-pesavo-piu-volevo-godermi-il-momento-cosi-elisabetta-grego/8434507/",
+      "published": "Tue, 30 Jun 2026 09:18:24 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "politica",
-        "leader",
         "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Meloni: “Non c’è differenza tra Vannacci e la sinistra”. E sul Quirinale: “Un presidente di destra non è più un tabù”",
-      "summary": "&#8220;Francamente non mi pare che ci sia grande differenza tra il suo movimento e tutti gli altri partiti di opposizione che noi abbiamo, perché votano come la sinistra, vogliono mandare a casa il governo contro il voto di fiducia esattamente come la sinistra, parlano solo contro di noi tutto il gi",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/meloni-vannacci-quirinale-centrodestra-notizie/8434032/",
-      "published": "Mon, 29 Jun 2026 18:09:09 +0000",
+      "title": "“Eccezionale gravità ma volevano intimidire, non uccidere”. Così cade l’accusa di strage, ma resta il metodo mafioso per l’attentato a Ranucci",
+      "summary": "Non un attentato finalizzato a uccidere, ma un&#8217;azione studiata per terrorizzare. È questa la conclusione a cui arriva il giudice per le indagini preliminari di Roma nell&#8217;ordinanza con cui dispone le misure cautelari nei confronti del gruppo accusato dell&#8217;attentato contro Sigfrido R",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/attentato-ranucci-strage-esclusa-metodo-mafioso-notizie/8434481/",
+      "published": "Tue, 30 Jun 2026 09:10:54 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "politica",
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Ottant’anni di Vespa, al raduno romano manca paradossalmente un po’ di calore",
-      "summary": "di Carblogger Vespa Vespa Vespa! A 80 anni, si festeggia una repubblica oppure si diventa vecchi, anche se mia madre ha ammesso questa parola solo verso gli 86. La Vespa compie 80 anni e non ha né un ordinamento democratico né un&#8217;età avanzata per salutarci per sempre. Così i Vespisti di tutto ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/vespa-80-anni-raduno-roma-notizie/8433759/",
-      "published": "Mon, 29 Jun 2026 17:21:59 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Bologna, 57enne schiacciata tra due bus all’uscita dal concerto di Max Pezzali: grave ma non è in pericolo di vita",
-      "summary": "Aveva appena assistito al concerto di Max Pezzali a Bologna, ma una volta uscita dallo stadio Dall&#8217;Ara è stata schiacciata da due autobus in sosta. Una donna di 57 anni, residente in provincia di Brescia, è rimasta così gravemente ferita nella sera del 28 giugno, poco prima della mezzanotte. P",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/incidente-bologna-bus-concerto-notizie/8433938/",
-      "published": "Mon, 29 Jun 2026 16:32:00 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Libertà di stampa, Italia senza progressi: allarme per l’indipendenza della Rai, pluralismo e querele temerarie",
-      "summary": "In Italia nell&#8217;ultimo anno non c&#8217;è stato alcun passo avanti sulla libertà di stampa: andiamo male sulla pluralità del mercato e siamo peggiorati sull&#8217;indipendenza della Rai dalla politica. In generale, secondo il rapporto Media Pluralism Monitor 2026, il Paese si conferma nella fas",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/liberta-stampa-italia-media-pluralism-monitor-notizie/8433777/",
-      "published": "Mon, 29 Jun 2026 16:30:46 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Condannato Moretti per la strage di Viareggio: la complessità aziendale non è uno scudo dietro cui nascondersi",
-      "summary": "La recente sentenza della Corte di Cassazione, che ha posto la parola fine al processo per il disastro ferroviario di Viareggio, merita un&#8217;ulteriore riflessione, e non solo perché oggi ricorre il 17esimo anniversario dell&#8217;evento. Nei giorni immediatamente successivi alla sentenza alcuni ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/disastro-viareggio-cassazione-moretti-notizie/8433538/",
-      "published": "Mon, 29 Jun 2026 15:54:37 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Trump e la causa per abusi sessuali, respinto il ricorso: via libera a 5 milioni di risarcimento alla scrittrice E. Jean Carroll",
-      "summary": "La Corte Suprema Usa ha confermato la condanna di Donald Trump in sede civile, per risarcire con 5 milioni di dollari la scrittrice E. Jean Carroll. Quest&#8217;ultima aveva denunciato il presidente per diffamazione e abusi sessuali: il verdetto di colpevolezza era giunto nel 2023, pronunciato da un",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/trump-carroll-abusi-sessuali-notizie/8433819/",
-      "published": "Mon, 29 Jun 2026 15:31:38 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
         "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "“Uno scenario apocalittico”: strage di Viareggio, il ricordo di un vigile del fuoco 17 anni dopo il disastro",
-      "summary": "&#8220;Eravamo due squadre su una strada che era completamente in fiamme. Macchine che bruciavano e case che bruciavano e abbiamo fatto di tutto per tirare fuori le persone&#8221;. E&#8217; il ricordo di Marco Aurelio Filippi, caporeparto dei vigili del fuoco, che fu tra i primi &#8211; insieme alla",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/strage-viareggio-vigile-fuoco-ricordo-oggi/8433765/",
-      "published": "Mon, 29 Jun 2026 14:50:00 +0000",
+      "title": "“Sul palco suonerò le chitarre di mio papà. Mi serviranno da scudo. Come mia madre, anche lui mi ha insegnato a vivere: per lui era fondamentale fare gruppo”: Emma torna live a Rock In Roma",
+      "summary": "Dopo aver lanciato il nuovo singolo “Antidroga” con Fabri Fibra, Emma è pronta a tornare live a Rock in Roma il 2 luglio all’Ippodromo delle Capannelle. Con lei sul palco amici ed ospiti come: Annalisa, Alessandra Amoroso, Elisa, Fabri Fibra, Dardust, Juli e Rkomi. &#8220;Siamo nel periodo delle pri",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/sul-palco-suonero-le-chitarre-di-mio-papa-mi-serviranno-da-scudo-come-mia-madre-anche-lui-mi-ha-insegnato-a-vivere-per-lui-era-fondamentale-fare-gruppo-emma-torna-live-a-rock-in-roma/8434469/",
+      "published": "Tue, 30 Jun 2026 08:58:20 +0000",
       "source": "ilfattoquotidiano.it",
-      "section": "mondo",
+      "section": "crime_italy",
       "priority": 0,
       "categories": [
-        "mondo"
+        "crime_italy"
       ],
       "is_high_priority": false
     },
     {
-      "title": "La cagnolina Tsunami è il simbolo del terremoto in Venezuela: con il suo fiuto ha aiutato a individuare quasi 100 persone sotto le macerie",
-      "summary": "Nel Venezuela ferito dal terremoto, dove le squadre di soccorso continuano a scavare tra cumuli di cemento e acciaio nella speranza di trovare superstiti, c&#8217;è un&#8217;eroina che non indossa una divisa. Ha il manto bianco e nero, un occhio azzurro e uno marrone e risponde al nome di Tsunami. È",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/la-cagnolina-tsunami-e-il-simbolo-del-terremoto-in-venezuela-con-il-suo-fiuto-ha-aiutato-a-individuare-quasi-100-persone-sotto-le-macerie/8433698/",
-      "published": "Mon, 29 Jun 2026 14:40:41 +0000",
+      "title": "Un’esplosione, poi la voragine fumante con acqua che bolliva “vigorosamente”: gli scienziati spiegano cosa è successo al Parco Nazionale di Yellowstone",
+      "summary": "Una nuova esplosione idrotermale si è verificata nel Parco Nazionale di Yellowstone, negli Stati Uniti. È la ABC a segnalarlo mostrando ancora una volta la natura instabile dell&#8217;estesa rete vulcanica della riserva situata nello stato del Wyoming. Il 13 giugno scorso una piccola esplosione idro",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/unesplosione-poi-la-voragine-fumante-con-acqua-che-bolliva-vigorosamente-gli-scienziati-spiegano-cosa-e-successo-al-parco-nazionale-di-yellowstone/8434470/",
+      "published": "Tue, 30 Jun 2026 08:50:46 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "“Non ci servono armi, ma picconi e pale per scavare”: in Venezuela scoppia la rabbia dei soccorritori contro i militari",
-      "summary": "Nello stato di La Guaira i residenti hanno affrontato i militari, esortandoli a partecipare alle operazioni di soccorso in seguito ai terremoti letali che hanno colpito il Venezuela. Di fronte alle critiche della popolazione locale, i soldati hanno imbracciato pale e picconi per aiutare a rimuovere ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/terremoto-venezuela-soccorritori-militari-notizie/8433525/",
-      "published": "Mon, 29 Jun 2026 14:10:39 +0000",
+      "title": "Jeep Avenger, la prova de Il Fatto.it – Molte novità, stesso Dna – FOTO",
+      "summary": "C&#8217;è anche l&#8217;Italia nel piano di espansione europea di Jeep, uno dei quattro marchi globali del gruppo Stellantis, malgrado uno dei futuri modelli (un D-Suv “profondamente Jeep”, garantisce Fabio Catone, capo del marchio per l&#8217;Enlarged Europe) sarà frutto della collaborazione con la",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/jeep-avenger-la-prova-de-il-fatto-it-molte-novita-stesso-dna-foto/8434404/",
+      "published": "Tue, 30 Jun 2026 08:37:56 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Vasco Rossi saluta il tour 2026, 3 milioni di biglietti venduti in cinque edizioni. Si apre l’era del Giubileo del Kom a Roma per celebrare cinquant’anni di carriera: “Una grande festa diffusa”",
+      "summary": "Con le due date sold out, 28 e 29 giugno, al Bluenergy Stadium di Udine Vasco Rossi ha concluso il live 2026. Sono oltre tre milioni di biglietti venduti in cinque edizioni di tour. Tutto è iniziato quest&#8217;anno a Rimini, il 29 e 30 maggio con le note di &#8220;Vado al massimo. Vado a gonfie [&",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/vasco-rossi-saluta-il-tour-2026-con-3-milioni-di-biglietti-venduti-e-apre-lera-del-giubileo-del-blasco-a-roma-per-festeggiare-cinquantanni-di-carriera/8434411/",
+      "published": "Tue, 30 Jun 2026 08:35:36 +0000",
       "source": "ilfattoquotidiano.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Pompei, in scooter affiancano un anziano ciclista e lo fanno cadere: aperta un’inchiesta | Video",
-      "summary": "In due su uno scooter affiancano un anziano signore in sella alla sua bicicletta. Il passeggero della moto allunga il braccio e fa cadere il ciclista che sbatte contro le auto posteggiate e crolla a terra contro l&#8217;asfalto, rimanendo ferito. È il contenuto di un video delle telecamere della zon",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/29/pompei-in-scooter-affiancano-un-anziano-ciclista-e-lo-fanno-cadere-aperta-uninchiesta/8433704/",
-      "published": "Mon, 29 Jun 2026 13:45:31 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Patente sospesa per un anno al deputato Emanuele Pozzolo dopo incidente del 2 giugno",
-      "summary": "Sospensione della patente di guida per un anno a carico di Emanuele Pozzolo, il parlamentare che a inizio giugno, sulla superstrada Biella-Cossato, era finito fuori strada autonomamente con la sua...",
-      "link": "https://www.ilsole24ore.com/art/patente-sospesa-un-anno-parlamentare-pozzolo-l-incidente-scorso-2-giugno-AIMirBwD",
-      "published": "Mon, 29 Jun 2026 19:44:00 GMT",
+      "title": "Istat: crescita zero dei prezzi a giugno, inflazione cala al 3%",
+      "summary": "Francia, a giugno inflazione all’1,8% per «un forte rallentamento dei prezzi dell’energia, in particolare dei prodotti petroliferi»",
+      "link": "https://www.ilsole24ore.com/art/francia-giugno-inflazione-frena-all-18percento-anno-AIGOVRwD",
+      "published": "Tue, 30 Jun 2026 07:46:00 GMT",
       "source": "ilsole24ore.com",
-      "section": "mondo",
+      "section": "italia",
       "priority": 0,
       "categories": [
-        "mondo"
+        "economia"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Meloni sul Quirinale: «Si può superare tabù di un presidente non di centrosinistra»",
-      "summary": "«Non sono antiamericana oggi, non mi ero inginocchiata ieri. Sono una persona che crede che l’Occidente sia più forte unito, che crede che l’Italia sia più forte in un Occidente...",
-      "link": "https://www.ilsole24ore.com/art/meloni-ne-antiamericana-ne-inginocchiata-credo-nell-occidente-unito-AIcKW2vD",
-      "published": "Mon, 29 Jun 2026 17:57:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Commissione Covid, Bignami (FdI) si dimette: esempio per Conte",
-      "summary": "Dimissionario per essere audito. È la mossa del capogruppo di Fratelli d’Italia alla Camera dei deputati, Galeazzo Bignami, nella commissione Covid con cui chiama in causa il leader di M5S...",
-      "link": "https://www.ilsole24ore.com/art/commissione-covid-bignami-fdi-si-dimette-esempio-conte-AIUkGzvD",
-      "published": "Mon, 29 Jun 2026 17:22:00 GMT",
+      "title": "Fisco, luglio di fuoco con 135 scadenze. C’è anche la rottamazione",
+      "summary": "Tour de force prima della pausa di agosto. Chiamata alla cassa per le partite Iva che hanno potuto usufruire della proroga. Il mese si chiuderà con la richiesta dei rimborsi con modello TR",
+      "link": "https://www.ilsole24ore.com/art/fisco-luglio-fuoco-135-scadenze-c-e-anche-rottamazione-AIwwIyvD",
+      "published": "Tue, 30 Jun 2026 07:36:00 GMT",
       "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
@@ -737,10 +806,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Mortalità estiva giù rispetto al 2015-2019 ma rischio alto",
-      "summary": "Giovedì scorso il ministero della Salute ha convocato il Sistema di Sorveglianza della Mortalità Giornaliera (Sismg), coordinato dalla direttrice del dipartimento di Epidemiologia dell’Asl 1 della Regione Lazio, Paola Michelozzi,...",
-      "link": "https://www.ilsole24ore.com/art/mortalita-estiva-giu-rispetto-2015-2019-ma-rischio-alto-AIGA9RuD",
-      "published": "Mon, 29 Jun 2026 14:20:00 GMT",
+      "title": "Ddl Caccia, inizia l’esame del Colle: nel mirino la deregulation per i cacciatori. Il faro della Ue",
+      "summary": "Comincia oggi l’esame della legge alla Commissione Agricoltura della Camera. Barricate di opposizione e ambientalisti. Gli agricoltori invece difendono il provvedimento",
+      "link": "https://www.ilsole24ore.com/art/ddl-caccia-inizia-l-esame-colle-mirino-deregulation-i-cacciatori-faro-ue-AIMDLovD",
+      "published": "Tue, 30 Jun 2026 05:48:12 GMT",
       "source": "ilsole24ore.com",
       "section": "mondo",
       "priority": 0,
@@ -750,36 +819,23 @@
       "is_high_priority": false
     },
     {
-      "title": "Dal calcolo per articolo ai rimborsi: le istruzioni dell’Ue sul dazio da 3 euro sui mini-pacchi",
-      "summary": "Pochi giorni fa, inoltre, l’Agenzia delle Dogane e dei Monopoli ha pubblicato una circolare con gli ade",
-      "link": "https://www.ilsole24ore.com/art/dal-calcolo-articolo-rimborsi-istruzioni-dell-ue-dazio-3-euro-mini-pacchi-AIAzZwuD",
-      "published": "Mon, 29 Jun 2026 11:46:02 GMT",
-      "source": "ilsole24ore.com",
+      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+      "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 03:53:48 GMT",
+      "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
         "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Serve una mobilitazione per sostenere le imprese, tra burocrazia e innovazione",
-      "summary": "Subito una “mobilitazione generale“ affinché si creino i presupposti per far sì che gli imprenditori possano fare il loro mestiere giacché a causa di burocrazia e lungaggini è forte «la...",
-      "link": "https://www.ilsole24ore.com/art/serve-mobilitazione-sostenere-imprese-burocrazia-e-innovazione-AImj1WvD",
-      "published": "Mon, 29 Jun 2026 09:51:00 GMT",
-      "source": "ilsole24ore.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
       "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "summary": "In devastated areas people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
       "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 20:00:44 GMT",
+      "published": "Tue, 30 Jun 2026 04:21:58 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -789,23 +845,23 @@
       "is_high_priority": false
     },
     {
-      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-      "summary": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.",
-      "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 07:51:05 GMT",
+      "title": "Heavy security in South Africa as anti-migrant protesters take to the streets",
+      "summary": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 10:14:57 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "mondo"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
     {
-      "title": "Trump's final appeal of E Jean Carroll sex abuse case rejected",
-      "summary": "The Supreme Court decision means the US president will now have to pay Carroll the $5m (£3.6m) in damages she had been awarded.",
-      "link": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 15:30:35 GMT",
+      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+      "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
+      "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 20:34:52 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -825,19 +881,6 @@
       "categories": [
         "leader",
         "ucraina-russia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "South African leader warns anti-migrant protesters ahead of unofficial deadline",
-      "summary": "Thousands of people from other African countries have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 19:16:34 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -907,10 +950,23 @@
       "is_high_priority": false
     },
     {
-      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-      "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 00:06:19 GMT",
+      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
+      "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 21:19:28 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
+      "summary": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes.",
+      "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 07:51:05 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -921,7 +977,7 @@
     },
     {
       "title": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
-      "summary": "Rescuers armed with a range of techniques continue to dig through the rubble in Venezuela.",
+      "summary": "Teams armed with a range of techniques continue to dig through the rubble in Venezuela.",
       "link": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 29 Jun 2026 20:17:26 GMT",
       "source": "bbc.com",
@@ -946,62 +1002,10 @@
       "is_high_priority": false
     },
     {
-      "title": "'Hoping beyond hope': Rescue efforts continue at collapsed La Guaira building",
+      "title": "Rescuers keep up search for survivors at collapsed La Guaira building",
       "summary": "At least 1,700 people are known to have been killed in the disaster but hope remains that others can continue to be found alive.",
       "link": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 29 Jun 2026 20:22:13 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Anger directed at Venezuela's official response to earthquake recovery",
-      "summary": "Residents in quake-affected areas have expressed anger over the state's efforts to locate survivors and help victims, the BBC's Orla Guerin reports.",
-      "link": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 03:35:09 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
-      "summary": "Survivors of Venezuela's devastating earthquakes are being cared for at a makeshift hospital formed on the site of a country club in Caraballeda.",
-      "link": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 28 Jun 2026 17:32:30 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
-      "summary": "The BBC travelled to a Caracas hospital that is treating people from the worst affected areas.",
-      "link": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 21:33:12 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
-      "summary": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
-      "link": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Jun 2026 18:41:03 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
