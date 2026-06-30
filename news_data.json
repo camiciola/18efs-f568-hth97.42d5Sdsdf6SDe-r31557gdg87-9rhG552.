@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-06-30T18:23:52.443511",
-  "total_news": 72,
+  "last_update": "2026-06-30T23:53:35.699137",
+  "total_news": 73,
   "news": [
     {
       "title": "Incendio area industriale Lamezia, Legambiente Calabria: “Accertare cause rogo e monitorare effetti su ambiente e salute”",
@@ -81,32 +81,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Us Catanzaro, Gorgone verso la panchina giallorossa dopo il dietrofront di Turati",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/sport/us-catanzaro-gorgone-verso-la-panchina-giallorossa-dopo-il-dietrofront-di-turati-b2uotbao",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Economia e Lavoro",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.lacnews24.it/video/economia-e-lavoro",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "economia"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L’Alta Velocità che non c’è mette in dubbio l’utilità delPonte sullo Stretto. E le incognite sul rischio sismico restano",
       "summary": "In attesa di trovare il miliardo mancante alla realizzazione dell’infrastruttura, sarebbe anche il caso (dopo il terremoto in Venezuela) di riaprire il dibattito sulla capacità della mega opera di resistere a un sisma simile. Sul punto le rassicurazioni della Stretto di Messina Spa non hanno mai pie...",
       "link": "https://www.lacnews24.it/politica/lalta-velocita-che-non-ce-mette-in-dubbio-lutilita-del-ponte-sullo-stretto-e-le-incognite-sul-rischio-sismico-restano-jkp6w1rz",
@@ -116,6 +90,19 @@
       "priority": 0,
       "categories": [
         "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Accusati di essere imprenditori di riferimento della 'ndrangheta,assolti i fratelli Berna",
+      "summary": "La Corte d'Appello di Reggio Calabria ribalta la condanna di primo grado e assolve Demetrio e Francesco Berna con la formula \"il fatto non sussiste\"",
+      "link": "https://www.lacnews24.it/cronaca/accusati-di-essere-imprenditori-di-riferimento-della-ndrangheta-assolti-i-fratelli-berna-eun9u8fi",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
       ],
       "is_high_priority": false
     },
@@ -146,11 +133,89 @@
       "is_high_priority": false
     },
     {
+      "title": "Notizie in evidenza",
+      "summary": "A bordo dello yacht \"Boardwalk\", il diplomatico statunitense ha ribadito a presidente delle Regione la volontà di consolidare la partnership con la Calabria attraverso iniziative economiche, culturali e di scambio tra le comunità",
+      "link": "https://www.lacnews24.it/attualita/lambasciatore-usa-fertitta-incontra-occhiuto-calabria-e-stati-uniti-uniti-da-un-rapporto-solido-mclsp20o",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "L'ambasciatore Usa Fertitta incontra Occhiuto: «Calabria e Stati Uniti uniti da un rapporto solido»",
+      "summary": "A bordo dello yacht \"Boardwalk\", il diplomatico statunitense ha ribadito a presidente delle Regione la volontà di consolidare la partnership con la Calabria attraverso iniziative economiche, culturali e di scambio tra le comunità",
+      "link": "https://www.lacnews24.it/attualita/lambasciatore-usa-fertitta-incontra-occhiuto-calabria-e-stati-uniti-uniti-da-un-rapporto-solido-mclsp20o",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Strage di Cutro, condannato a 20 anni di carcere come scafista chiede l’annullamento della sentenza d’Appello",
-      "summary": "Abdessalem Mohamed ha proposto ricorso in Cassazione. Secondo i legali, l'imputato era solo l'«ultima ruota del carro», impiegato per piccole riparazioni al motore dietro promessa di compenso futuro",
+      "summary": "Redazione Cronaca",
       "link": "https://www.lacnews24.it/cronaca/strage-di-cutro-condannato-a-20-anni-di-carcere-come-scafista-chiede-lannullamento-della-sentenza-dappello-bp52hupp",
       "published": "",
       "source": "lacnews24.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Morte sospetta nel carcere di Rossano, domani l’autopsia su Cataldo De Luca. Il legale: «Venerdì stava benissimo»",
+      "summary": "Alessia Truzzolillo",
+      "link": "https://www.lacnews24.it/cronaca/morte-sospetta-nel-carcere-di-rossano-domani-lautopsia-su-cataldo-de-luca-il-legale-venerdi-stava-benissimo-o5wqtzvj",
+      "published": "",
+      "source": "lacnews24.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Francia, decise le DATE delle elezioni presidenziali",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/francia-decise-le-date-delle-elezioni-presidenziali/2107958/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, importante riconoscimento per Tilde Minasi: eletta vicepresidente vicario del gruppo della Lega al Senato",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/reggio-calabria-importante-riconoscimento-per-tilde-minasi-eletta-vicepresidente-vicario-del-gruppo-della-lega-al-senato/2107954/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Messa in sicurezza costone Castello Ruffo, \"Scilla Unita\": \"affluenza in calo a Chianalea, servono risposte sui lavori\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/06/messa-in-sicurezza-costone-castello-ruffo-scilla-unita-affluenza-in-calo-a-chianalea-servono-risposte-sui-lavori/2107931/",
+      "published": "",
+      "source": "strettoweb.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
@@ -250,32 +315,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Italia quarta potenza mondiale dell’export. Tajani celebra il sorpasso sul Giappone: \"dato storico\"",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/italia-quarta-potenza-mondiale-dellexport-tajani-celebra-il-sorpasso-sul-giappone-dato-storico/2107831/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Sicilia, due deputati dell'Ars lasciano il M5S e vanno con La Vardera",
-      "summary": "Clicca per leggere l'articolo completo",
-      "link": "https://www.strettoweb.com/2026/06/sicilia-due-deputati-dellars-lasciano-il-m5s-e-vanno-con-la-vardera/2107810/",
-      "published": "",
-      "source": "strettoweb.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "L'ora in Italia:",
       "summary": "L'ora in Italia:",
       "link": "https://time.is/Italy",
@@ -289,29 +328,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Nuovo ospedale di Catanzaro, Fratelli d’Italia sceglie l’area del Pugliese. E divide il centrodestra…",
-      "summary": "UltimeNuovo ospedale di Catanzaro, Fratelli d’Italia sceglie l’area del Pugliese. E divide il centrodestra…Bastoni indagato per prostituzione minorileCarcere di Rossano, disposto l’esame autoptico per chiarire il giallo sulla morte di Cataldo De LucaStrage di Amendolara, arriva la Commissione parlam...",
-      "link": "https://www.corrieredellacalabria.it/2026/06/30/nuovo-ospedale-di-catanzaro-fratelli-ditalia-sceglie-larea-del-pugliese-e-divide-il-centrodestra/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "la decisioneLa Corte Suprema “contro” Trump, resta lo ius soliRespinte le restrizioni del presidente Usa",
-      "summary": "la decisione",
-      "link": "https://www.corrieredellacalabria.it/2026/06/30/la-corte-suprema-contro-trump-resta-lo-ius-soli/",
+      "title": "dibattito politico ad alta tensioneLegge elettorale, duello a distanza Meloni-VannacciIl leader di Futuro nazionale: la premier dia un segnale sulle preferenze",
+      "summary": "dibattito politico ad alta tensione",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/legge-elettorale-duello-a-distanza-meloni-vannacci/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader",
-        "superpotenze"
+        "leader"
       ],
       "is_high_priority": false
     },
@@ -364,19 +389,6 @@
       "priority": 0,
       "categories": [
         "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Era accusato di maltrattamenti nei confronti dell’ex compagna, assolto un uomo a Vibo Valentiala sentenza",
-      "summary": "la sentenza",
-      "link": "https://www.corrieredellacalabria.it/2026/06/30/era-accusato-di-maltrattamenti-nei-confronti-dellex-compagna-assolto-un-uomo-a-vibo-valentia/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -524,19 +536,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Castrolibero, Perrotti: «Operazione verità. Ma veramente!»la nota",
-      "summary": "la nota",
-      "link": "https://www.corrieredellacalabria.it/2026/06/30/castrolibero-perrotti-operazione-verita-ma-veramente/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "arresti"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Le PMI del Sud guardano al futuro: all’Unical il primo Forum Confapila sfida della competitività",
       "summary": "la sfida della competitività",
       "link": "https://www.corrieredellacalabria.it/2026/06/29/le-pmi-del-sud-guardano-al-futuro-allunical-il-primo-forum-confapi/",
@@ -550,15 +549,28 @@
       "is_high_priority": false
     },
     {
-      "title": "Il Pd che “canta e porta la croce” e la leggerezza degli alleati: l’inestricabile nodo del centrosinistra calabrese“Nei lavori dell’ultima direzione democrat il rilancio della coalizione progressista ma anche la consapevolezza che gli alleati in Calabria ancora arr…30 Giugno, 19:33",
-      "summary": "“Nei lavori dell’ultima direzione democrat il rilancio della coalizione progressista ma anche la consapevolezza che gli alleati in Calabria ancora arr…",
-      "link": "https://www.corrieredellacalabria.it/2026/06/30/il-pd-che-canta-e-porta-la-croce-e-la-leggerezza-degli-alleati-linestricabile-nodo-del-centrosinistra-calabrese/",
+      "title": "Legge elettorale, duello a distanza Meloni-Vannacci“Il leader di Futuro nazionale: la premier dia un segnale sulle preferenze30 Giugno, 23:30",
+      "summary": "“Il leader di Futuro nazionale: la premier dia un segnale sulle preferenze",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/legge-elettorale-duello-a-distanza-meloni-vannacci/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
-      "section": "ndrangheta",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "generico"
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sociologia del territorio, l’Asi in audizione alla Terza Commissione del Consiglio regionale“Luciana De Francesco: l’obiettivo della proposta di legge è rafforzare il sistema dei servizi sociali della Calabria30 Giugno, 22:59",
+      "summary": "“Luciana De Francesco: l’obiettivo della proposta di legge è rafforzare il sistema dei servizi sociali della Calabria",
+      "link": "https://www.corrieredellacalabria.it/2026/06/30/sociologia-del-territorio-lasi-in-audizione-alla-terza-commissione-del-consiglio-regionale/",
+      "published": "",
+      "source": "corrieredellacalabria.it-cronaca",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "politica"
       ],
       "is_high_priority": false
     },
@@ -572,6 +584,45 @@
       "priority": 0,
       "categories": [
         "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Sicilia, primo tavolo del campo largo per le Regionali. Intanto due deputati M5s passano con La Vardera: “Nessuno strappo, ma ci ignorano”",
+      "summary": "&#8220;Nessuno strappo&#8221;, Ismaele La Vardera lo dice subito con decisione. Eppure lunedì, al termine del primo tavolo di coalizione del campo largo, per definire l&#8217;assetto alle prossime Regionali, è arrivata la sberla per il M5s: due deputati regionali, Carlo Gilistro e Josè Marano, sono ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/campo-largo-sicilia-m5s-la-vardera-notizie/8435292/",
+      "published": "Tue, 30 Jun 2026 20:11:19 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Processo “Libro Nero”, assolti in appello Demetrio e Francesco Berna: erano accusati di concorso esterno con la ‘ndrangheta",
+      "summary": "Assolti perché il “fatto non sussiste”. Con questa motivazione sono cadute tutte le accuse nei confronti degli imprenditori di Reggio Calabria Demetrio e Francesco Berna. Il primo, più di 15 anni fa, era ex assessore comunale nella città dello Stretto mentre il secondo era l’ex presidente regionale ",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/processo-libro-nero-berna-assolti-notizie/8435333/",
+      "published": "Tue, 30 Jun 2026 19:58:51 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Bruxelles, sospetta appropriazione indebita di fondi Ue da parte del Rassemblement National: perquisizioni in corso",
+      "summary": "Sono in corso perquisizioni &#8220;in Francia e in altri paesi europei&#8221; per sospetta appropriazione indebita di fondi Ue da parte del gruppo di eurodeputati Identità e Democrazia (Id), di cui &#8211; nella scorsa legislatura &#8211; faceva parte anche il partito di estrema destra francese Rass",
+      "link": "https://www.ilfattoquotidiano.it/2026/06/30/rassemblement-national-perquisizioni-fondi-ue-notizie/8435305/",
+      "published": "Tue, 30 Jun 2026 18:57:45 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -746,63 +797,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Faceva pipì in ufficio e stipava le bottiglie negli armadi: giudice sanzionato in sede disciplinare. “Avevo paura del Covid”",
-      "summary": "Non voleva usare i wc del palazzo di giustizia, temendo di contagiarsi durante la pandemia di Covid. Così, per espletare i suoi bisogni al lavoro, il giudice Giuseppe Artino Innaria si è arrangiato a modo suo: per mesi ha fatto pipì nel suo ufficio al Tribunale di Catania, condiviso con una collega ",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/30/giudice-pipi-ufficio-bottiglie-csm-notizie/8434729/",
-      "published": "Tue, 30 Jun 2026 15:00:09 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Altro colpo per Trump: la Corte Suprema boccia il suo ordine esecutivo che cancellava lo ius soli. Il tycoon: “Congresso approvi una legge per eliminarlo”",
-      "summary": "La Corte Suprema ha bocciato l&#8217;ordine esecutivo con il quale Donald Trump imponeva la fine dello ius soli, la cittadinanza per diritto di nascita. Un duro colpo per il presidente Usa. L&#8217;abolizione di quello che era un principio basilare dell’America dei padri fondatori è stato uno dei ca",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/30/ius-soli-corte-suprema-trump-ordine-esecutivo-notizie/8435024/",
-      "published": "Tue, 30 Jun 2026 14:53:38 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Saldi estivi 2026, al via il 4 luglio: ecco il calendario completo regione per regione e cosa cambia rispetto agli altri anni",
-      "summary": "La stagione degli sconti estivi è pronta a partire e, come ogni anno, segna uno dei momenti più attesi per lo shopping degli italiani. Nel 2026 i saldi inizieranno quasi ovunque il 4 luglio, con alcune eccezioni e differenze legate soprattutto alle province autonome di Trento e Bolzano. La durata va",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/30/saldi-estivi-2026-calendario-inizio-date-regioni-notizie/8435013/",
-      "published": "Tue, 30 Jun 2026 14:49:50 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Conte lascia la Commissione Covid per farsi audire come testimone: per me una mossa certamente politica",
-      "summary": "Si è dichiarato commissario per il M5S. Ha partecipato a pochissime riunioni, fra le quali una a cui ho assistito anch’io, nella quale era palese la sua arroganza, il suo senso distruttivo non costruttivo. Comunque la sua voglia di non rispondere ma di imporre le sue parole e la sua politica dall’al",
-      "link": "https://www.ilfattoquotidiano.it/2026/06/30/commissione-covid-conte-dimissioni-notizie/8434970/",
-      "published": "Tue, 30 Jun 2026 14:47:43 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Supreme Court's birthright ruling is major blow to Trump",
-      "summary": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
-      "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 14:37:54 GMT",
+      "title": "US Supreme Court upholds birthright citizenship in blow to Trump",
+      "summary": "The ruling is a major setback for Donald Trump's immigration agenda, and has been welcomed by civil rights groups. ",
+      "link": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 18:28:41 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -812,10 +810,75 @@
       "is_high_priority": false
     },
     {
-      "title": "US Supreme Court upholds bans on transgender women in female school and college sports",
-      "summary": "Trump called it a \"big win\" but a major LGBT campaign group described the ruling as \"heartbreaking\".",
+      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 22:29:47 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
+      "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 21:30:52 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
+      "summary": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
+      "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 18:37:59 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
+      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
+      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 19:39:29 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Australia sues Amazon for making allegedly unfair contracts with subscribers",
+      "summary": "The Australian Competition and Consumer Commission (ACCC) says Amazon has broken consumer protection law",
+      "link": "https://www.bbc.co.uk/news/articles/c20yz9rzwy0o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 18:59:19 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "US Supreme Court upholds bans on transgender athletes in female school and college sports",
+      "summary": "President Trump called the ruling a \"big win\", while an LGBT group said it was \"heartbreaking\".",
       "link": "https://www.bbc.co.uk/news/articles/cj40x888d9go?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 17:02:39 GMT",
+      "published": "Tue, 30 Jun 2026 21:24:15 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -838,63 +901,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Thousands of anti-migrant protesters march in South Africa amid heavy police presence",
-      "summary": "Foreigners have already left South Africa ahead of the deadline set by anti-migrant groups.",
-      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 17:10:51 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-      "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
-      "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 20:34:52 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
-      "summary": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
-      "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 17:28:59 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader",
-        "ucraina-russia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
-      "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts. ",
-      "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 16:51:52 GMT",
-      "source": "bbc.com",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "leader"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
-      "summary": "The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom. ",
-      "link": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 12:04:30 GMT",
+      "title": "Supreme Court's birthright ruling is major blow to Trump",
+      "summary": "The BBC’s Gary O’Donoghue explains what the court's landmark ruling means for the US president.",
+      "link": "https://www.bbc.co.uk/news/videos/c9w2nprzq5ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 14:37:54 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
