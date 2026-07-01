@@ -1,6 +1,6 @@
 {
-  "last_update": "2026-07-01T18:33:45.437342",
-  "total_news": 69,
+  "last_update": "2026-07-01T23:59:11.042242",
+  "total_news": 76,
   "news": [
     {
       "title": "Accusati di essere 'imprenditori di riferimento' della ‘Ndrangheta, assolti",
@@ -120,19 +120,6 @@
       "is_high_priority": false
     },
     {
-      "title": "Traffico illecito di rifiuti e inquinamento, la Distrettuale chiede ilprocessoper il patron del Cosenza e altri 13 -NOMI",
-      "summary": "L’udienza preliminare a carico di Eugenio Guarascio, sua sorella, un dirigente della regione e funzionari Arpacal avrà inizio il 6 novembre. Secondo l’accusa l’impianto di compostaggio di Vazzano non produceva fertilizzante ma rifiuti pericolosi",
-      "link": "https://www.lacnews24.it/cronaca/traffico-illecito-di-rifiuti-e-inquinamento-la-distrettuale-chiede-il-processo-per-il-patron-del-cosenza-e-altri-13-nomi-iwbe7osc",
-      "published": "",
-      "source": "lacnews24.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Lamezia, la scuola A Regola d'Arte chiude l'anno con due serate tra musica e teatro",
       "summary": "Redazione",
       "link": "https://www.lacnews24.it/lacalabriavisione/eventi/lamezia-la-scuola-a-regola-darte-chiude-lanno-con-due-serate-tra-musica-e-teatro-wmumtqur",
@@ -146,15 +133,15 @@
       "is_high_priority": false
     },
     {
-      "title": "Notizie in evidenza",
-      "summary": "La segreteria provinciale di Sinistra Italiana replica alle dichiarazioni del presidente della Regione Roberto Occhiuto sull'arrivo di UberX in Calabria. Nel mirino la gestione del trasporto pubblico e i collegamenti con l'aeroporto di Lamezia Terme: «La mobilità è un diritto, non un lusso».",
-      "link": "https://www.lacnews24.it/politica/uberx-in-calabria-sinistra-italiana-contro-occhiuto-i-veri-sfigati-sono-i-calabresi-orfani-del-trasporto-pubblico-bi3wgu1y",
+      "title": "Traffico illecito di rifiuti e inquinamento, la Distrettuale chiede il processo per il patron del Cosenza e altri 13 -NOMI",
+      "summary": "L’udienza preliminare a carico di Eugenio Guarascio, sua sorella, un dirigente della regione e funzionari Arpacal avrà inizio il 6 novembre. Secondo l’accusa l’impianto di compostaggio di Vazzano non produceva fertilizzante ma rifiuti pericolosi",
+      "link": "https://www.lacnews24.it/cronaca/traffico-illecito-di-rifiuti-e-inquinamento-la-distrettuale-chiede-il-processo-per-il-patron-del-cosenza-e-altri-13-nomi-iwbe7osc",
       "published": "",
       "source": "lacnews24.it",
-      "section": "italia",
+      "section": "mondo",
       "priority": 0,
       "categories": [
-        "italia"
+        "superpotenze"
       ],
       "is_high_priority": false
     },
@@ -186,7 +173,7 @@
     },
     {
       "title": "Maestrale-Olimpo-Imperium, assolti i fratelli Stillitani, 13 anni al boss Luigi Mancuso: il verdetto per i 183 imputati - NOMI",
-      "summary": "Sono 183 gli imputati finiti a giudizio nell’ambito delle tre operazioni che mirano a colpire i clan del Vibonese. Assolti anche l’avvocato Stilo e il manager dell’Asp Cesare Pasqua",
+      "summary": "Clicca per leggere l'articolo completo",
       "link": "https://www.lacnews24.it/cronaca/maestrale-olimpo-imperium-oggi-la-sentenza-per-il-maxiprocesso-di-vibo-le-richieste-di-pena-per-i-183-imputati-nomi-n146webz",
       "published": "",
       "source": "lacnews24.it",
@@ -194,6 +181,123 @@
       "priority": 0,
       "categories": [
         "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "ACR Messina, a Torrisi va bene anche l'Eccellenza? Spuntano due alternative",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/07/acr-messina-a-torrisi-va-bene-anche-leccellenza-spuntano-due-alternative/2108493/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Rizziconi, favoreggiamento e procurata inosservanza di pena al latitante Crea: assoluzioni e condanne, soddisfazione delle difese",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/07/rizziconi-favoreggiamento-e-procurata-inosservanza-di-pena-al-latitante-crea-assoluzioni-e-condanne-soddisfazione-delle-difese/2108438/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "\"Genocidio in spiaggia\", il reggino Monteleone nel mirino dell'USIGRai: su Gaza non c'è da sindacare... e il sindacato censura",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/07/genocidio-in-spiaggia-il-reggino-monteleone-nel-mirino-dellusigrai-su-gaza-non-ce-da-sindacare-e-il-sindacato-censura/2108340/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Cala l'angoscia sopra Caracas: dopo il terremoto il cielo si tinge di rosso",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/07/cala-langoscia-sopra-caracas-dopo-il-terremoto-il-cielo-si-tinge-di-rosso/2108415/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Lampedusa, la Regione in prima linea in occasione della visita pastorale di Papa Leone XIV",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/07/lampedusa-la-regione-in-prima-linea-in-occasione-della-visita-pastorale-di-papa-leone-xiv/2108413/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "superpotenze"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Punta Pellaro, la risposta al Gruppo Naturalistico Reggino: \"la tutela del litorale deve essere incisiva tutto l’anno”",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/07/punta-pellaro-la-risposta-al-gruppo-naturalistico-reggino-la-tutela-del-litorale-deve-essere-incisiva-tutto-lanno/2108350/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "ndrangheta",
+      "priority": 0,
+      "categories": [
+        "generico"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggio Calabria, altro passo verso il Campus Universitario: la Mediterranea acquisisce il complesso dei Padri Monfortani",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/07/reggio-calabria-altro-passo-verso-il-campus-universitario-la-mediterranea-acquisisce-il-complesso-dei-padri-monfortani/2108322/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Olivicoltura, Rapani: \"dal confronto con il territorio arrivano i primi risultati. Il Governo mantiene gli impegni\"",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/07/olivicoltura-rapani-dal-confronto-con-il-territorio-arrivano-i-primi-risultati-il-governo-mantiene-gli-impegni/2108277/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "politica"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Reggina, nuovi inquietanti dettagli sul saccheggio del Sant'Agata: non è rimasto nulla. Chi ha rubato tutto? La nuova proprietà valuta azioni legali",
+      "summary": "Clicca per leggere l'articolo completo",
+      "link": "https://www.strettoweb.com/2026/07/reggina-nuovi-inquietanti-dettagli-sul-saccheggio-del-santagata-non-e-rimasto-nulla-chi-ha-rubato-tutto-la-nuova-proprieta-valuta-azioni-legali/2108219/",
+      "published": "",
+      "source": "strettoweb.com",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
       ],
       "is_high_priority": false
     },
@@ -211,9 +315,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Figli dei clan, sì unanime della Camera alla legge “Liberi di scegliere”",
-      "summary": "UltimeFigli dei clan, sì unanime della Camera alla legge “Liberi di scegliere”Smart working e controlli sui dipendenti, annullata la sanzione privacy da 50mila euro all’ArsacAsp Catanzaro, roadmap per Case e Ospedali di ComunitàStillitani assolto. I difensori: «Il fatto non sussiste, oggi è stata re...",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/figli-dei-clan-si-unanime-della-camera-alla-legge-liberi-di-scegliere/",
+      "title": "’Ndrangheta sul litorale romano, la Cassazione riapre il caso “Tritone”",
+      "summary": "Ultime’Ndrangheta sul litorale romano, la Cassazione riapre il caso “Tritone”Maestrale, la soddisfazione dell’avvocato Di Renzo: «Oltre il 70% dei miei assistiti assolto»Maestrale, assolto Emanuele Stillitani. La difesa: «Totale estraneità a ogni ipotesi delittuosa»Strada Sila-Mare e Viadotto Ortian...",
+      "link": "https://www.corrieredellacalabria.it/2026/07/02/ndrangheta-sul-litorale-romano-la-cassazione-riapre-il-caso-tritone/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
@@ -237,19 +341,6 @@
       "is_high_priority": false
     },
     {
-      "title": "liberi di scegliereTutelare i minori delle famiglie mafiose, via libera della Camera alla leggeLa proposta è nata a Reggio Calabria",
-      "summary": "liberi di scegliere",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/tutelare-i-minori-delle-famiglie-mafiose-la-proposta-di-legge-nata-a-reggio-calabria-al-vaglio-della-camera/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "politica"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "i datiPer l’81% degli italiani l’Ue è un luogo stabile“Eurobarometro”: il 63% si dichiara ottimista sul futuro dell’Unione",
       "summary": "i dati",
       "link": "https://www.corrieredellacalabria.it/2026/07/01/per-l81-degli-italiani-lue-e-un-luogo-stabile/",
@@ -263,9 +354,22 @@
       "is_high_priority": false
     },
     {
-      "title": "la sentenzaMaestrale, qualche “colpo” ai clan di ‘ndrangheta. Poi tante assoluzioni: si sgonfiano le accuse ai “colletti bianchi”Assolti Pasqua, gli Stillitani e i tre avvocati indagati. Ma condanne pesanti per i clan: i boss Luigi Mancuso e “Peppone” Accorinti, prima pena pesante per Salvatore Ascone",
-      "summary": "la sentenza",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/maestrale-qualche-colpo-ai-clan-di-ndrangheta-poi-tante-assoluzioni-si-sgonfiano-le-accuse-ai-colletti-bianchi/",
+      "title": "le ricercheMarito del ministro Roccella disperso: sommozzatori dalla CalabriaAnche i vigili del fuoco calabresi al lavoro nel lago di Vico nel Viterbese",
+      "summary": "le ricerche",
+      "link": "https://www.corrieredellacalabria.it/2026/07/01/marito-del-ministro-roccella-disperso-sommozzatori-dalla-calabria/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "MAESTRALE’Ndrangheta, il caso Mileto-Paravati: cadono le accuse per i Galati, i Mesiano e “Zi Micu”La Dda aveva chiesto pene fino a 24 anni per figure ritenute centrali nell’articolazione criminale del territorio",
+      "summary": "MAESTRALE",
+      "link": "https://www.corrieredellacalabria.it/2026/07/01/ndrangheta-il-caso-mileto-paravati-cadono-le-accuse-per-i-galati-i-mesiano-e-zi-micu/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "ndrangheta",
@@ -302,6 +406,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Maestrale, assolto Emanuele Stillitani. La difesa: «Totale estraneità a ogni ipotesi delittuosa»IL COMMENTO",
+      "summary": "IL COMMENTO",
+      "link": "https://www.corrieredellacalabria.it/2026/07/01/maestrale-assolto-emanuele-stillitani-la-difesa-totale-estraneita-a-ogni-ipotesi-delittuosa/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Consiglio Federale, ok Cosenza e Crotone. Malagò: «Nessuna squadra esclusa»il verdetto finale",
       "summary": "il verdetto finale",
       "link": "https://www.corrieredellacalabria.it/2026/07/01/consiglio-federale-ok-cosenza-e-crotone-malago-nessuna-squadra-esclusa/",
@@ -315,48 +432,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Sanità territoriale, il Pd Calabria chiede conto a Occhiuto: «Quante sono e come funzioneranno le strutture?»la critica",
-      "summary": "la critica",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/sanita-territoriale-il-pd-calabria-chiede-conto-a-occhiuto-quante-sono-e-come-funzioneranno-le-strutture/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "‘Ndrangheta, confiscati in Toscana villa e terreni da 600mila euro al clan “Tegano-De Stefano”il provvedimento",
-      "summary": "il provvedimento",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/ndrangheta-confiscati-in-toscana-villa-e-terreni-da-600mila-euro-al-clan-tegano-de-stefano/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "ndrangheta",
-      "priority": 0,
-      "categories": [
-        "generico"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Assalto all’Isola 2026, record di iscrizioni da tutta Italia: in 506 per il periplo di Cirella – VIDEO00:31",
       "summary": "00:31",
       "link": "https://www.corrieredellacalabria.it/2026/06/27/assalto-allisola-2026-record-di-iscrizioni-da-tutta-italia-in-506-per-il-periplo-di-cirella-video/",
-      "published": "",
-      "source": "corrieredellacalabria.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "il manifestoSanità, l’Umg tra le 15 università italiane che firmano il Piano per salvare il diritto alle cure",
-      "summary": "il manifesto",
-      "link": "https://www.corrieredellacalabria.it/2026/06/29/sanita-lumg-tra-le-15-universita-italiane-che-firmano-il-piano-per-salvare-il-diritto-alle-cure/",
       "published": "",
       "source": "corrieredellacalabria.it",
       "section": "italia",
@@ -393,6 +471,19 @@
       "is_high_priority": false
     },
     {
+      "title": "Sanità territoriale, il Pd Calabria chiede conto a Occhiuto: «Quante sono e come funzioneranno le strutture?»la critica",
+      "summary": "la critica",
+      "link": "https://www.corrieredellacalabria.it/2026/07/01/sanita-territoriale-il-pd-calabria-chiede-conto-a-occhiuto-quante-sono-e-come-funzioneranno-le-strutture/",
+      "published": "",
+      "source": "corrieredellacalabria.it",
+      "section": "italia",
+      "priority": 0,
+      "categories": [
+        "italia"
+      ],
+      "is_high_priority": false
+    },
+    {
       "title": "Crotone, Salvini si congratula con Cavallo: «La Lega torna in Consiglio comunale»la nota",
       "summary": "la nota",
       "link": "https://www.corrieredellacalabria.it/2026/07/01/crotone-salvini-si-congratula-con-cavallo-la-lega-torna-in-consiglio-comunale/",
@@ -419,35 +510,9 @@
       "is_high_priority": false
     },
     {
-      "title": "Asp Catanzaro, roadmap per Case e Ospedali di Comunità“L’Azienda sanitaria punta sull’attivazione graduale dei servizi territoriali: reclutamento del personale, telemedicina, coinvolgimento dei Comuni, de…01 Luglio, 19:12",
-      "summary": "“L’Azienda sanitaria punta sull’attivazione graduale dei servizi territoriali: reclutamento del personale, telemedicina, coinvolgimento dei Comuni, de…",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/asp-catanzaro-roadmap-per-case-e-ospedali-di-comunita/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Stillitani assolto. I difensori: «Il fatto non sussiste, oggi è stata resa giustizia»“«La sentenza ha riconosciuto l’insussistenza delle imputazioni. Per il nostro assistito è stato un calvario, segnato anche da gravi conseguenze per l…01 Luglio, 19:05",
-      "summary": "“«La sentenza ha riconosciuto l’insussistenza delle imputazioni. Per il nostro assistito è stato un calvario, segnato anche da gravi conseguenze per l…",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/stillitani-assolto-i-difensori-il-fatto-non-sussiste-oggi-e-stata-resa-giustizia/",
-      "published": "",
-      "source": "corrieredellacalabria.it-cronaca",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "Sanità, bilanci sempre in “rosso”. Quasi tutte le aziende chiudono il 2025 con forti perdite“Utile d’esercizio solo per l’Asp di Reggio. Le altre aziende invece segnano un risultato negativo: il “picco” alle Asp di Catanzaro e Cosenza01 Luglio, 18:59",
-      "summary": "“Utile d’esercizio solo per l’Asp di Reggio. Le altre aziende invece segnano un risultato negativo: il “picco” alle Asp di Catanzaro e Cosenza",
-      "link": "https://www.corrieredellacalabria.it/2026/07/01/sanita-bilanci-sempre-in-rosso-quasi-tutte-le-aziende-chiudono-il-2025-con-forti-perdite/",
+      "title": "’Ndrangheta, il caso Mileto-Paravati: cadono le accuse per i Galati, i Mesiano e “Zi Micu”“La Dda aveva chiesto pene fino a 24 anni per figure ritenute centrali nell’articolazione criminale del territorio01 Luglio, 20:34",
+      "summary": "“La Dda aveva chiesto pene fino a 24 anni per figure ritenute centrali nell’articolazione criminale del territorio",
+      "link": "https://www.corrieredellacalabria.it/2026/07/01/ndrangheta-il-caso-mileto-paravati-cadono-le-accuse-per-i-galati-i-mesiano-e-zi-micu/",
       "published": "",
       "source": "corrieredellacalabria.it-cronaca",
       "section": "ndrangheta",
@@ -467,6 +532,45 @@
       "priority": 0,
       "categories": [
         "economia"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "La protesta dei procuratori minorili contro Nordio: “Ai nostri uffici assegnati solo 29 tecnici su 7.631”",
+      "summary": "Via Arenula distribuisce 7.631 tecnici tra gli uffici giudiziari di tutta Italia, ma alle 29 procure per i minorenni ne arrivano soltanto 29, peraltro concentrati in 7 sedi. A denunciarlo sono 26 procuratori presso i Tribunali per i minorenni che dopo l&#8217;assegnazione di tecnici amministrativi e",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/01/la-protesta-dei-procuratori-minorili-contro-nordio-ai-nostri-uffici-assegnati-solo-29-tecnici-su-7-631/8436609/",
+      "published": "Wed, 01 Jul 2026 20:02:20 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "crime_italy",
+      "priority": 0,
+      "categories": [
+        "crime_italy"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Terremoto in Venezuela, quasi 2300 morti: si scava ancora sotto la pioggia mentre i ruderi diventano preda degli sciacalli",
+      "summary": "Quasi 2300 morti, 2295 secondo l&#8217;ultimo bilancio, e una popolazione allo stremo tra le piogge e gli sciacalli che da giorni razziano tutto ciò che trovano nei ruderi delle abitazioni. In Venezuela si continua a scavare dopo il violento terremoto che ha colpito il paese, distruggendo la zona co",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/01/terremoto-venezuela-morti-scavi-pioggia-sciacalli/8436576/",
+      "published": "Wed, 01 Jul 2026 19:40:20 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Dall’Aquila al Venezuela, la vita sotto le macerie di “El Topo” Cinfuegos con la kefiah al collo: “Scavo anche oggi che è il mio compleanno”",
+      "summary": "Si chiama Carlos Cienfuegos Morales e il suo 64esimo compleanno lo ha passato sotto le macerie a Caracas. Folta barba bianca, berretto sotto il caschetto d’ordinanza e kefiah al collo, i suoi abiti sono perennemente impolverati. Chi lo conosce ha difficoltà a ricordare quella volta in cui non avesse",
+      "link": "https://www.ilfattoquotidiano.it/2026/07/01/carlos-cienfuegos-morales-terremoto-venezuela-laquila-chi-e-video/8436560/",
+      "published": "Wed, 01 Jul 2026 19:00:07 +0000",
+      "source": "ilfattoquotidiano.it",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -641,45 +745,6 @@
       "is_high_priority": false
     },
     {
-      "title": "“Vendere lettere private, che riportano aspetti così intimi di un giovane uomo,  è un’assoluta mancanza di rispetto e di sensibilità”: la vedova di Lucio Battisti contrariata",
-      "summary": "Grazia Letizia Veronese, vedova di Lucio Battisti, ha diffuso ai media una lettera aperta, tramite l&#8217;avvocata Donata De Nittis, &#8220;rivolta al soggetto che nei giorni scorsi ha ceduto alla Casa d&#8217;Aste Finarte di Roma, affinché vengano aggiudicate al miglior offerente, alcune lettere s",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/01/vendere-lettere-private-che-riportano-aspetti-cosi-intimi-di-un-giovane-uomo-e-unassoluta-mancanza-di-rispetto-e-di-sensibilita-la-vedova-di-lucio-battisti-contrariata/8436284/",
-      "published": "Wed, 01 Jul 2026 15:13:59 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "italia",
-      "priority": 0,
-      "categories": [
-        "italia"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Le persone sono spaventate perché c’è troppo pessimismo e poca follia, e per fare figli bisogna essere un po’ folli. Costano, sono un impegno importante”: così Michelle Hunziker",
-      "summary": "Perché si fanno così pochi figli in Italia? È una delle domande a cui si cerca di rispondere nell&#8217;ultimo episodio del podcast “The Italian Dream”. Ospite Michelle Hunziker, che affronta la spinosa questione mettendo a confronto la situazione italiana con quella nordeuropea. “È un gran peccato”",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/01/le-persone-sono-spaventate-perche-ce-troppo-pessimismo-e-poca-follia-e-per-fare-figli-bisogna-essere-un-po-folli-costano-sono-un-impegno-importante-cosi-michelle-hunziker/8436080/",
-      "published": "Wed, 01 Jul 2026 15:00:32 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "mondo"
-      ],
-      "is_high_priority": false
-    },
-    {
-      "title": "“Mia figlia Nicole morì a 18 anni investita da un ubriaco. Per ricordarla trasformammo una piscina in un giardino delle farfalle, così è nato il Nikki Beach”: la storia di Lucia Penrod",
-      "summary": "Ci sono luoghi che sembrano nati per rendere legittimo l’eccesso. Montecarlo è uno di questi: una città-Stato grande poco più di un quartiere, ma abbastanza ricca da trasformare il parcheggio di una supercar in una scena sociale, il Gran Premio di Formula 1 in un rito mondano e un calice a bordo pis",
-      "link": "https://www.ilfattoquotidiano.it/2026/07/01/mia-figlia-nicole-mori-a-18-anni-investita-da-un-ubriaco-per-ricordarla-trasformammo-una-piscina-in-un-giardino-delle-farfalle-cosi-e-nato-il-nikki-beach-la-storia-di-lucia-penrod/8423059/",
-      "published": "Wed, 01 Jul 2026 14:47:29 +0000",
-      "source": "ilfattoquotidiano.it",
-      "section": "mondo",
-      "priority": 0,
-      "categories": [
-        "superpotenze"
-      ],
-      "is_high_priority": false
-    },
-    {
       "title": "Salvini frena su Meloni al Quirinale: «La vedo bene come premier nell’autunno 2027»",
       "summary": "La Lega aziona il doppio freno a mano: su Giorgia Meloni al Quirinale e sulle preferenze. Ma sulla legge elettorale Fdi non si arrende e confida ancora in una mediazione,...",
       "link": "https://www.ilsole24ore.com/art/salvini-frena-meloni-quirinale-la-vedo-bene-come-premier-nell-autunno-2027-AIXcXzxD",
@@ -785,15 +850,28 @@
       "is_high_priority": false
     },
     {
-      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
-      "summary": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
-      "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 15:48:02 GMT",
+      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+      "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+      "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 21:27:04 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "leader"
+        "mondo"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Nigeria to seek compensation for property abandoned by citizens fleeing South Africa",
+      "summary": "Nigeria's High Commissioner says businesses and properties left behind by returnees are being documented.",
+      "link": "https://www.bbc.co.uk/news/articles/c9d2n8elwdlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 17:40:29 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "mondo"
       ],
       "is_high_priority": false
     },
@@ -811,10 +889,10 @@
       "is_high_priority": false
     },
     {
-      "title": "Three die in Mexico City World Cup celebrations",
-      "summary": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
+      "title": "Four die in Mexico City World Cup celebrations",
+      "summary": "More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.",
       "link": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 01 Jul 2026 11:01:12 GMT",
+      "published": "Wed, 01 Jul 2026 20:15:59 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -824,7 +902,20 @@
       "is_high_priority": false
     },
     {
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
+      "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+      "summary": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
+      "link": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 15:48:02 GMT",
+      "source": "bbc.com",
+      "section": "mondo",
+      "priority": 0,
+      "categories": [
+        "leader"
+      ],
+      "is_high_priority": false
+    },
+    {
+      "title": "Two-year-old rescued and taken to hospital six days after Venezuela quake",
       "summary": "Video footage shows rescuers cheering as the child is pulled from rubble in La Guaira state.",
       "link": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 01 Jul 2026 06:03:08 GMT",
@@ -863,10 +954,10 @@
       "is_high_priority": false
     },
     {
-      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
-      "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 22:29:47 GMT",
+      "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
+      "summary": "Official documents show the US president made billions of dollars as he returned to the White House.",
+      "link": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 01 Jul 2026 17:22:25 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
@@ -876,15 +967,15 @@
       "is_high_priority": false
     },
     {
-      "title": "What are US and Japanese soldiers doing in the middle of the Australian bush?",
-      "summary": "The BBC's Katy Watson explains why troops are training in remote Australia, thousands of kilometres from any major conflicts.",
-      "link": "https://www.bbc.co.uk/news/videos/cyv09p2vy87o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 30 Jun 2026 18:37:59 GMT",
+      "title": "US Supreme Court has dealt heavy defeats to Trump, while expanding his power",
+      "summary": "The birthright ruling brings to an end a Supreme Court term that has delivered the president some key victories.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyqeqe8xyo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 30 Jun 2026 22:29:47 GMT",
       "source": "bbc.com",
       "section": "mondo",
       "priority": 0,
       "categories": [
-        "superpotenze"
+        "leader"
       ],
       "is_high_priority": false
     },
